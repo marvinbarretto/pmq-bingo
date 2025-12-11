@@ -1,0 +1,3189 @@
+[
+  {
+    "epobject_id": "29727912",
+    "htype": "10",
+    "gid": "2025-12-03d.979.3",
+    "hpos": "70",
+    "section_id": "0",
+    "subsection_id": "0",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "979",
+    "body": "Prime Minister",
+    "contentcount": "0",
+    "listurl": "/debates/?id=2025-12-03d.979.3",
+    "commentsurl": "/debates/?id=2025-12-03d.979.3"
+  },
+  {
+    "epobject_id": "29727914",
+    "htype": "11",
+    "gid": "2025-12-03d.979.5",
+    "hpos": "72",
+    "section_id": "29727912",
+    "subsection_id": "0",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "979",
+    "person_id": "0",
+    "body": "Engagements",
+    "contentcount": "67",
+    "listurl": "/debates/?id=2025-12-03d.979.5",
+    "commentsurl": "/debates/?id=2025-12-03d.979.5",
+    "speaker": {},
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727915",
+    "htype": "12",
+    "gid": "2025-12-03d.979.6",
+    "hpos": "73",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "979",
+    "person_id": "24963",
+    "body": "<p pid=\"d979.6/1\" qnum=\"906698\">If he will list his official engagements for Wednesday 3 December.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g979.6",
+    "commentsurl": "/debates/?id=2025-12-03d.979.6",
+    "speaker": {
+      "member_id": "42783",
+      "name": "Ian Lavery",
+      "house": "1",
+      "constituency": "Blyth and Ashington",
+      "party": "Labour",
+      "person_id": "24963",
+      "url": "/mp/?p=24963",
+      "office": {},
+      "image": "/people-images/mps/24963.jpg",
+      "desc": "; Blyth and Ashington, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727916",
+    "htype": "12",
+    "gid": "2025-12-03d.979.7",
+    "hpos": "74",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "979",
+    "person_id": "25353",
+    "body": "<p pid=\"d979.7/1\">Our Budget took important measures to tackle the cost of living. That is why we have frozen rail fares and prescription charges, and cut energy bills for every family by &#163;150. Today, we are going further. For too long, parents have been pushed into spending more on infant formula than needed, told they are paying for better quality and left hundreds of pounds out of pocket. I can announce today that we are changing that. We will take action to give parents and carers the confidence to access infant formula at more affordable prices, with clearer guidance for retailers and help for new parents to use loyalty points and vouchers. Together, that will save them up to &#163;500 before their child&#8217;s first birthday. That builds on our action to lift half a million children out of poverty and our action on breakfast clubs, and our child poverty strategy will be published later this week.</p><p pid=\"d979.7/2\">This morning, I had meetings with ministerial colleagues and others. In addition to my duties in this House, I shall have further such meetings later today.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g979.7",
+    "commentsurl": "/debates/?id=2025-12-03d.979.7",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727917",
+    "htype": "12",
+    "gid": "2025-12-03d.979.8",
+    "hpos": "75",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "979",
+    "person_id": "24963",
+    "body": "<p pid=\"d979.8/1\">The north-east is still picking up the pieces of the destruction and decimation of 14 years of Tory government. Men in the north-east of England still expect to live 10 years less than people in other parts of the country. Women in the north-east of England are making, on average, over &#163;11,000 less in wages than people in other parts of the country. In my patch of Blyth and Ashington, 33% of kids are living in poverty, the unemployment rates are above the national average, and wages are below the national average. The people in the north-east are a proud breed, and we deserve much more than this, mind. Can the Prime Minister assure me  and the people in my constituency and in the north-east whether there is much to look forward to on the horizon, and will he meet me to discuss how we can shape it? [Interruption.]</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g979.8",
+    "commentsurl": "/debates/?id=2025-12-03d.979.8",
+    "speaker": {
+      "member_id": "42783",
+      "name": "Ian Lavery",
+      "house": "1",
+      "constituency": "Blyth and Ashington",
+      "party": "Labour",
+      "person_id": "24963",
+      "url": "/mp/?p=24963",
+      "office": {},
+      "image": "/people-images/mps/24963.jpg",
+      "desc": "; Blyth and Ashington, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727918",
+    "htype": "12",
+    "gid": "2025-12-03d.980.0",
+    "hpos": "76",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "25353",
+    "body": "<p pid=\"d980.0/1\">My hon. Friend talks about poverty in his constituency, and the Opposition heckle him. They should be ashamed. It is our moral mission to tackle poverty. We have abolished the two-child cap. That will be over 3,000 children, I think, in his constituency lifted out of poverty. I am very proud to be able to do that. We have boosted the national minimum wage by &#163;1,500, and we are adding the &#163;150 that we are taking off everyone&#8217;s energy bills. We are driving economic growth right across the country, devolving power and investing across all of the country.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.0",
+    "commentsurl": "/debates/?id=2025-12-03d.980.0",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727919",
+    "htype": "12",
+    "gid": "2025-12-03d.980.1",
+    "hpos": "77",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "10295",
+    "body": "<p pid=\"d980.1/1\">We come to the Leader of the Opposition.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.1",
+    "commentsurl": "/debates/?id=2025-12-03d.980.1",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727920",
+    "htype": "12",
+    "gid": "2025-12-03d.980.2",
+    "hpos": "78",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "25693",
+    "body": "<p pid=\"d980.2/1\">Let me first pay tribute to Sir John Stanley, who passed away yesterday. Sir John was a dedicated MP for 41 years, and we send our deepest condolences to his family.</p><p pid=\"d980.2/2\">Does the Prime Minister believe that when an organisation descends into total shambles, the person at the top should resign?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.2",
+    "commentsurl": "/debates/?id=2025-12-03d.980.2",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727921",
+    "htype": "12",
+    "gid": "2025-12-03d.980.3",
+    "hpos": "79",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "25353",
+    "body": "<p pid=\"d980.3/1\">Can I first join the Leader of the Opposition in her comments about Sir John? I am sure I speak for the whole House in that respect.</p><p pid=\"d980.3/2\">I was very proud to lead this party at the Budget last week, where the Chancellor set out that we would protect the NHS, which we have done in the Budget; create the conditions for economic stability, not repeating the mistake of austerity; and bear down on the cost of living by taking &#163;150 off energy bills. We are fixing the mess that the Conservatives left, and I am very proud to be doing so.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.3",
+    "commentsurl": "/debates/?id=2025-12-03d.980.3",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727922",
+    "htype": "12",
+    "gid": "2025-12-03d.980.4",
+    "hpos": "80",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "25693",
+    "body": "<p pid=\"d980.4/1\">The Prime Minister does not want to answer a question about taking responsibility, because he likes to blame everyone except himself, and so does the Chancellor. We now know that the head of the Office for Budget Responsibility was forced out for telling the truth: that the Chancellor did not need to raise taxes on working people. We also know that the Chancellor was briefing the media and twisting the facts&#8212;all so she could break her promises and raise taxes. If she were a CEO, she would have been fired, and she might even have been prosecuted for market abuse. That is why we have written to the Financial Conduct Authority, so will the Prime Minister ensure the Chancellor fully co-operates with any investigation?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.4",
+    "commentsurl": "/debates/?id=2025-12-03d.980.4",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727923",
+    "htype": "12",
+    "gid": "2025-12-03d.980.5",
+    "hpos": "81",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "980",
+    "person_id": "25353",
+    "body": "<p pid=\"d980.5/1\">The right hon. Lady is completely losing the plot. May I pay tribute to Richard Hughes for his leadership of the OBR? He made very clear why he stepped down and I have made very clear my support of the OBR. She says, &#8220;Take responsibility&#8221;. Under this Chancellor: growth is up this year, defeating and beating the forecast; wages are up more since the general election than in 10 years of the Tories; we have had, I think, five interest rate cuts; NHS waiting lists are down; and we have had record investment into this country. We are turning the page on Tory austerity and reckless experiments on borrowing. I will compare our record to theirs any day of the week.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g980.5",
+    "commentsurl": "/debates/?id=2025-12-03d.980.5",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727924",
+    "htype": "12",
+    "gid": "2025-12-03d.981.0",
+    "hpos": "82",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "25693",
+    "body": "<p pid=\"d981.0/1\">The Prime Minister talks about losing the plot. Let me read to him what his own Cabinet Members are saying&#8212;that the handling of the Budget has been</p><p class=\"indent\" pid=\"d981.0/2\" pwmotiontext=\"yes\">&#8220;a disaster from start to finish.&#8221;</p><p pid=\"d981.0/3\">Who said that? Was it him? Was it her? It was probably her, actually&#8212;it was probably the Chancellor! [Laughter.] One of the Prime Minister&#8217;s Ministers said that the Chancellor and the Prime Minister look &#8220;weak and incompetent&#8221;. The country agrees.</p><p pid=\"d981.0/4\">We know that there were endless Treasury briefings to justify raising taxes on hard-working people to pay for benefits and those briefings had real-world consequences. Hundreds of thousands of people drew down their pension, an irreversible act. The Prime Minister pays tribute to the head of the OBR. If the head of the OBR had to resign over market-sensitive leaks, why is the Chancellor still in her job?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.0",
+    "commentsurl": "/debates/?id=2025-12-03d.981.0",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727925",
+    "htype": "12",
+    "gid": "2025-12-03d.981.1",
+    "hpos": "83",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "25353",
+    "body": "<p pid=\"d981.1/1\">Last year, the Conservatives left us with a &#163;22 billion black hole. This year, at the beginning of the process, the OBR did a productivity review on their record in office, and that cost an additional &#163;16 billion that we had to find in the Budget. But notwithstanding that, we have protected the NHS&#8212;waiting times are coming down; notwithstanding that, we have cuts in borrowing at the fastest rate in the G7; notwithstanding that, we have got &#163;150 off energy bills, in addition to rail fare and prescriptions freezes. [Interruption.]</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.1",
+    "commentsurl": "/debates/?id=2025-12-03d.981.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727926",
+    "htype": "12",
+    "gid": "2025-12-03d.981.2",
+    "hpos": "84",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "10295",
+    "body": "<p pid=\"d981.2/1\">Order. Mr Holden, your voice carries more than mine. The difference is that yours will be carrying outside, not in the Chamber.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.2",
+    "commentsurl": "/debates/?id=2025-12-03d.981.2",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727927",
+    "htype": "12",
+    "gid": "2025-12-03d.981.3",
+    "hpos": "85",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "25353",
+    "body": "<p pid=\"d981.3/1\">What the right hon. Lady does not understand is that picking up a &#163;16 billion tab for the Conservatives&#8217; failure is not a good starting point for any Budget. The OBR said yesterday that the Chancellor&#8217;s speech was not misleading, so if the Leader of the Opposition had any decency, she would get up now and apologise. [Interruption.]</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.3",
+    "commentsurl": "/debates/?id=2025-12-03d.981.3",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727928",
+    "htype": "12",
+    "gid": "2025-12-03d.981.4",
+    "hpos": "86",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "10295",
+    "body": "<p pid=\"d981.4/1\">Order. Other Members might be enjoying a cup of tea with Mr Holden if they carry on.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.4",
+    "commentsurl": "/debates/?id=2025-12-03d.981.4",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727929",
+    "htype": "12",
+    "gid": "2025-12-03d.981.5",
+    "hpos": "87",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "25693",
+    "body": "<p pid=\"d981.5/1\">No one believes a word the Prime Minister says. We now know the black hole was fake, the Chancellor&#8217;s book was fake, her CV was fake&#8212;even her chess claims are made up. She does not belong in the Treasury; she belongs in la-la land.</p><p pid=\"d981.5/2\">The Government raised taxes on working people&#8212;that is &#163;16 billion&#8212;to increase benefits to protect them from their Back Benchers. The Prime Minister now boasts about removing the two-child benefit cap, but he used to say that it was unaffordable. He even removed the Whip from seven Labour Members for wanting the same thing. He is very happy to throw them under a bus when it pleases him. I ask the Prime Minister, how did it suddenly become affordable at the very time he needed to save his own skin?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.5",
+    "commentsurl": "/debates/?id=2025-12-03d.981.5",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727930",
+    "htype": "12",
+    "gid": "2025-12-03d.981.6",
+    "hpos": "88",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "981",
+    "person_id": "25353",
+    "body": "<p pid=\"d981.6/1\">The vast majority of the families we helped in the Budget are in work. Three quarters of children in poverty are in working families. The Conservatives&#8217; policy of nearly 10 years on the two-child  benefit cap had one result and one result only: it dragged hundreds of thousands of children into poverty. They should be utterly ashamed of that. I am very proud that we are lifting half a million children out of poverty, because I believe&#8212;I profoundly believe&#8212;that every child should have a chance in life; every child should be able to go as far as their talent will take them. That is why we are lifting half a million out of poverty, but they are the same old Tories: the party of child poverty.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g981.6",
+    "commentsurl": "/debates/?id=2025-12-03d.981.6",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727931",
+    "htype": "12",
+    "gid": "2025-12-03d.982.0",
+    "hpos": "89",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "25693",
+    "body": "<p pid=\"d982.0/1\">If all of this is true, why did the Prime Minister take the Whip away from the people asking for it? Let us remind the Chancellor that exactly a year ago today, on <phrase class=\"date\" code=\"\">3 December 2024</phrase>, she said:</p><p class=\"indent\" pid=\"d982.0/2\" pwmotiontext=\"yes\">&#8220;We will never have to repeat a Budget like this one&#8221;.&#8212;[Official Report, <phrase class=\"date\" code=\"\">3 December 2024</phrase>; Vol. 758, c. 149.]</p><p pid=\"d982.0/3\">If only!</p><p pid=\"d982.0/4\">The Prime Minister may have taken the Whip away then, but the rebels have had the last laugh&#8212;he has lost. He cannot run his own party, let alone the country. Let me quote the hard-left former shadow Chancellor, <phrase class=\"honfriend\" name=\"John Martin McDonnell\" person_id=\"uk.org.publicwhip/person/10383\">the right hon. Member for Hayes and Harlington (John McDonnell)</phrase>. He said: &#8220;We&#8217;ve won.&#8221; He is right, isn&#8217;t he?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.0",
+    "commentsurl": "/debates/?id=2025-12-03d.982.0",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727932",
+    "htype": "12",
+    "gid": "2025-12-03d.982.1",
+    "hpos": "90",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "25353",
+    "body": "<p pid=\"d982.1/1\">I have said repeatedly that bringing down child poverty is a moral mission, a political mission and a personal mission. The Conservatives drove hundreds of thousands of children into poverty&#8212;children who will pay the price for the rest of their lives for the previous Government&#8217;s failure. We are taking half a million children out of poverty, and we are very proud to do so. That is good for children, it is good for the economy and it is good for the NHS, which will have less of a burden on it. The Opposition should be ashamed of what they did on child poverty, and the right hon. Lady should stand up and apologise.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.1",
+    "commentsurl": "/debates/?id=2025-12-03d.982.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727933",
+    "htype": "12",
+    "gid": "2025-12-03d.982.2",
+    "hpos": "91",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "25693",
+    "body": "<p pid=\"d982.2/1\">Let me tell the Prime Minister: making the whole country poorer and destroying jobs is not how to keep children out of poverty. In the past week we have seen broken promises, broken leadership and a broken Budget for &#8220;Benefits Street&#8221;&#8212;[Interruption.] The Education Secretary is chuntering. I ask her, where is the money for the children with special educational needs? Where is it? It is coming out of her budget.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.2",
+    "commentsurl": "/debates/?id=2025-12-03d.982.2",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727934",
+    "htype": "12",
+    "gid": "2025-12-03d.982.3",
+    "hpos": "92",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "24709",
+    "body": "<p class=\"italic\" pid=\"d982.3/1\">indicated dissent.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.3",
+    "commentsurl": "/debates/?id=2025-12-03d.982.3",
+    "speaker": {
+      "member_id": "42782",
+      "name": "Bridget Phillipson",
+      "house": "1",
+      "constituency": "Houghton and Sunderland South",
+      "party": "Labour",
+      "person_id": "24709",
+      "url": "/mp/?p=24709",
+      "office": [
+        {
+          "dept": "",
+          "position": "The Secretary of State for Education",
+          "source": "",
+          "pretty": "The Secretary of State for Education"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        }
+      ],
+      "image": "/people-images/mps/24709.jpg",
+      "desc": "The Secretary of State for Education, Minister for Women and Equalities; Houghton and Sunderland South, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727935",
+    "htype": "12",
+    "gid": "2025-12-03d.982.4",
+    "hpos": "93",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "25693",
+    "body": "<p pid=\"d982.4/1\">She is shaking her head; she does not know where that money is coming from.</p><p pid=\"d982.4/2\">Let us be clear: unemployment is up. There are more children now growing up in workless households because people are losing their jobs. It is not just the head of the OBR who is losing his job; millions of people have been hung out to dry by the Government&#8217;s Budget. Is it not the truth that behind it all is a Prime Minister who only cares about one person&#8217;s job&#8212;his own?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.4",
+    "commentsurl": "/debates/?id=2025-12-03d.982.4",
+    "speaker": {
+      "member_id": "42967",
+      "name": "Kemi Badenoch",
+      "house": "1",
+      "constituency": "North West Essex",
+      "party": "Conservative",
+      "person_id": "25693",
+      "url": "/mp/?p=25693",
+      "office": [
+        {
+          "dept": "",
+          "position": "Minister of State (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Minister of State (Housing, Communities and Local Government)"
+        },
+        {
+          "dept": "",
+          "position": "Minister of State (Foreign, Commonwealth and Development Office)",
+          "source": "",
+          "pretty": "Minister of State (Foreign, Commonwealth and Development Office)"
+        },
+        {
+          "dept": "",
+          "position": "Minister for Women and Equalities",
+          "source": "",
+          "pretty": "Minister for Women and Equalities"
+        },
+        {
+          "dept": "",
+          "position": "Leader of HM Official Opposition",
+          "source": "",
+          "pretty": "Leader of HM Official Opposition"
+        },
+        {
+          "dept": "",
+          "position": "Leader of the Conservative Party",
+          "source": "",
+          "pretty": "Leader of the Conservative Party"
+        }
+      ],
+      "image": "/people-images/mps/25693.jpg",
+      "desc": "Minister of State (Housing, Communities and Local Government), Minister of State (Foreign, Commonwealth and Development Office), Minister for Women and Equalities, Leader of HM Official Opposition, Leader of the Conservative Party; North West Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727936",
+    "htype": "12",
+    "gid": "2025-12-03d.982.5",
+    "hpos": "94",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "982",
+    "person_id": "25353",
+    "body": "<p pid=\"d982.5/1\">The right hon. Lady wants to put half a million children back into poverty. She thinks the Chancellor should resign because the economy is improving. We are turning the page on her party&#8217;s failure. We are bringing waiting lists down. We are  bringing stability that cuts inflation and interest rates, and we are bringing down bills. We are building a brighter future.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g982.5",
+    "commentsurl": "/debates/?id=2025-12-03d.982.5",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727937",
+    "htype": "12",
+    "gid": "2025-12-03d.983.0",
+    "hpos": "95",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "25447",
+    "body": "<p pid=\"d983.0/1\">Conversations about a new Ireland are deepening, with people from all sorts of backgrounds having serious, hopeful discussions about building something new. Yesterday in Westminster, along with <phrase class=\"honfriend\" name=\"Robin Swann\" person_id=\"uk.org.publicwhip/person/25141\">the hon. Member for South Antrim (Robin Swann)</phrase>, who has a different view to me, we hosted two of the island&#8217;s most respected journalists, making the case both for and against Irish unity. While both positions were argued, clear voice was that the time for careful preparation is now. Does the Prime Minister agree that, although there is much work to do before any referendum, in order to avoid a mess like Brexit, it is prudent and completely compatible with the Good Friday agreement for the Irish and British Governments to jointly prepare for constitutional change?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.0",
+    "commentsurl": "/debates/?id=2025-12-03d.983.0",
+    "speaker": {
+      "member_id": "43326",
+      "name": "Claire Hanna",
+      "house": "1",
+      "constituency": "Belfast South and Mid Down",
+      "party": "Social Democratic and Labour Party",
+      "person_id": "25447",
+      "url": "/mp/?p=25447",
+      "office": {},
+      "image": "/people-images/mps/25447.jpg",
+      "desc": "; Belfast South and Mid Down, Social Democratic and Labour Party"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727938",
+    "htype": "12",
+    "gid": "2025-12-03d.983.1",
+    "hpos": "96",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "25353",
+    "body": "<p pid=\"d983.1/1\">One of the greatest achievements of the last Labour Government was the Belfast/Good Friday agreement. We fully support that agreement, which brought peace and stability for Northern Ireland. As the hon. Member well knows, it sets out a process for future decisions, which under the agreement I support. We are focused on working constructively with the Executive and others on all issues, including the record settlement for Northern Ireland under the Budget.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.1",
+    "commentsurl": "/debates/?id=2025-12-03d.983.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727939",
+    "htype": "12",
+    "gid": "2025-12-03d.983.2",
+    "hpos": "97",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "10295",
+    "body": "<p pid=\"d983.2/1\">I call the leader of the Liberal Democrats.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.2",
+    "commentsurl": "/debates/?id=2025-12-03d.983.2",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727940",
+    "htype": "12",
+    "gid": "2025-12-03d.983.3",
+    "hpos": "98",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "10155",
+    "body": "<p pid=\"d983.3/1\">I join the Leader of the Opposition in paying tribute to Sir John Stanley, and send our condolences to his family. I had the huge pleasure of working with him over a number of years on developing the relationship between our country and Korea, and he was always a true gentleman.</p><p pid=\"d983.3/2\">Yesterday, I was in Royal Tunbridge Wells, where tens of thousands of people have had no water for five days. This is now a public health emergency and, shockingly, it is the second time in just three years that South East Water has badly let down the people of Tunbridge Wells. Parents are queuing up for bottled water for their kids; pensioners are relying on neighbours to fetch water for them; businesses have closed down; and schools and GPs have been forced to shut. South East Water said that it would be sorted on Monday, and then again yesterday, but today it has still not been sorted. Will the Prime Minister convene Cobra? Does he agree that it is time for him to get a grip of this crisis so that it is sorted?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.3",
+    "commentsurl": "/debates/?id=2025-12-03d.983.3",
+    "speaker": {
+      "member_id": "42801",
+      "name": "Edward Davey",
+      "house": "1",
+      "constituency": "Kingston and Surbiton",
+      "party": "Liberal Democrat",
+      "person_id": "10155",
+      "url": "/mp/?p=10155",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Liberal Democrats",
+          "source": "",
+          "pretty": "Leader of the Liberal Democrats"
+        }
+      ],
+      "image": "/people-images/mps/10155.jpg",
+      "desc": "Leader of the Liberal Democrats; Kingston and Surbiton, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727941",
+    "htype": "12",
+    "gid": "2025-12-03d.983.4",
+    "hpos": "99",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "25353",
+    "body": "<p pid=\"d983.4/1\">I thank the right hon. Gentleman for raising this really important issue. It is shocking, for all the reasons that he set out. I too have heard South East Water say&#8212;Sunday into Monday, Monday into Tuesday, and Tuesday into Wednesday&#8212;that it was sorting the situation, and still it has not been sorted. There are really serious consequences. We are bearing down on it, as he would expect, because this is such a serious issue.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.4",
+    "commentsurl": "/debates/?id=2025-12-03d.983.4",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727942",
+    "htype": "12",
+    "gid": "2025-12-03d.983.5",
+    "hpos": "100",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "983",
+    "person_id": "10155",
+    "body": "<p pid=\"d983.5/1\">I am grateful for the Prime Minister&#8217;s reply and for the actions of the Water Minister, <phrase class=\"honfriend\" name=\"Emma Hardy\" person_id=\"uk.org.publicwhip/person/25646\">the hon. Member for Kingston upon Hull West and Haltemprice  (Emma Hardy)</phrase>, but I do think the Government will need to do more, because South East Water has failed so badly.</p><p pid=\"d983.5/2\">Turning now to the Budget, the Prime Minister&#8217;s chief economic adviser has recommended a customs union with the EU as one of the most effective ways of generating growth, and we Liberal Democrats agree. Instead of hitting people with higher taxes in the middle of a cost of living crisis, will the Prime Minister change course in economic policy and listen to the wise economic advice from his own economic adviser?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g983.5",
+    "commentsurl": "/debates/?id=2025-12-03d.983.5",
+    "speaker": {
+      "member_id": "42801",
+      "name": "Edward Davey",
+      "house": "1",
+      "constituency": "Kingston and Surbiton",
+      "party": "Liberal Democrat",
+      "person_id": "10155",
+      "url": "/mp/?p=10155",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Liberal Democrats",
+          "source": "",
+          "pretty": "Leader of the Liberal Democrats"
+        }
+      ],
+      "image": "/people-images/mps/10155.jpg",
+      "desc": "Leader of the Liberal Democrats; Kingston and Surbiton, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727943",
+    "htype": "12",
+    "gid": "2025-12-03d.984.0",
+    "hpos": "101",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "984",
+    "person_id": "25353",
+    "body": "<p pid=\"d984.0/1\">We are getting closer relationships with the EU on a number of fronts, including trade and the economy, because that is good for businesses across our country, and it has been welcomed by them. We will continue down that path, but we have clear red lines on the single market and the customs union; within those constraints, we will move closer.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g984.0",
+    "commentsurl": "/debates/?id=2025-12-03d.984.0",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727944",
+    "htype": "12",
+    "gid": "2025-12-03d.984.1",
+    "hpos": "102",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "984",
+    "person_id": "26515",
+    "body": "<p pid=\"d984.1/1\" qnum=\"906699\">Gambling addiction is a serious public health harm, causing ill health and misery for millions of people in this country. The industry now spends &#163;2 billion a year on advertising, often targeting vulnerable people and exposing our children to harm. Like many Members across the House, I very much welcome the Chancellor&#8217;s announcement last week to tax harmful online gambling products. Does the Prime Minister agree that to continue this essential work, we must now act to tackle harmful gambling advertising to protect the health of our children?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g984.1",
+    "commentsurl": "/debates/?id=2025-12-03d.984.1",
+    "speaker": {
+      "member_id": "43205",
+      "name": "Beccy Cooper",
+      "house": "1",
+      "constituency": "Worthing West",
+      "party": "Labour",
+      "person_id": "26515",
+      "url": "/mp/?p=26515",
+      "office": {},
+      "image": "/people-images/mps/26515.jpg",
+      "desc": "; Worthing West, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727945",
+    "htype": "12",
+    "gid": "2025-12-03d.984.2",
+    "hpos": "103",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "984",
+    "person_id": "25353",
+    "body": "<p pid=\"d984.2/1\">My hon. Friend is right that harm from online gambling has surged&#8212;NHS referrals are up 91% in the past year. The decisions we made in the Budget mean investment in public services and lifting more than half a million children out of poverty, but we are working with industry to ensure that adverts do not exacerbate harm and, through our &#163;26 million investment, helping the Gambling Commission to crack down on black market sites and illegal adverts to keep players safe.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g984.2",
+    "commentsurl": "/debates/?id=2025-12-03d.984.2",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727946",
+    "htype": "12",
+    "gid": "2025-12-03d.984.3",
+    "hpos": "104",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "984",
+    "person_id": "25808",
+    "body": "<p pid=\"d984.3/1\" qnum=\"906704\">In 2020, the Justice Secretary said:</p><p class=\"indent\" pid=\"d984.3/2\" pwmotiontext=\"yes\">&#8220;Criminal trials without juries are a bad idea&#8221;,</p><p pid=\"d984.3/3\">and the Prime Minister himself has said that there should be</p><p class=\"indent\" pid=\"d984.3/4\" pwmotiontext=\"yes\">&#8220;a right of trial by jury in all criminal cases&#8221;,</p><p pid=\"d984.3/5\">but now they want to scrap trials by jury. With a Chancellor who cannot count and a Justice Secretary who has lost count of the number of people he has let out of prison, is it any wonder that the people of this country cannot ever again trust a single word this Prime Minister or Government say?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g984.3",
+    "commentsurl": "/debates/?id=2025-12-03d.984.3",
+    "speaker": {
+      "member_id": "43100",
+      "name": "Paul Holmes",
+      "house": "1",
+      "constituency": "Hamble Valley",
+      "party": "Conservative",
+      "person_id": "25808",
+      "url": "/mp/?p=25808",
+      "office": [
+        {
+          "dept": "",
+          "position": "Opposition Whip (Commons)",
+          "source": "",
+          "pretty": "Opposition Whip (Commons)"
+        },
+        {
+          "dept": "",
+          "position": "Shadow Parliamentary Under Secretary (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Shadow Parliamentary Under Secretary (Housing, Communities and Local Government)"
+        }
+      ],
+      "image": "/people-images/mps/25808.jpg",
+      "desc": "Opposition Whip (Commons), Shadow Parliamentary Under Secretary (Housing, Communities and Local Government); Hamble Valley, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727947",
+    "htype": "12",
+    "gid": "2025-12-03d.984.4",
+    "hpos": "105",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "984",
+    "person_id": "25353",
+    "body": "<p pid=\"d984.4/1\">The Conservatives left a broken criminal justice system in which victims of rape and serious sexual violence wait three or four years for trial. Only this week I have heard further examples of 14-year-old and 16-year-old girls having to give evidence four years after the allegation. That is not justice for them, and I am determined that we will deal with that. As the hon. Gentleman well knows, of all criminal cases going to court, 90% have always been in the magistrates court and 10% go to the Crown court. Of that 10%, 7% of  defendants plead guilty, which means that 3% of all criminal cases go forward for a jury trial&#8212;not all our cases. We are making sensible changes to ensure that victims get justice, which was denied to them under the failure left by the Conservatives.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g984.4",
+    "commentsurl": "/debates/?id=2025-12-03d.984.4",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727948",
+    "htype": "12",
+    "gid": "2025-12-03d.985.0",
+    "hpos": "106",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "985",
+    "person_id": "26478",
+    "body": "<p pid=\"d985.0/1\" qnum=\"906700\">I am really pleased to hear many constituents tell me how much local NHS services have improved since this Labour Government entered office, but some, such as David Wootton from Atherstone, have faced long delays. He was told that he would have to wait five months for X-ray results from George Eliot hospital&#8212;and he is not the only one. My constituents deserve better. Will the Prime Minister set out how he will go further and faster to get our NHS fighting fit again?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g985.0",
+    "commentsurl": "/debates/?id=2025-12-03d.985.0",
+    "speaker": {
+      "member_id": "43125",
+      "name": "Rachel Taylor",
+      "house": "1",
+      "constituency": "North Warwickshire and Bedworth",
+      "party": "Labour",
+      "person_id": "26478",
+      "url": "/mp/?p=26478",
+      "office": {},
+      "image": "/people-images/mps/26478.jpg",
+      "desc": "; North Warwickshire and Bedworth, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727949",
+    "htype": "12",
+    "gid": "2025-12-03d.985.1",
+    "hpos": "107",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "985",
+    "person_id": "25353",
+    "body": "<p pid=\"d985.1/1\">First, I am sorry to hear that her constituent David is waiting. We took decisions at the Budget to invest in the NHS and tackle waiting lists, which was to help people such as David. We delivered &#163;29 billion extra investment into the NHS and scrapped NHS England to invest in the frontline. We are opening 250 neighbourhood health centres to treat patients closer to home, and we have more than 5 million extra appointments being delivered. Waiting lists are down 230,000&#8212;[Interruption.] Conservative Members are chuntering, but they absolutely destroyed our health service&#8212;we are picking it up. They should be ashamed of themselves.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g985.1",
+    "commentsurl": "/debates/?id=2025-12-03d.985.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727950",
+    "htype": "12",
+    "gid": "2025-12-03d.985.2",
+    "hpos": "108",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "985",
+    "person_id": "25904",
+    "body": "<p pid=\"d985.2/1\" qnum=\"906706\">My constituent Claire runs Claire Howard Jewellery in Fakenham, and she is one of many small business owners who contacted me after the Budget last week. She was absolutely incensed by the style of the Chancellor, who seemed to give the impression that she was reducing taxes on small businesses when the exact opposite is the case. The tax on Claire&#8217;s shop is going up, not coming down. Could the Prime Minister do Claire and many other shop owners the common courtesy of just admitting that their taxes are going up and not down?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g985.2",
+    "commentsurl": "/debates/?id=2025-12-03d.985.2",
+    "speaker": {
+      "member_id": "43130",
+      "name": "Jerome Mayhew",
+      "house": "1",
+      "constituency": "Broadland and Fakenham",
+      "party": "Conservative",
+      "person_id": "25904",
+      "url": "/mp/?p=25904",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Minister (Transport)",
+          "source": "",
+          "pretty": "Shadow Minister (Transport)"
+        },
+        {
+          "dept": "",
+          "position": "Opposition Whip (Commons)",
+          "source": "",
+          "pretty": "Opposition Whip (Commons)"
+        }
+      ],
+      "image": "/people-images/mps/25904.jpg",
+      "desc": "Shadow Minister (Transport), Opposition Whip (Commons); Broadland and Fakenham, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727951",
+    "htype": "12",
+    "gid": "2025-12-03d.985.3",
+    "hpos": "109",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "985",
+    "person_id": "25353",
+    "body": "<p pid=\"d985.3/1\">The hon. Gentleman raises an important point; let me address it. At the heart of this issue is that temporary business rate relief was put in by the last Government during the pandemic. That was the right thing to do, and we supported it, but it was temporary relief. That is now coming to an end, and obviously there is a revaluation that goes with it. What we are doing is permanently lowering the rates for leisure, retail and hospitality, but because of the changes, we are putting in &#163;4 billion of transitional relief. That means there will be a cap on increases for small businesses, and we are finding that by adjusting the burden between them and the online giants. It is the temporary business rates coming to an end that we have to adjust through this policy.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g985.3",
+    "commentsurl": "/debates/?id=2025-12-03d.985.3",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727952",
+    "htype": "12",
+    "gid": "2025-12-03d.985.4",
+    "hpos": "110",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "985",
+    "person_id": "26381",
+    "body": "<p pid=\"d985.4/1\" qnum=\"906701\">I declare an interest as the chair of the all-party parliamentary group on multiple sclerosis and as the proud son of a lifelong multiple sclerosis patient&#8212;she joins us in the Gallery today. Neurological conditions such as MS and Parkinson&#8217;s affect one in six, but wait times for first and follow-up neurology appointments have increased by a huge 65% since 2020, risking delayed treatment and  diagnosis at a critical time. I am proud that this Government are bringing down NHS waiting lists, cutting admissions and investing in care and equipment. Will my right hon. and learned Friend formalise these efforts, support an NHS modern service framework for neurology and get these wait times down?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g985.4",
+    "commentsurl": "/debates/?id=2025-12-03d.985.4",
+    "speaker": {
+      "member_id": "43445",
+      "name": "Oliver Ryan",
+      "house": "1",
+      "constituency": "Burnley",
+      "party": "Independent",
+      "person_id": "26381",
+      "url": "/mp/?p=26381",
+      "office": {},
+      "image": "/people-images/mps/26381.jpg",
+      "desc": "; Burnley, Independent"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727953",
+    "htype": "12",
+    "gid": "2025-12-03d.986.0",
+    "hpos": "111",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "25353",
+    "body": "<p pid=\"d986.0/1\">I thank my hon. Friend for his question and for sharing his personal interest. We are focused on bringing down waiting lists and making sure every patient receives the best possible care. As he knows, the 10-year health plan announced a new modern service framework to help rapidly improve care, and I reassure him that we will consider whatever else we can do. In the meantime, we are acting to improve neurology care, and we have cut neurology waiting lists by over 15,000.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.0",
+    "commentsurl": "/debates/?id=2025-12-03d.986.0",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727954",
+    "htype": "12",
+    "gid": "2025-12-03d.986.1",
+    "hpos": "112",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "25689",
+    "body": "<p pid=\"d986.1/1\" qnum=\"906708\">Allison in Oxford is threatened with new service charges by her housing association, Green Square Accord, for shrubbery she happily cut herself for 22 years and for cleaning a communal area that simply does not exist. Meanwhile, Rebecca&#8217;s charges have more than doubled over the last four years, with no explanation. Green Square Accord is not the only provider doing this. It is a wild west out there. Will this Government consider Liberal Democrat plans for a new regulator and a cap on these outrageous rip-off service charges?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.1",
+    "commentsurl": "/debates/?id=2025-12-03d.986.1",
+    "speaker": {
+      "member_id": "43224",
+      "name": "Layla Moran",
+      "house": "1",
+      "constituency": "Oxford West and Abingdon",
+      "party": "Liberal Democrat",
+      "person_id": "25689",
+      "url": "/mp/?p=25689",
+      "office": [
+        {
+          "dept": "Health and Social Care Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Health and Social Care Committee"
+        },
+        {
+          "dept": "Health and Social Care Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Health and Social Care Committee"
+        }
+      ],
+      "image": "/people-images/mps/25689.jpg",
+      "desc": "Chair, Health and Social Care Committee, Chair, Health and Social Care Committee; Oxford West and Abingdon, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727955",
+    "htype": "12",
+    "gid": "2025-12-03d.986.2",
+    "hpos": "113",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "25353",
+    "body": "<p pid=\"d986.2/1\">I thank the hon. Lady for raising that. We are implementing the Leasehold and Freehold Reform Act 2024, which is long overdue, providing homeowners with greater rights, powers and protections. Through that, we will strengthen regulation to protect leaseholders from abuse and poor service, which she has highlighted; bring the injustice of fleecehold to an end to protect up to 1.75 million households; and make sure that leaseholders receive standardised service charge documentation, making it easier for them to challenge unreasonable bills. The hon. Lady makes good points, and that Act will help to change things.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.2",
+    "commentsurl": "/debates/?id=2025-12-03d.986.2",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727956",
+    "htype": "12",
+    "gid": "2025-12-03d.986.3",
+    "hpos": "114",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "10576",
+    "body": "<p pid=\"d986.3/1\" qnum=\"906702\">This country can be proud of its history of religious tolerance and religious freedom. The quid pro quo for that is the right to criticise religion. Can the Prime Minister assure the House that there will be no introduction or reintroduction of a blasphemy law, either by statute, judicial overreach or a non-statutory definition of Islamophobia?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.3",
+    "commentsurl": "/debates/?id=2025-12-03d.986.3",
+    "speaker": {
+      "member_id": "43208",
+      "name": "Graham Stringer",
+      "house": "1",
+      "constituency": "Blackley and Middleton South",
+      "party": "Labour",
+      "person_id": "10576",
+      "url": "/mp/?p=10576",
+      "office": {},
+      "image": "/people-images/mps/10576.jpg",
+      "desc": "; Blackley and Middleton South, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727957",
+    "htype": "12",
+    "gid": "2025-12-03d.986.4",
+    "hpos": "115",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "25353",
+    "body": "<p pid=\"d986.4/1\">Yes, I can give my hon. Friend that assurance, and it is important that I do so.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.4",
+    "commentsurl": "/debates/?id=2025-12-03d.986.4",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727958",
+    "htype": "12",
+    "gid": "2025-12-03d.986.5",
+    "hpos": "116",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "26316",
+    "body": "<p pid=\"d986.5/1\" qnum=\"906709\">The best form of welfare in this country should be a well-paid job, but with unemployment up and this Labour Government choosing to raise taxes to spend even more on a bloated welfare and benefits system, is the Prime Minister happy with the message that sends to my hard-working constituents in Broxbourne and constituents right across the United Kingdom?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.5",
+    "commentsurl": "/debates/?id=2025-12-03d.986.5",
+    "speaker": {
+      "member_id": "42799",
+      "name": "Lewis Cocking",
+      "house": "1",
+      "constituency": "Broxbourne",
+      "party": "Conservative",
+      "person_id": "26316",
+      "url": "/mp/?p=26316",
+      "office": {},
+      "image": "/people-images/mps/26316.jpg",
+      "desc": "; Broxbourne, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727959",
+    "htype": "12",
+    "gid": "2025-12-03d.986.6",
+    "hpos": "117",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "986",
+    "person_id": "25353",
+    "body": "<p pid=\"d986.6/1\">We have a broken welfare system. Guess who broke it? The Conservatives. We are bringing in reforms to change it and mend it. What did they do?  They voted against them. Under their watch, they drove up welfare spending by &#163;33 billion, so we need no lectures from them on welfare.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g986.6",
+    "commentsurl": "/debates/?id=2025-12-03d.986.6",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727960",
+    "htype": "12",
+    "gid": "2025-12-03d.987.0",
+    "hpos": "118",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "987",
+    "person_id": "26319",
+    "body": "<p pid=\"d987.0/1\" qnum=\"906703\">As a lifelong Dale fan, I am delighted that Rochdale football club is top of the national league right now. But after 14 years of Tory cuts, sadly my town is also near the top of a league table that people do not want to be in: the child poverty league table. Does the Prime Minister agree that lifting 5,000 kids in Rochdale out of poverty, plus cutting every household&#8217;s energy bills by &#163;150 and, crucially, expanding the warm home discount will mean that this Budget is a family Budget that reduces the cost of living for everyone in the country?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g987.0",
+    "commentsurl": "/debates/?id=2025-12-03d.987.0",
+    "speaker": {
+      "member_id": "42804",
+      "name": "Paul Waugh",
+      "house": "1",
+      "constituency": "Rochdale",
+      "party": "Labour/Co-operative",
+      "person_id": "26319",
+      "url": "/mp/?p=26319",
+      "office": {},
+      "image": "/people-images/mps/26319.jpg",
+      "desc": "; Rochdale, Labour/Co-operative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727961",
+    "htype": "12",
+    "gid": "2025-12-03d.987.1",
+    "hpos": "119",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "987",
+    "person_id": "25353",
+    "body": "<p pid=\"d987.1/1\">Let me start by congratulating Rochdale football club on being top of the league for the time being. [Laughter.] Well, I say that because I know who is top of the premier league, but it will be in March and April that we find out who actually wins.</p><p pid=\"d987.1/2\">My hon. Friend is right. Thanks to the actions in the Budget, every household will see &#163;150 off their energy bills, and because we have now extended the warm home discount to 6 million of the poorest households, they will save an additional &#163;150. In the north-west, that benefits about 280,000 households. That is huge cost of living support for families alongside freezing prescription charges and rail fares and boosting the minimum wage.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g987.1",
+    "commentsurl": "/debates/?id=2025-12-03d.987.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727962",
+    "htype": "12",
+    "gid": "2025-12-03d.987.2",
+    "hpos": "120",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "987",
+    "person_id": "26325",
+    "body": "<p pid=\"d987.2/1\" qnum=\"906711\">My constituent Tracey owns O&#8217;Briens, a lovely caf&#233; in the heart of Eastleigh. She works tirelessly to make it a success, but spiralling costs including business rates, VAT and the hike to employer national insurance contributions mean that she has not been able to take a salary for four months. David, the owner of Steam Town Brew Co and Jayne, the manager of the Holiday Inn in my constituency, say that their businesses will be impacted by the Government&#8217;s stealth tax on our high streets. They feel let down. Will the Prime Minister look again at the Liberal Democrats&#8217; call for an emergency cut in VAT for hospitality?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g987.2",
+    "commentsurl": "/debates/?id=2025-12-03d.987.2",
+    "speaker": {
+      "member_id": "42819",
+      "name": "Liz Jarvis",
+      "house": "1",
+      "constituency": "Eastleigh",
+      "party": "Liberal Democrat",
+      "person_id": "26325",
+      "url": "/mp/?p=26325",
+      "office": {},
+      "image": "/people-images/mps/26325.jpg",
+      "desc": "; Eastleigh, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727963",
+    "htype": "12",
+    "gid": "2025-12-03d.987.3",
+    "hpos": "121",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "987",
+    "person_id": "25353",
+    "body": "<p pid=\"d987.3/1\">We put in place a strategy for small businesses, which was broadly welcomed by small businesses, because they contributed to it. That involves some of the key asks they made of us, including on late payments and greater flexibility when it comes to licensing for hospitality. We will always look at other measures that can help small businesses. We set out quite a lot of them in our small business strategy.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g987.3",
+    "commentsurl": "/debates/?id=2025-12-03d.987.3",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727964",
+    "htype": "12",
+    "gid": "2025-12-03d.987.4",
+    "hpos": "122",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "987",
+    "person_id": "26601",
+    "body": "<p pid=\"d987.4/1\" qnum=\"906705\">At the weekend, I had the great privilege to join volunteers from Peterborough food bank at the Tesco in Werrington on their autumn food drive. I put on record my thanks to my constituents and those of other hon. Members who have supported that Trussell Trust initiative over the last week. One of the most significant challenges my food bank has consistently talked to me about is child poverty. Even though the Conservative party opposes our plans, nearly 9,000 children will be lifted out of poverty across Peterborough because of decisions that our Chancellor  took in the Budget last week. Does the Prime Minister agree that that is not just the right thing to do for those children but an investment in our future and in growth?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g987.4",
+    "commentsurl": "/debates/?id=2025-12-03d.987.4",
+    "speaker": {
+      "member_id": "43372",
+      "name": "Andrew Pakes",
+      "house": "1",
+      "constituency": "Peterborough",
+      "party": "Labour/Co-operative",
+      "person_id": "26601",
+      "url": "/mp/?p=26601",
+      "office": {},
+      "image": "/people-images/mps/26601.jpg",
+      "desc": "; Peterborough, Labour/Co-operative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727965",
+    "htype": "12",
+    "gid": "2025-12-03d.988.0",
+    "hpos": "123",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "25353",
+    "body": "<p pid=\"d988.0/1\">I thank my hon. Friend for raising that. I was in his constituency just the other week, and we could see the impact that this measure would have on children in Peterborough where, as he said, 9,000 children are living in poverty. In his constituency, 5,500 children are living in poverty. We are lifting them out of poverty, and that is the right thing to do.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.0",
+    "commentsurl": "/debates/?id=2025-12-03d.988.0",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727966",
+    "htype": "12",
+    "gid": "2025-12-03d.988.1",
+    "hpos": "124",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "2",
+    "colnum": "988",
+    "person_id": "11406",
+    "body": "<p pid=\"d988.1/1\">It wasn&#8217;t last year.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.1",
+    "commentsurl": "/debates/?id=2025-12-03d.988.1",
+    "speaker": {
+      "member_id": "43361",
+      "name": "Graham Stuart",
+      "house": "1",
+      "constituency": "Beverley and Holderness",
+      "party": "Conservative",
+      "person_id": "11406",
+      "url": "/mp/?p=11406",
+      "office": {},
+      "image": "/people-images/mps/11406.jpg",
+      "desc": "; Beverley and Holderness, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727967",
+    "htype": "12",
+    "gid": "2025-12-03d.988.2",
+    "hpos": "125",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "25353",
+    "body": "<p pid=\"d988.2/1\">The Conservative party shamefully dragged hundreds of thousands of children into poverty, and they will pay that price for the rest of their lives. Conservative Members should be ashamed of themselves.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.2",
+    "commentsurl": "/debates/?id=2025-12-03d.988.2",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727968",
+    "htype": "12",
+    "gid": "2025-12-03d.988.3",
+    "hpos": "126",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "24817",
+    "body": "<p pid=\"d988.3/1\">I was recently the target of an AI deepfake video announcing my defection to Reform. As colleagues across the House will know, that is about as likely as Reform moving from pub populism to a coherent programme for government. I am delighted to reassure my Chief Whip and the House that I am and always have been a faithful&#8212;[Laughter]&#8212;a faithful Conservative. Does the Prime Minister agree that while satire has always been an important part of our politics, the rise of AI deepfake disruption is a serious threat to our democracy? Will he work with me and cross-party MPs to frame some appropriate reforms, as proposed by the recent Speaker&#8217;s Conference, to protect our democratic integrity?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.3",
+    "commentsurl": "/debates/?id=2025-12-03d.988.3",
+    "speaker": {
+      "member_id": "43253",
+      "name": "George Freeman",
+      "house": "1",
+      "constituency": "Mid Norfolk",
+      "party": "Conservative",
+      "person_id": "24817",
+      "url": "/mp/?p=24817",
+      "office": {},
+      "image": "/people-images/mps/24817.jpg",
+      "desc": "; Mid Norfolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727969",
+    "htype": "12",
+    "gid": "2025-12-03d.988.4",
+    "hpos": "127",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "25353",
+    "body": "<p pid=\"d988.4/1\">I thank the hon. Gentleman for raising this important issue. We need to work cross party where we can on deepfake, on AI and on other issues that need to be addressed. I am afraid I missed his alleged defection to Reform. I would not have believed it if I had seen it, but I have to say that there are a lot of Conservatives going&#8212;I think three ex-MPs have gone this week. They talk about leaks. That is where their leaks are going: to Reform.</p><p pid=\"d988.4/2\">Talking of leaks, according to the front page of the Financial Times this morning, the leader of Reform apparently says he wants to merge with the Conservative party and sit down in here with them&#8212;an absolutely unholy alliance of austerity and failure.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.4",
+    "commentsurl": "/debates/?id=2025-12-03d.988.4",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727970",
+    "htype": "12",
+    "gid": "2025-12-03d.988.5",
+    "hpos": "128",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "26481",
+    "body": "<p pid=\"d988.5/1\" qnum=\"906707\">This week, I have been speaking to warehouse workers at Tetrosyl in my constituency, who have been given an appalling ultimatum in the run-up to Christmas: they must either sign a new contract with reduced pay and breaks or lose their jobs. Can the Prime Minister advise me on what action can be taken against rogue employers such as Tetrosyl who take action against workers and seek to exploit them and undermine their rights?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.5",
+    "commentsurl": "/debates/?id=2025-12-03d.988.5",
+    "speaker": {
+      "member_id": "43132",
+      "name": "Elsie Blundell",
+      "house": "1",
+      "constituency": "Heywood and Middleton North",
+      "party": "Labour",
+      "person_id": "26481",
+      "url": "/mp/?p=26481",
+      "office": {},
+      "image": "/people-images/mps/26481.jpg",
+      "desc": "; Heywood and Middleton North, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727971",
+    "htype": "12",
+    "gid": "2025-12-03d.988.6",
+    "hpos": "129",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "988",
+    "person_id": "25353",
+    "body": "<p pid=\"d988.6/1\">I thank my hon. Friend for fighting hard for her constituents who are facing awful uncertainty, which is bad enough at any time of the year but really bad at this time of the year. Our thoughts are with the workers and their families who are facing the uncertainty that she has flagged. Our landmark  Employment Rights Bill will strengthen workers&#8217; rights and put them in a better position, including by ending unscrupulous fire and rehire practices. I thank her for fighting for her constituents.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g988.6",
+    "commentsurl": "/debates/?id=2025-12-03d.988.6",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727972",
+    "htype": "12",
+    "gid": "2025-12-03d.989.0",
+    "hpos": "130",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "989",
+    "person_id": "26364",
+    "body": "<p pid=\"d989.0/1\">No religion, theology or philosophy is beyond critique or scrutiny, and we must protect freedom of speech at all costs. But Islamophobia is real, at least for Zainab Hussain in my city, who was run over not just once but twice, simply for being a Muslim. She survived. Not so lucky was Makram Ali, who was killed outside Finsbury Park mosque simply for being a Muslim, or Mohammed Saleem, who was stabbed to death simply for being a Muslim. When the Prime Minister was in opposition, a definition of Islamophobia was adopted, but in government it has been dropped. What has changed?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g989.0",
+    "commentsurl": "/debates/?id=2025-12-03d.989.0",
+    "speaker": {
+      "member_id": "42904",
+      "name": "Shockat Adam",
+      "house": "1",
+      "constituency": "Leicester South",
+      "party": "Independent",
+      "person_id": "26364",
+      "url": "/mp/?p=26364",
+      "office": {},
+      "image": "/people-images/mps/26364.jpg",
+      "desc": "; Leicester South, Independent"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727973",
+    "htype": "12",
+    "gid": "2025-12-03d.989.1",
+    "hpos": "131",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "989",
+    "person_id": "25353",
+    "body": "<p pid=\"d989.1/1\">I thank the hon. Gentleman for raising those examples of hatred in his constituency. He is right to raise them and we should all condemn them. Hatred in all its forms should be condemned by all of us in this House, and that includes anti-Muslim hatred as well. We intend to act on it.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g989.1",
+    "commentsurl": "/debates/?id=2025-12-03d.989.1",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727974",
+    "htype": "12",
+    "gid": "2025-12-03d.989.2",
+    "hpos": "132",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "989",
+    "person_id": "26524",
+    "body": "<p pid=\"d989.2/1\" qnum=\"906710\">This week I met my constituents, Mike and Sue. Their autistic son Jimmy was imprisoned as a young man. The judge recommended a sentence of two and a half years. Jimmy is now in his 40s. He has been in prison for nearly 20 years on an indeterminate sentence for public protection. His doctors say that he is safe and well for discharge, and a supported living flat is waiting for him in Shipley. Will the Prime Minister please help by ending the injustice of these IPP sentences and help to get Jimmy home?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g989.2",
+    "commentsurl": "/debates/?id=2025-12-03d.989.2",
+    "speaker": {
+      "member_id": "43227",
+      "name": "Anna Dixon",
+      "house": "1",
+      "constituency": "Shipley",
+      "party": "Labour",
+      "person_id": "26524",
+      "url": "/mp/?p=26524",
+      "office": {},
+      "image": "/people-images/mps/26524.jpg",
+      "desc": "; Shipley, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727975",
+    "htype": "12",
+    "gid": "2025-12-03d.989.3",
+    "hpos": "133",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "989",
+    "person_id": "25353",
+    "body": "<p pid=\"d989.3/1\">My hon. Friend raised this case with me in the Lobby last night. It is a really shocking case of two years leading to someone being in prison for over 20 years and not yet released, and with delays in the release process. The Justice Secretary will look into this case and meet her to discuss her concerns to see what more can be done. It is right that IPP sentences have been abolished, and we are committed to supporting the progression of all those who are serving such sentences.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g989.3",
+    "commentsurl": "/debates/?id=2025-12-03d.989.3",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727976",
+    "htype": "12",
+    "gid": "2025-12-03d.989.4",
+    "hpos": "134",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "989",
+    "person_id": "26543",
+    "body": "<p pid=\"d989.4/1\">I have a charming elderly constituent who, after a series of major medical interventions, has been left in excruciating, uncontrolled pain after her opioids were withdrawn, pushing her to suicidal ideations. Can the Prime Minister shed light on what plans His Majesty&#8217;s Government   have to help people manage pain in order to live a happier and more comfortable life? Please can I have a meeting with the appropriate Minister?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g989.4",
+    "commentsurl": "/debates/?id=2025-12-03d.989.4",
+    "speaker": {
+      "member_id": "43258",
+      "name": "Rachel Gilmour",
+      "house": "1",
+      "constituency": "Tiverton and Minehead",
+      "party": "Liberal Democrat",
+      "person_id": "26543",
+      "url": "/mp/?p=26543",
+      "office": {},
+      "image": "/people-images/mps/26543.jpg",
+      "desc": "; Tiverton and Minehead, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727977",
+    "htype": "12",
+    "gid": "2025-12-03d.990.0",
+    "hpos": "135",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "990",
+    "person_id": "25353",
+    "body": "<p pid=\"d990.0/1\">I thank the hon. Lady for raising this awful case. We are putting in further protection and support, but I will take this up. It is important for her to discuss this with the relevant Minister, because the case that she has referred to sounds appalling.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g990.0",
+    "commentsurl": "/debates/?id=2025-12-03d.990.0",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727978",
+    "htype": "12",
+    "gid": "2025-12-03d.990.1",
+    "hpos": "136",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "990",
+    "person_id": "26525",
+    "body": "<p pid=\"d990.1/1\" qnum=\"906712\">Under this Labour Government, NHS waiting lists are coming down. I welcome the commitment to refurbish Truro Health Park in my constituency, one of the first new neighbourhood health centres in the country. Cornwall is already leading the way with new neighbourhood health teams, and upgrading Truro Health Park will help to deliver care for patients in their own communities. Will the Prime Minister confirm that this investment reflects decisions taken by this Government to prioritise community health care, and that services will not be removed before effective community replacements come online?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g990.1",
+    "commentsurl": "/debates/?id=2025-12-03d.990.1",
+    "speaker": {
+      "member_id": "43228",
+      "name": "Jayne Kirkham",
+      "house": "1",
+      "constituency": "Truro and Falmouth",
+      "party": "Labour/Co-operative",
+      "person_id": "26525",
+      "url": "/mp/?p=26525",
+      "office": {},
+      "image": "/people-images/mps/26525.jpg",
+      "desc": "; Truro and Falmouth, Labour/Co-operative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727979",
+    "htype": "12",
+    "gid": "2025-12-03d.990.2",
+    "hpos": "137",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "990",
+    "person_id": "25353",
+    "body": "<p pid=\"d990.2/1\">I thank my hon. Friend for raising this, and I am delighted that her constituency will benefit from one of the 250 new centres. Neighbourhood health centres will provide simpler, more convenient access to a full range of health and care services on people&#8217;s doorsteps, and GP services will be protected before they come online. This is about early intervention, continuing to drive down NHS waiting lists and creating a more modern NHS that is fit for the future.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g990.2",
+    "commentsurl": "/debates/?id=2025-12-03d.990.2",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727980",
+    "htype": "12",
+    "gid": "2025-12-03d.990.3",
+    "hpos": "138",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "990",
+    "person_id": "10312",
+    "body": "<p pid=\"d990.3/1\">Could the Prime Minister give his assessment of the latest news that President Putin has again turned down terms for peace in Ukraine? In an extraordinary outburst designed to destabilise our understanding of the truth, he did say that Russia is ready for war with NATO. How ready are we?</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g990.3",
+    "commentsurl": "/debates/?id=2025-12-03d.990.3",
+    "speaker": {
+      "member_id": "43220",
+      "name": "Bernard Jenkin",
+      "house": "1",
+      "constituency": "Harwich and North Essex",
+      "party": "Conservative",
+      "person_id": "10312",
+      "url": "/mp/?p=10312",
+      "office": [
+        {
+          "dept": "Statutory Instruments (Joint Committee)",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Statutory Instruments (Joint Committee)"
+        },
+        {
+          "dept": "Statutory Instruments (Joint Committee)",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Statutory Instruments (Joint Committee)"
+        },
+        {
+          "dept": "Statutory Instruments (Select Committee)",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Statutory Instruments (Select Committee)"
+        },
+        {
+          "dept": "Statutory Instruments (Select Committee)",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Statutory Instruments (Select Committee)"
+        }
+      ],
+      "image": "/people-images/mps/10312.jpg",
+      "desc": "Chair, Statutory Instruments (Joint Committee), Chair, Statutory Instruments (Joint Committee), Chair, Statutory Instruments (Select Committee), Chair, Statutory Instruments (Select Committee); Harwich and North Essex, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29727981",
+    "htype": "12",
+    "gid": "2025-12-03d.990.4",
+    "hpos": "139",
+    "section_id": "29727912",
+    "subsection_id": "29727914",
+    "hdate": "2025-12-03",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "990",
+    "person_id": "25353",
+    "body": "<p pid=\"d990.4/1\">I thank the hon. Gentleman for raising this; I updated the House last week on the attempts to get a lasting peace. We all know that Putin is the aggressor here. We all know that Putin is dragging his feet, not wanting to come to the table, not wanting to reach an agreement. We have to continue to put pressure on in every conceivable way&#8212;that is, in supporting Ukraine with capability and resource, but also ensuring that our sanctions, acting with allies, do as much damage to the economy in Russia as we can, and pressure that we can put on. We will continue to do so but the hon. Gentleman is absolutely right to raise this, and I thank him for doing so.</p>",
+    "listurl": "/debates/?id=2025-12-03d.979.5#g990.4",
+    "commentsurl": "/debates/?id=2025-12-03d.990.4",
+    "speaker": {
+      "member_id": "42864",
+      "name": "Keir Starmer",
+      "house": "1",
+      "constituency": "Holborn and St Pancras",
+      "party": "Labour",
+      "person_id": "25353",
+      "url": "/mp/?p=25353",
+      "office": [
+        {
+          "dept": "",
+          "position": "Leader of the Labour Party",
+          "source": "",
+          "pretty": "Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "The Prime Minister",
+          "source": "",
+          "pretty": "The Prime Minister"
+        }
+      ],
+      "image": "/people-images/mps/25353.jpg",
+      "desc": "Leader of the Labour Party, The Prime Minister; Holborn and St Pancras, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  }
+]

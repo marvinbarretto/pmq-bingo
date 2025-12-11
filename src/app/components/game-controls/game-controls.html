@@ -1,0 +1,22 @@
+<div class="controls">
+  <div class="status">
+    <span class="counter">{{ markedCount() }}/{{ totalCells }}</span>
+    @if (hasWon()) {
+      <span class="win-badge">{{ winType() | uppercase }}!</span>
+    }
+  </div>
+
+  <div class="buttons">
+    <button class="btn btn-primary" (click)="onNewGame()" type="button">
+      New Card
+    </button>
+    <button class="btn btn-secondary" (click)="onShare()" type="button">
+      Share
+    </button>
+  </div>
+
+  <div class="stats">
+    <span>Played: {{ gamesPlayed() }}</span>
+    <span>Won: {{ gamesWon() }}</span>
+  </div>
+</div>

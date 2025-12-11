@@ -1,0 +1,8 @@
+.bingo-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: clamp(0.25rem, 1vw, 0.5rem);
+  width: min(95vw, 95vh - 12rem, 600px);
+  margin: 0 auto;
+  padding: clamp(0.25rem, 1vw, 1rem);
+}

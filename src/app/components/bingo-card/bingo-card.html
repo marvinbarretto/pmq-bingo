@@ -1,0 +1,9 @@
+<div class="bingo-grid">
+  @for (cell of cells(); track cell.position) {
+    <app-bingo-cell
+      [cell]="cell"
+      [isWinning]="isWinningCell(cell.position)"
+      (cellClicked)="onCellClicked($event)"
+    />
+  }
+</div>

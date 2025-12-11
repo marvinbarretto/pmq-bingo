@@ -1,0 +1,57 @@
+@use '../../../styles/animations';
+
+.cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(0.25rem, 1vw, 0.5rem);
+  border: 2px solid var(--border-color, #2d3748);
+  border-radius: clamp(4px, 1vw, 8px);
+  background: var(--cell-bg, #1a202c);
+  color: var(--text-color, #e2e8f0);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  aspect-ratio: 1;
+  font-size: clamp(0.6rem, 2.5vw, 0.9rem);
+  text-align: center;
+  word-break: break-word;
+  hyphens: auto;
+  line-height: 1.2;
+  overflow: hidden;
+
+  &:hover {
+    background: var(--cell-hover, #2d3748);
+    transform: scale(1.02);
+  }
+
+  &:active {
+    transform: scale(0.98);
+  }
+
+  &.marked {
+    background: var(--marked-bg, #4a5568);
+    border-color: var(--marked-border, #68d391);
+    color: var(--marked-text, #fff);
+
+    &::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, transparent 40%, rgba(104, 211, 145, 0.1) 100%);
+      border-radius: 6px;
+    }
+  }
+
+  &.winning {
+    background: var(--winning-bg, #48bb78);
+    border-color: var(--winning-border, #2f855a);
+    animation: pulse 0.5s ease-in-out;
+  }
+
+  position: relative;
+}
+
+.cell-text {
+  position: relative;
+  z-index: 1;
+}

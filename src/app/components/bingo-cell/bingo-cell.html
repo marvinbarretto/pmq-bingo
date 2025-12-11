@@ -1,0 +1,9 @@
+<button
+  class="cell"
+  [class.marked]="cell().marked"
+  [class.winning]="isWinning()"
+  (click)="onClick()"
+  type="button"
+>
+  <span class="cell-text">{{ cell().phrase.text }}</span>
+</button>

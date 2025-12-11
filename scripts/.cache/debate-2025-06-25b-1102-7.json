@@ -1,0 +1,2890 @@
+[
+  {
+    "epobject_id": "29430250",
+    "htype": "10",
+    "gid": "2025-06-25b.1102.5",
+    "hpos": "82",
+    "section_id": "0",
+    "subsection_id": "0",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1102",
+    "body": "Prime Minister",
+    "contentcount": "0",
+    "listurl": "/debates/?id=2025-06-25b.1102.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1102.5"
+  },
+  {
+    "epobject_id": "29430252",
+    "htype": "11",
+    "gid": "2025-06-25b.1102.7",
+    "hpos": "84",
+    "section_id": "29430250",
+    "subsection_id": "0",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1102",
+    "person_id": "0",
+    "body": "Engagements",
+    "contentcount": "63",
+    "listurl": "/debates/?id=2025-06-25b.1102.7",
+    "commentsurl": "/debates/?id=2025-06-25b.1102.7",
+    "speaker": {},
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430253",
+    "htype": "12",
+    "gid": "2025-06-25b.1102.8",
+    "hpos": "85",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1102",
+    "person_id": "26605",
+    "body": "<p pid=\"b1102.8/1\" qnum=\"904861\">If he will list his official engagements for Wednesday 25 June.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1102.8",
+    "commentsurl": "/debates/?id=2025-06-25b.1102.8",
+    "speaker": {
+      "member_id": "43381",
+      "name": "Mike Tapp",
+      "house": "1",
+      "constituency": "Dover and Deal",
+      "party": "Labour",
+      "person_id": "26605",
+      "url": "/mp/?p=26605",
+      "office": {},
+      "image": "/people-images/mps/26605.jpg",
+      "desc": "; Dover and Deal, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430254",
+    "htype": "12",
+    "gid": "2025-06-25b.1102.9",
+    "hpos": "86",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1102",
+    "person_id": "25429",
+    "body": "<p pid=\"b1102.9/1\">I have been asked to reply as my right hon. and learned Friend the Prime Minister is attending the NATO summit in The Hague. At this time of international volatility, we are working with our allies to de-escalate tensions in the middle east and ensure that the conflict does not further intensify. Our aim continues to be preventing Iran from securing nuclear weapons and urging the Iranians to return to negotiations.</p><p pid=\"b1102.9/2\">The situation in Gaza remains of the gravest concern. Seeing the return of more hostages&#8217; bodies, including that of Shay Levinson, an Israeli with British family, is heartbreaking. The remaining hostages must be released, while aid must be delivered at greater speed and volume.</p><p pid=\"b1102.9/3\">This week is Armed Forces Week. Our commitment to the armed forces is unwavering. The strategic defence review outlines how we will give our armed forces better pay, better housing and better kit. I pay tribute to their commitment, bravery and selflessness.</p><p pid=\"b1102.9/4\">This morning, I had meetings with ministerial colleagues and others. In addition to my duties in the House, I shall have further such meetings later today.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1102.9",
+    "commentsurl": "/debates/?id=2025-06-25b.1102.9",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430255",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.0",
+    "hpos": "87",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "26605",
+    "body": "<p pid=\"b1103.0/1\">The Conservatives gave up on law and order. They betrayed our country and let criminals run riot. Now, they desperately post wannabe superhero videos, shamelessly pointing at the problems they created. Last week, they had the chance to put it right, and what did they do? They voted against tough action on knife crime, on antisocial behaviour and on violence against women and girls. Does the Deputy Prime Minister agree that they should hang their heads in shame for failing to protect our streets?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.0",
+    "speaker": {
+      "member_id": "43381",
+      "name": "Mike Tapp",
+      "house": "1",
+      "constituency": "Dover and Deal",
+      "party": "Labour",
+      "person_id": "26605",
+      "url": "/mp/?p=26605",
+      "office": {},
+      "image": "/people-images/mps/26605.jpg",
+      "desc": "; Dover and Deal, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430256",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.1",
+    "hpos": "88",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "10295",
+    "body": "<p pid=\"b1103.1/1\">Order. This is about Government responsibilities, not the Opposition. I call Sir Mel Stride.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.1",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430257",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.2",
+    "hpos": "89",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "24914",
+    "body": "<p pid=\"b1103.2/1\">Thank you, Mr Speaker. It is a pleasure to stand opposite the right hon. Lady. Despite what many may think, we have a great deal in common, not least that we both viscerally disagree with the Chancellor&#8217;s tax policies. It is also great to see the right hon. Lady standing in temporarily for the Prime Minister for the second week running&#8212;although I know that many sitting behind her wish that this was a permanent arrangement. Indeed, we will find many of their names among the 122 who have signed up to oppose the Government&#8217;s welfare Bill. They say that the Bill is dangerously rushed and ill-thought-through. Will the right hon. Lady explain why she thinks that she is right and 122 of her colleagues are wrong?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.2",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430258",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.3",
+    "hpos": "90",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "25429",
+    "body": "<p pid=\"b1103.3/1\">First, it is nice to face the latest wannabe at the Dispatch Box. I will tell the right hon. Member why we are pressing ahead with our reforms: it is because we are investing a billion pounds in tailored employment support, in a &#8220;right to try&#8221; in order to help more people back into work, and in ending reassessments for the most severely disabled who will never be able to work. We will not walk away or stand by and abandon millions of people trapped in the failing system, left behind by him and his colleagues.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.3",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430259",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.4",
+    "hpos": "91",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "24914",
+    "body": "<p pid=\"b1103.4/1\">The right hon. Lady completely sidestepped my question. She cannot even defend her own Government&#8217;s policy. Can she at least assure the House that the vote on Tuesday will actually go ahead?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.4",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430260",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.5",
+    "hpos": "92",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "25429",
+    "body": "<p pid=\"b1103.5/1\">I do not know if the right hon. Gentleman listened to what I said, because he was reading off his script&#8212;I do not need a script&#8212;but I can tell him that we will go ahead on Tuesday.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.5",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430261",
+    "htype": "12",
+    "gid": "2025-06-25b.1103.6",
+    "hpos": "93",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1103",
+    "person_id": "24914",
+    "body": "<p pid=\"b1103.6/1\">There you have it: there will be a vote in this House on Tuesday on the welfare Bill, although many on the Back Benches could be forgiven for thinking that they have heard this before with the winter fuel payment, where they were marched up the hill, and we all know where that story ended. On the Conservative side of the House, we are absolutely clear that we will help the right hon. Lady get their Bill through if the  Government can commit to actually reducing the welfare bill and getting people off benefits and into work. Can she make that commitment right now&#8212;yes or no?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1103.6",
+    "commentsurl": "/debates/?id=2025-06-25b.1103.6",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430262",
+    "htype": "12",
+    "gid": "2025-06-25b.1104.0",
+    "hpos": "94",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1104",
+    "person_id": "25429",
+    "body": "<p pid=\"b1104.0/1\">If ever we needed a reminder of the Conservatives having no shame, it is their demands for this Bill. The right hon. Gentleman demands a programme to help people into work&#8212;exactly what this Bill does&#8212;after he left one in eight young people out of the economy. He demands no new taxes&#8212;from the party that raised taxes to record levels. He demands welfare savings&#8212;from the man who was in charge as the welfare bill absolutely ballooned. They say cut the welfare bill; they failed. They say put people in work; they failed. They say no tax increases; they failed.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1104.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1104.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430263",
+    "htype": "12",
+    "gid": "2025-06-25b.1104.1",
+    "hpos": "95",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1104",
+    "person_id": "24914",
+    "body": "<p pid=\"b1104.1/1\">I am afraid that the right hon. Lady has clearly not read her own legislation. The Bill will see the number of people on welfare rising for every single year going forward. There is no commitment from her to cut the number of people on welfare. Even if the Government manage to deliver these reforms, almost every respected economist now says that tax rises are all but inevitable in the autumn. But after the Budget, the Chancellor said,</p><p class=\"indent\" pid=\"b1104.1/2\" pwmotiontext=\"yes\">&#8220;I&#8217;m not coming back with&#8230;more taxes.&#8221;</p><p pid=\"b1104.1/3\">British businesses have been hit again and again by Labour&#8217;s economic mismanagement. They are desperate for certainty. Can the right hon. Lady give them that certainty now and repeat to the House the Chancellor&#8217;s promise not to raise taxes at the Budget?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1104.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1104.1",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430264",
+    "htype": "12",
+    "gid": "2025-06-25b.1104.2",
+    "hpos": "96",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1104",
+    "person_id": "25429",
+    "body": "<p pid=\"b1104.2/1\">This is a bit rich&#8212;unbelievable. With inflation above 11% and the biggest tax rises, I will take no lectures from the Conservative party. On this issue in particular, they cannot make up their minds. First, they said our reforms were taking too long, then they said they were rushed, then their Front Bench said our measures were too tough, and now they say they need to be tougher. No plan, no idea&#8212;I wonder why their party was left in such a mess.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1104.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1104.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430265",
+    "htype": "12",
+    "gid": "2025-06-25b.1104.3",
+    "hpos": "97",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1104",
+    "person_id": "24914",
+    "body": "<p pid=\"b1104.3/1\">The whole House will have heard that the right hon. Lady did not repeat the Chancellor&#8217;s promise not to raise taxes. Britain&#8217;s businesses have today been put on notice: tax rises are coming. Specifically, in the right hon. Lady&#8217;s own area, despite Labour&#8217;s promises to freeze council tax, the Institute for Fiscal Studies says that the spending review will mean the biggest council tax increases in a generation&#8212;a &#163;7 billion tax rise. Yet the Chancellor and the Prime Minister have repeatedly claimed that the Government will not raise taxes on working people. Why does the right hon. Lady think that council tax is not paid by working people?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1104.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1104.3",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430266",
+    "htype": "12",
+    "gid": "2025-06-25b.1104.4",
+    "hpos": "98",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1104",
+    "person_id": "25429",
+    "body": "<p pid=\"b1104.4/1\">Again, the Conservatives have an absolute nerve when council tax rose ever single year under their Government. In fact, I had to turn down the Tories on the Local Government Association who wanted me to take away the precept to ensure that they could raise taxes above the 5%. We have kept it there while delivering money for local government, while they had austerity, put taxes up and ruined the British economy.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1104.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1104.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430267",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.0",
+    "hpos": "99",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "24914",
+    "body": "<p pid=\"b1105.0/1\">When you cut out the blather, is not the reality that this Labour Government have condemned us to higher taxes, more debt, fewer jobs and more pain for businesses up and down our country? Borrowing, unemployment and inflation are up, yet the right hon. Lady tells us that the Government&#8217;s plan is working. It is not just me who is not convinced; the Members behind her are not convinced either. Nor are the public. In fact, I am not even sure whether the right hon. Lady herself is convinced. Is she not just a little embarrassed to defend policies that she does not even agree with?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.0",
+    "speaker": {
+      "member_id": "43416",
+      "name": "Mel Stride",
+      "house": "1",
+      "constituency": "Central Devon",
+      "party": "Conservative",
+      "person_id": "24914",
+      "url": "/mp/?p=24914",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Chancellor of the Exchequer",
+          "source": "",
+          "pretty": "Shadow Chancellor of the Exchequer"
+        }
+      ],
+      "image": "/people-images/mps/24914.jpg",
+      "desc": "Shadow Chancellor of the Exchequer; Central Devon, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430268",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.1",
+    "hpos": "100",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "25429",
+    "body": "<p pid=\"b1105.1/1\">I am embarrassed every week that an Opposition Member comes here who does not apologise for the mess they left this country in. One party crashed the economy and left families to pay the price. We are putting working people first. I am proud that we have got a huge boost to the minimum wage, the biggest uplift in affordable housing in a generation and that we have expanded free school meals to half a million children. The Tories&#8217; choice: billions of pounds in unfunded tax cuts for the very wealthy&#8212;we know where that gets us. It is the same old Tory failed approach. They have not listened, and they have not learnt a thing.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.1",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430269",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.2",
+    "hpos": "101",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "26468",
+    "body": "<p pid=\"b1105.2/1\" qnum=\"904866\">Prudhoe  community high school in my constituency was forced to relocate to Washington after its just over eight-year-old building, built under the previous Government, was found to have cracks in the infrastructure. This incredibly distressing news has required huge resilience and strength from the local community. Will my right hon. Friend join me in paying tribute to the staff, the parents and, most importantly, the students at Prudhoe community high school, and in commending them for their hard work and dedication during this incredibly destabilising time?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.2",
+    "speaker": {
+      "member_id": "43111",
+      "name": "Joe Morris",
+      "house": "1",
+      "constituency": "Hexham",
+      "party": "Labour",
+      "person_id": "26468",
+      "url": "/mp/?p=26468",
+      "office": {},
+      "image": "/people-images/mps/26468.jpg",
+      "desc": "; Hexham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430270",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.3",
+    "hpos": "102",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "25429",
+    "body": "<p pid=\"b1105.3/1\">I will do. I thank my hon. Friend for bringing this important issue to my attention. I can only imagine the disruption and challenges facing the school community. One of the shameful legacies of the Conservative party was leaving schools across our country literally crumbling. We are fixing that with &#163;20 billion of investment in the school rebuilding programme over the next decade to rebuild more than 750 schools. I know that the Minister for Early Education will be happy to meet him.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.3",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430271",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.4",
+    "hpos": "103",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "10295",
+    "body": "<p pid=\"b1105.4/1\">I call the deputy leader of the Liberal Democrats.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.4",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430272",
+    "htype": "12",
+    "gid": "2025-06-25b.1105.5",
+    "hpos": "104",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1105",
+    "person_id": "25901",
+    "body": "<p pid=\"b1105.5/1\">I associate myself and my party with the remarks of the Deputy Prime Minister in calling for de-escalation in the middle east, the release of hostages and urgent aid to get into Gaza.</p><p pid=\"b1105.5/2\">We Liberal Democrats oppose the Government&#8217;s cut to personal independence payments and carer&#8217;s allowance. With a growing rebellion on the Government Benches, the Government may be forced to push these cuts through with the support of the official Opposition. The Deputy Prime Minister knows that some of those affected are still waiting for justice after the carer&#8217;s allowance scandal saw thousands of innocent carers hounded for repayments. Can the Deputy Prime Minister give a cast-iron guarantee that if these cuts are pursued, at the very least, not a  single person will lose a penny until the carer&#8217;s allowance scandal review has been completed and the recommendations have been implemented?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1105.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1105.5",
+    "speaker": {
+      "member_id": "43336",
+      "name": "Daisy Cooper",
+      "house": "1",
+      "constituency": "St Albans",
+      "party": "Liberal Democrat",
+      "person_id": "25901",
+      "url": "/mp/?p=25901",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader, Liberal Democrats",
+          "source": "",
+          "pretty": "Deputy Leader, Liberal Democrats"
+        },
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Treasury)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Treasury)"
+        }
+      ],
+      "image": "/people-images/mps/25901.jpg",
+      "desc": "Deputy Leader, Liberal Democrats, Liberal Democrat Spokesperson (Treasury); St Albans, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430273",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.0",
+    "hpos": "105",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25429",
+    "body": "<p pid=\"b1106.0/1\">I thank the hon. Member for her opening comments. She knows that we have already taken steps on the carer&#8217;s allowance, and those steps will continue. As she also knows, the welfare system is failing people. Labour is the party of work, but we are also the party of fairness. That is why our Bill will deliver the largest, permanent, real-terms increase to basic out-of-work support since the 1980s, invest in tailored employment support so people can try work safely, and ensure that those who can never work are properly supported.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430274",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.1",
+    "hpos": "106",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25901",
+    "body": "<p pid=\"b1106.1/1\">It is disappointing that the Deputy Prime Minister could not give that cast-iron guarantee, but if the Government pursue the Bill next week, we will pursue this matter on behalf of carers.</p><p pid=\"b1106.1/2\">Given the reports that the Government are giving a green light to President Trump&#8217;s demands for a state visit to be brought forward to September, does the Deputy Prime Minister agree that the UK should urgently convene talks with the White House in advance of the visit in order to leverage it to secure US guarantees for Ukraine, including the use of frozen Russian assets, and to secure a joint UK-US message to Putin that together our two countries will not let him win his illegal war?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.1",
+    "speaker": {
+      "member_id": "43336",
+      "name": "Daisy Cooper",
+      "house": "1",
+      "constituency": "St Albans",
+      "party": "Liberal Democrat",
+      "person_id": "25901",
+      "url": "/mp/?p=25901",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader, Liberal Democrats",
+          "source": "",
+          "pretty": "Deputy Leader, Liberal Democrats"
+        },
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Treasury)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Treasury)"
+        }
+      ],
+      "image": "/people-images/mps/25901.jpg",
+      "desc": "Deputy Leader, Liberal Democrats, Liberal Democrat Spokesperson (Treasury); St Albans, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430275",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.2",
+    "hpos": "107",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25429",
+    "body": "<p pid=\"b1106.2/1\">The UK Government are always in discussions, negotiations and talks with our US counterparts. We are really pleased that the US President is coming for a second state visit, and we will continue to welcome in that vein and continue to have those discussions.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430276",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.3",
+    "hpos": "108",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25034",
+    "body": "<p pid=\"b1106.3/1\" qnum=\"904868\">In Oldham, 727 families are currently living in temporary accommodation, and 8,000 families are on the waiting list. That obviously has a devastating impact, particularly on children in those families. Will the Deputy Prime Minister outline how she will use the &#163;39 billion that was allocated to her Department in the spending review to fix the housing crisis left by the Opposition, so that families in Oldham, Saddleworth and wider can get the affordable homes they need?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.3",
+    "speaker": {
+      "member_id": "43136",
+      "name": "Debbie Abrahams",
+      "house": "1",
+      "constituency": "Oldham East and Saddleworth",
+      "party": "Labour",
+      "person_id": "25034",
+      "url": "/mp/?p=25034",
+      "office": [
+        {
+          "dept": "Work and Pensions Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Work and Pensions Committee"
+        },
+        {
+          "dept": "Work and Pensions Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Work and Pensions Committee"
+        }
+      ],
+      "image": "/people-images/mps/25034.jpg",
+      "desc": "Chair, Work and Pensions Committee, Chair, Work and Pensions Committee; Oldham East and Saddleworth, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430277",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.4",
+    "hpos": "109",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25429",
+    "body": "<p pid=\"b1106.4/1\">My hon. Friend is right, and as neighbouring MPs we know the impact that temporary accommodation and children being homeless has on their life chances. She is absolutely right to raise the issue, and to highlight the excellent work of Dr Laura Neilson, who is supporting us to develop a cross-Government homelessness strategy. All children should have a safe and secure home. That is why I am so proud that we have confirmed the biggest boost to social and affordable housing investment in a generation. We are getting on with the job, after the mess that the Conservatives left behind.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430278",
+    "htype": "12",
+    "gid": "2025-06-25b.1106.5",
+    "hpos": "110",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1106",
+    "person_id": "25280",
+    "body": "<p pid=\"b1106.5/1\">My colleagues and I identify with the comments around de-escalation in the middle east.</p><p pid=\"b1106.5/2\">I hope that the Deputy Prime Minister will condemn recent disorder on the streets of Northern Ireland, as the Prime Minister and my colleagues have done. Does she  accept that the Windsor framework, although sold to this House as a trade issue, is fundamentally impacting the ability of this sovereign Parliament to legislate on a UK-wide basis on matters of immigration? Will she commit to ensuring that the Government continue to challenge robustly the expansionism that is currently before the courts? If not, will she legislate to ensure that we as a country can control our own borders?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1106.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1106.5",
+    "speaker": {
+      "member_id": "43175",
+      "name": "Gavin Robinson",
+      "house": "1",
+      "constituency": "Belfast East",
+      "party": "DUP",
+      "person_id": "25280",
+      "url": "/mp/?p=25280",
+      "office": {},
+      "image": "/people-images/mps/25280.jpg",
+      "desc": "; Belfast East, DUP"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430279",
+    "htype": "12",
+    "gid": "2025-06-25b.1107.0",
+    "hpos": "111",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1107",
+    "person_id": "25429",
+    "body": "<p pid=\"b1107.0/1\">First, I do condemn the violence on the streets. Provisions in the Belfast/Good Friday agreement referred to in article 2 of the Windsor framework sought to address the long-standing and specific issues relating to Northern Ireland&#8217;s past. I hope the right hon. Gentleman is assured that we are appealing on a number of the laws relating to article 2 in the courts, including the Supreme Court. I hope he will also be assured by the reality that the Government have consistently applied and enforced immigration law on a UK-wide basis. The Government will take all necessary steps to defend that position, just as we will remain committed to protecting rights across the whole UK, as it should be Parliament that makes rules on immigration.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1107.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1107.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430280",
+    "htype": "12",
+    "gid": "2025-06-25b.1107.1",
+    "hpos": "112",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1107",
+    "person_id": "25368",
+    "body": "<p pid=\"b1107.1/1\" qnum=\"904871\">Last night, &#8220;Newsnight&#8221; covered the  three-year investigation into the nuked blood scandal, in which thousands of troops had blood and urine monitored and even chest x-rays during nuclear weapons testing, but the results were kept from their medical records and their suffering was denied for decades. I am a fierce supporter of those men and their families, and the Deputy Prime Minister has met them with me, so does she agree that, in this Armed Forces Week, time is now of the essence, and these elderly veterans deserve answers, justice, and an apology?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1107.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1107.1",
+    "speaker": {
+      "member_id": "43443",
+      "name": "Rebecca Long-Bailey",
+      "house": "1",
+      "constituency": "Salford",
+      "party": "Labour",
+      "person_id": "25368",
+      "url": "/mp/?p=25368",
+      "office": {},
+      "image": "/people-images/mps/25368.jpg",
+      "desc": "; Salford, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430281",
+    "htype": "12",
+    "gid": "2025-06-25b.1107.2",
+    "hpos": "113",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1107",
+    "person_id": "25429",
+    "body": "<p pid=\"b1107.2/1\">I commend my hon. Friend for her campaigning work on this issue. I have met some of those affected and know their strength of feeling; I have heard their deeply personal testimony of their experiences. Especially during Armed Forces Week, I pay tribute to all nuclear veterans and their enduring contribution to our nation&#8217;s security. We are looking into unresolved questions regarding medical records as a matter of priority.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1107.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1107.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430282",
+    "htype": "12",
+    "gid": "2025-06-25b.1107.3",
+    "hpos": "114",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1107",
+    "person_id": "25669",
+    "body": "<p pid=\"b1107.3/1\" qnum=\"904862\">I join the Deputy Prime Minister in thanking members of the armed forces community for their service. I have had the privilege in recent months of meeting many veterans in my constituency, some of whom still carry the trauma of war. Some, including amputees, have told me how repeat disability assessments are too often required of them in order to access financial support. Does the Deputy Prime Minister agree that veterans with life-changing service-related injuries should be exempted from repeat disability assessments?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1107.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1107.3",
+    "speaker": {
+      "member_id": "43108",
+      "name": "Ben Lake",
+      "house": "1",
+      "constituency": "Ceredigion Preseli",
+      "party": "Plaid Cymru",
+      "person_id": "25669",
+      "url": "/mp/?p=25669",
+      "office": {},
+      "image": "/people-images/mps/25669.jpg",
+      "desc": "; Ceredigion Preseli, Plaid Cymru"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430283",
+    "htype": "12",
+    "gid": "2025-06-25b.1107.4",
+    "hpos": "115",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1107",
+    "person_id": "25429",
+    "body": "<p pid=\"b1107.4/1\">Part of our reforms are to ensure that those who can never work are properly supported and not put through endless assessment, and I thank the hon. Member for raising this case. We are committed to renewing the nation&#8217;s contract with those who have served, and a range of support is in place for veterans, including dedicated medical and physical healthcare pathways in the NHS, employment, and  housing. The new support system, VALOUR, backed by &#163;50 million of funding, will provide a network of support centres to connect veterans with local and national services.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1107.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1107.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430284",
+    "htype": "12",
+    "gid": "2025-06-25b.1108.0",
+    "hpos": "116",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1108",
+    "person_id": "26404",
+    "body": "<p pid=\"b1108.0/1\" qnum=\"904873\">Successive Conservative Governments stripped our councils of funding for youth services, pitting them against services that were under statutory protections. That has led to one in eight councils no longer having a youth centre. Croydon, which is London&#8217;s youngest borough, is about to lose its youth engagement team and its last crumb of council-run universal youth provision. Can the Deputy Prime Minister outline what this Labour Government are doing to support our young people? Does she agree that it is time to look again at statutory protections for youth services, so that all young people, no matter where they live, can get the services they deserve?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1108.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1108.0",
+    "speaker": {
+      "member_id": "42984",
+      "name": "Natasha Irons",
+      "house": "1",
+      "constituency": "Croydon East",
+      "party": "Labour",
+      "person_id": "26404",
+      "url": "/mp/?p=26404",
+      "office": {},
+      "image": "/people-images/mps/26404.jpg",
+      "desc": "; Croydon East, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430285",
+    "htype": "12",
+    "gid": "2025-06-25b.1108.1",
+    "hpos": "117",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1108",
+    "person_id": "25429",
+    "body": "<p pid=\"b1108.1/1\">I completely agree with my hon. Friend that the Conservatives left a trail of devastation across education and youth services. [Interruption.] Given half the chance, judging by their moans, they would do it all over again. We are making different choices&#8212;working with young people to draw up a landmark new national youth strategy, investing &#163;145 million this year to provide stability to the youth sector, rolling out youth future hubs to expand access opportunities and reduce crime, and extending access to mental health support to nearly 1 million more children this year.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1108.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1108.1",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430286",
+    "htype": "12",
+    "gid": "2025-06-25b.1108.2",
+    "hpos": "118",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1108",
+    "person_id": "26581",
+    "body": "<p pid=\"b1108.2/1\" qnum=\"904863\">The  Government&#8217;s expansion of funded childcare from September is welcome, but early years settings face a critical staffing crisis that could make expanded provision practically impossible. Not enough applicants, a lack of qualifications, low salaries and high turnover mean that many nurseries are operating well below capacity. Many now find themselves operating at a loss, due to increased national insurance contributions. Can the Deputy Prime Minister outline what clear steps the Government are taking to address the crisis in early years staffing to ensure that all our children get the best possible start in life?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1108.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1108.2",
+    "speaker": {
+      "member_id": "43330",
+      "name": "James MacCleary",
+      "house": "1",
+      "constituency": "Lewes",
+      "party": "Liberal Democrat",
+      "person_id": "26581",
+      "url": "/mp/?p=26581",
+      "office": [
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Europe)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Europe)"
+        }
+      ],
+      "image": "/people-images/mps/26581.jpg",
+      "desc": "Liberal Democrat Spokesperson (Europe); Lewes, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430287",
+    "htype": "12",
+    "gid": "2025-06-25b.1108.3",
+    "hpos": "119",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1108",
+    "person_id": "25429",
+    "body": "<p pid=\"b1108.3/1\">First of all, I will out one of my kids in the Gallery, because he has just completed his studies on early years, so hopefully that will add a little help. We inherited a depleted early years sector, but we are determined to make sure that all children have the best possible start in life. That is why we are delivering the largest ever uplift to the early years pupil premium, boosting family hubs and Start for Life, funded by &#163;126 million this year, and investing &#163;370 million to create tens of thousands of places in new and expanded school-based nurseries.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1108.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1108.3",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430288",
+    "htype": "12",
+    "gid": "2025-06-25b.1108.4",
+    "hpos": "120",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1108",
+    "person_id": "26396",
+    "body": "<p pid=\"b1108.4/1\" qnum=\"904874\">Milton Keynes has one of the fastest growing tech sectors in the country; one in three people now work in tech jobs at firms such as Red Bull Racing and the AI company Aiimi. Eleanor, a student in my constituency, is in the Gallery today. Can the Deputy Prime Minister let her and this House know how the Government&#8217;s new industrial strategy will support our tech sector and provide her generation with good-quality jobs in the future?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1108.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1108.4",
+    "speaker": {
+      "member_id": "42964",
+      "name": "Chris Curtis",
+      "house": "1",
+      "constituency": "Milton Keynes North",
+      "party": "Labour",
+      "person_id": "26396",
+      "url": "/mp/?p=26396",
+      "office": {},
+      "image": "/people-images/mps/26396.jpg",
+      "desc": "; Milton Keynes North, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430289",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.0",
+    "hpos": "121",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "25429",
+    "body": "<p pid=\"b1109.0/1\">I am glad that I am not the only one who has a young person destined for the future in the Gallery today. My hon. Friend has been a huge champion for Milton Keynes, and he is right. After the Tory decline, it is time to turn the page. We have already created 384,000 jobs since the election, and our industrial strategy will create opportunities across the country and invest in jobs and industries of the future, including in Milton Keynes, where East West Rail will help to build 100,000 new homes and put &#163;6.7 million a year in the local economy.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430290",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.1",
+    "hpos": "122",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "26532",
+    "body": "<p pid=\"b1109.1/1\" qnum=\"904864\">In 1957, my constituent Ronald Clark was among 22,000 UK personnel exposed to nuclear testing on Christmas Island. Those veterans and their descendants have suffered various cancers, crippling illnesses and deformities, but the Ministry of Defence has never accepted liability. I note the Deputy Prime Minister&#8217;s response to the hon. Member for Salford (Rebecca Long Bailey), but it does not go quite far enough. Time is running out. Will the Deputy Prime Minister meet me, my constituent and those veterans to determine appropriate compensation?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.1",
+    "speaker": {
+      "member_id": "43241",
+      "name": "Cameron Thomas",
+      "house": "1",
+      "constituency": "Tewkesbury",
+      "party": "Liberal Democrat",
+      "person_id": "26532",
+      "url": "/mp/?p=26532",
+      "office": {},
+      "image": "/people-images/mps/26532.jpg",
+      "desc": "; Tewkesbury, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430291",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.2",
+    "hpos": "123",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "25429",
+    "body": "<p pid=\"b1109.2/1\">Again, I know the strength of feeling. I am grateful to the hon. Gentleman&#8217;s constituent Ronald and all the service personnel who participated in the British nuclear testing programme. I am sure that the Minister for Veterans would be happy to meet him and the veterans to discuss this issue.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430292",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.3",
+    "hpos": "124",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "26433",
+    "body": "<p pid=\"b1109.3/1\">Under the old guard of the Conservatives, families had to earn less than &#163;7,400, often in low-paid and insecure work, to qualify for free school meals. Under this Labour Government, thousands more children in Wolverhampton North East and 500,000 more across the country will benefit from free school meals. Will the Deputy Prime Minister outline how Labour&#8217;s plans will put more money in parents&#8217; pockets?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.3",
+    "speaker": {
+      "member_id": "43040",
+      "name": "Sureena Brackenridge",
+      "house": "1",
+      "constituency": "Wolverhampton North East",
+      "party": "Labour",
+      "person_id": "26433",
+      "url": "/mp/?p=26433",
+      "office": {},
+      "image": "/people-images/mps/26433.jpg",
+      "desc": "; Wolverhampton North East, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430293",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.4",
+    "hpos": "125",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "25429",
+    "body": "<p pid=\"b1109.4/1\">We are determined to tackle child poverty, which rose catastrophically under the last Government. That is why we are expanding access to free school meals to more than half a million children, which will lift 100,000 of the poorest children out of poverty and put &#163;500 back into parents&#8217; pockets. This is on top of 750 free breakfast clubs, worth &#163;450 a year to parents, and a historic uplift in the national minimum wage, worth up to &#163;2,500 to the lowest-paid workers.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430294",
+    "htype": "12",
+    "gid": "2025-06-25b.1109.5",
+    "hpos": "126",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1109",
+    "person_id": "26347",
+    "body": "<p pid=\"b1109.5/1\" qnum=\"904865\">Given that the right hon. Lady appears to be enjoying spending yet another week practising to be Prime Minister, maybe she can give us her view on who she would get rid of in the coming reshuffle. Would it be the Chancellor for killing economic growth? Would it be the Work and Pensions Secretary for the botched handling of the welfare Bill and the winter fuel cuts? Would it be the Environment Secretary for trying to destroy British family farms? Would it be the Foreign Secretary for giving away British sovereign territory and paying billions to rent it back? Or given that the Prime Minister is now polling as having had the most unpopular first year in modern British political history, would the right hon. Lady do herself and the country a favour and tell him to show himself the door?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1109.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1109.5",
+    "speaker": {
+      "member_id": "42863",
+      "name": "Andrew Snowden",
+      "house": "1",
+      "constituency": "Fylde",
+      "party": "Conservative",
+      "person_id": "26347",
+      "url": "/mp/?p=26347",
+      "office": [
+        {
+          "dept": "",
+          "position": "Opposition Assistant Whip (Commons)",
+          "source": "",
+          "pretty": "Opposition Assistant Whip (Commons)"
+        }
+      ],
+      "image": "/people-images/mps/26347.jpg",
+      "desc": "Opposition Assistant Whip (Commons); Fylde, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430295",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.0",
+    "hpos": "127",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "25429",
+    "body": "<p pid=\"b1110.0/1\">Maybe the hon. Gentleman wants a go next week, because it has been quite a carousel. The Leader of the Opposition said that she was going to get better week on week&#8212;she already has in the last two weeks by not turning up. I am just wondering when she is going to give the shadow Justice Secretary, <phrase class=\"honfriend\" name=\"Robert Jenrick\" person_id=\"uk.org.publicwhip/person/25227\">the right hon. Member for Newark (Robert Jenrick)</phrase>, a go.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430296",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.1",
+    "hpos": "128",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "26422",
+    "body": "<p pid=\"b1110.1/1\">I am proud and honoured to say that I have served this country as a reservist Parachute Regiment soldier. That is why I would like to take this opportunity to thank all our service members and their families during Armed Forces Week. This Labour Government have announced the largest sustained increase in defence spending since the end of the cold war. Will the Deputy Prime Minister set out how the Government will rebuild Britain and secure our defence for the future?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.1",
+    "speaker": {
+      "member_id": "43018",
+      "name": "Bayo Alaba",
+      "house": "1",
+      "constituency": "Southend East and Rochford",
+      "party": "Labour",
+      "person_id": "26422",
+      "url": "/mp/?p=26422",
+      "office": {},
+      "image": "/people-images/mps/26422.jpg",
+      "desc": "; Southend East and Rochford, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430297",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.2",
+    "hpos": "129",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "25429",
+    "body": "<p pid=\"b1110.2/1\">I thank my hon. Friend for his question and for his service. He is absolutely right&#8212;our armed forces represent the very best of Britain, and put their lives on the line for us every day. It is our responsibility to support those who defend us, so we are delivering the biggest sustained boost to defence spending since the end of the cold war. The strategic defence review sets out our vision for defence, driving jobs and prosperity and renewing the nation&#8217;s contract with those who serve to secure Britain into the future.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430298",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.3",
+    "hpos": "130",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "25323",
+    "body": "<p pid=\"b1110.3/1\" qnum=\"904867\">It is a pleasure to be asking the right hon. Lady another question at Prime Minister&#8217;s questions, although just the one this time. There has been a proliferation of houses in multiple occupation in my constituency, in places such as Potters Bar and Borehamwood. Quiet residential streets such as Tiverton Road and Organ Hall Road are being blighted by family houses being converted into houses in multiple occupation, leading to a surge in antisocial behaviour and parking problems. May I therefore urge the right hon. Lady to look at enhancing the powers of local councils to stop these kinds of developments where they are not wanted?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.3",
+    "speaker": {
+      "member_id": "42977",
+      "name": "Oliver Dowden",
+      "house": "1",
+      "constituency": "Hertsmere",
+      "party": "Conservative",
+      "person_id": "25323",
+      "url": "/mp/?p=25323",
+      "office": {},
+      "image": "/people-images/mps/25323.jpg",
+      "desc": "; Hertsmere, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430299",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.4",
+    "hpos": "131",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "25429",
+    "body": "<p pid=\"b1110.4/1\">I do miss our exchanges. I hope the right hon. Gentleman has been wearing his factor 50&#8212;he knows how it can get for us gingers in the hot weather. He also knows that local authorities have planning powers to limit the proliferation of small houses being turned into houses in multiple occupation. His Government left a housing crisis, and I am getting on with fixing that through the 1.5 million homes that we are going to deliver.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430300",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.5",
+    "hpos": "132",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "26333",
+    "body": "<p pid=\"b1110.5/1\">Just this week, <phrase class=\"honfriend\" name=\"Nigel Farage\" person_id=\"uk.org.publicwhip/person/26352\">the hon. Member for Clacton (Nigel Farage)</phrase> put a singular burning injustice first: the plight of overseas billionaires who pay too much tax. Does the Deputy Prime Minister agree with the hon. Member&#8217;s priority, or does she agree with me that Reform UK doing sweetheart deals with the super-rich is a betrayal of British working people?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.5",
+    "speaker": {
+      "member_id": "42833",
+      "name": "Kanishka Narayan",
+      "house": "1",
+      "constituency": "Vale of Glamorgan",
+      "party": "Labour",
+      "person_id": "26333",
+      "url": "/mp/?p=26333",
+      "office": {},
+      "image": "/people-images/mps/26333.jpg",
+      "desc": "; Vale of Glamorgan, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430301",
+    "htype": "12",
+    "gid": "2025-06-25b.1110.6",
+    "hpos": "133",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1110",
+    "person_id": "25429",
+    "body": "<p pid=\"b1110.6/1\">I was asked about the hon. Member for Clacton&#8217;s mathematics the other week, and my hon. Friend is absolutely right&#8212;the mask has slipped again this week. The hon. Member for Clacton  demands billions more in unfunded tax cuts for the very richest while he marches through the Lobby in the House of Commons to vote against sick pay for the lowest earners. We know what would pay for Reform&#8217;s tax breaks for overseas billionaires; it would be tax hikes on working people and patients being charged to seeing their doctor. Labour will not let that happen.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1110.6",
+    "commentsurl": "/debates/?id=2025-06-25b.1110.6",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430302",
+    "htype": "12",
+    "gid": "2025-06-25b.1111.0",
+    "hpos": "134",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1111",
+    "person_id": "26582",
+    "body": "<p pid=\"b1111.0/1\" qnum=\"904869\">When my young constituent Axel was given his education, health and care plan a year ago, his primary school place was withdrawn, with no replacement offered. His nursery allowed him to stay on until Christmas, but since then, apart from a short break at a school, he has had nothing. He is at home with his mum, with no alternative provision for younger children, who cannot travel a long way. His mother also cannot go to work. I welcome the White Paper in the autumn, but can the Deputy Prime Minister commit to Axel&#8217;s mum&#8212;and the parents of Freddie, Ieuan, Ethan, and the other 640 children with special education needs and disabilities with no school to go to&#8212;that there will be somewhere for them in September?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1111.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1111.0",
+    "speaker": {
+      "member_id": "43333",
+      "name": "Vikki Slade",
+      "house": "1",
+      "constituency": "Mid Dorset and North Poole",
+      "party": "Liberal Democrat",
+      "person_id": "26582",
+      "url": "/mp/?p=26582",
+      "office": [
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)"
+        }
+      ],
+      "image": "/people-images/mps/26582.jpg",
+      "desc": "Liberal Democrat Spokesperson (Housing, Communities and Local Government); Mid Dorset and North Poole, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430303",
+    "htype": "12",
+    "gid": "2025-06-25b.1111.1",
+    "hpos": "135",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1111",
+    "person_id": "25429",
+    "body": "<p pid=\"b1111.1/1\">I am really sorry to hear about Axel and the other cases that the hon. Member mentioned. Those with special educational needs deserve proper support and should not be left at home. We are determined to fix the SEND system and support children before issues escalate to this type of crisis point. We are investing &#163;3.4 billion this year to deploy specialist teams across early years and primary school settings, helping to identify and respond to speech and language needs, particularly for children with SEND. We will set out our full plans on the reform of SEND this autumn, including support for the early years.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1111.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1111.1",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430304",
+    "htype": "12",
+    "gid": "2025-06-25b.1111.2",
+    "hpos": "136",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1111",
+    "person_id": "26311",
+    "body": "<p pid=\"b1111.2/1\">Growth needs to be delivered and felt in all parts of the country, and the infrastructure strategy, changes to the Green Book and the &#163;1.8 billion secured for the north-east are a clear demonstration of our commitment to that. In my area, Moor Farm roundabout is blocking growth and causing misery for people locally. Does the Deputy Prime Minister agree that improving infrastructure in the north, like at Moor Farm, will show how we are investing in all parts of the country?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1111.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1111.2",
+    "speaker": {
+      "member_id": "42789",
+      "name": "Emma Foody",
+      "house": "1",
+      "constituency": "Cramlington and Killingworth",
+      "party": "Labour/Co-operative",
+      "person_id": "26311",
+      "url": "/mp/?p=26311",
+      "office": {},
+      "image": "/people-images/mps/26311.jpg",
+      "desc": "; Cramlington and Killingworth, Labour/Co-operative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430305",
+    "htype": "12",
+    "gid": "2025-06-25b.1111.3",
+    "hpos": "137",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1111",
+    "person_id": "25429",
+    "body": "<p pid=\"b1111.3/1\">My hon. Friend is absolutely right. The previous Government did not have a plan for areas like the north-east. I know she has been a champion for the Moor Farm roundabout. This Government are changing the situation by investing &#163;15.6 billion in local transport projects across the country, opening up access to jobs and improving living standards, including in the north-east.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1111.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1111.3",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430306",
+    "htype": "12",
+    "gid": "2025-06-25b.1111.4",
+    "hpos": "138",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1111",
+    "person_id": "25679",
+    "body": "<p pid=\"b1111.4/1\" qnum=\"904870\">Labour has invited proposals from cities to expand their boundaries, and the Mayor of Leicester wants to expand the city to swallow up areas like Oadby, Wigston and Great Glen, but local people do not want that, and thousands have signed our petition against it. It is not just about the higher council tax; they want to keep their own local identity. Will the Deputy Prime Minister rule out this totally unwelcome city takeover? If she does want to press ahead with it, will she at least give us a say in a local referendum, so that we can tell her again that we do not want this?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1111.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1111.4",
+    "speaker": {
+      "member_id": "43029",
+      "name": "Neil O'Brien",
+      "house": "1",
+      "constituency": "Harborough, Oadby and Wigston",
+      "party": "Conservative",
+      "person_id": "25679",
+      "url": "/mp/?p=25679",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Minister (Education)",
+          "source": "",
+          "pretty": "Shadow Minister (Education)"
+        }
+      ],
+      "image": "/people-images/mps/25679.jpg",
+      "desc": "Shadow Minister (Education); Harborough, Oadby and Wigston, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430307",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.0",
+    "hpos": "139",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "25429",
+    "body": "<p pid=\"b1112.0/1\">Well, what the Conservatives were told at the general election was, &#8220;We don&#8217;t want you.&#8221; [Interruption.] All right, I meant &#8220;them&#8221;: the hon. Gentleman&#8217;s Government. He might have slipped through! The one thing that I will say is that the hon. Member has said about his own Government, &#8220;There&#8217;s a lot of things we should have done that we didn&#8217;t do.&#8221; To be honest, I could not agree more&#8212;and we are getting on and doing it.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430308",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.1",
+    "hpos": "140",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "26340",
+    "body": "<p pid=\"b1112.1/1\">In Armed Forces Week, will the Deputy Prime Minister join me in paying tribute to my former colleagues at RAF Brize Norton? I know she will share my horror that some on the Opposition Benches responded to the appalling attack on that base not by recognising the consequences of 14 years of Conservative under-investment in our defence, but by personally smearing one of our brave members of the Royal Air Force. Does she agree with me and my hon. and gallant Friend <phrase class=\"honfriend\" name=\"Louise Jones\" person_id=\"uk.org.publicwhip/person/26586\">the Member for North East Derbyshire (Louise Jones)</phrase> that this Labour Government will always support our armed forces, and that those shameful comments by the deputy leader of Reform, <phrase class=\"honfriend\" name=\"Richard Tice\" person_id=\"uk.org.publicwhip/person/26399\">the hon. Member for Boston and Skegness (Richard Tice)</phrase>, bring disgrace upon him and his party?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.1",
+    "speaker": {
+      "member_id": "42848",
+      "name": "Calvin Bailey",
+      "house": "1",
+      "constituency": "Leyton and Wanstead",
+      "party": "Labour",
+      "person_id": "26340",
+      "url": "/mp/?p=26340",
+      "office": {},
+      "image": "/people-images/mps/26340.jpg",
+      "desc": "; Leyton and Wanstead, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430309",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.2",
+    "hpos": "141",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "25429",
+    "body": "<p pid=\"b1112.2/1\">My hon. and gallant Friend speaks with great authenticity and authority on this matter. The attack on RAF Brize Norton was disgraceful, but what was even more disgraceful was Reform blaming the commanding officer&#8212;an accomplished woman who has served her country&#8212;rather than the criminals who were responsible. That is not leadership, but we should not expect anything better from the party of the Putin apologists.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.2",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.2",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430310",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.3",
+    "hpos": "142",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "25596",
+    "body": "<p pid=\"b1112.3/1\" qnum=\"904872\">London boroughs are collectively facing a funding shortfall of at least &#163;500 million for the current financial year. Despite that, the money allocated to local authorities in London by the Government&#8217;s spending review fell 35% short of the amount requested by London councils. Under the Government&#8217;s planned changes to local authority funding, the two councils in my constituency&#8212;Richmond and Kingston&#8212;are set to lose out even more, while the cost of funding local services continues to rise. Is it the Government&#8217;s policy that London residents should continue to receive ever-increasing council tax bills, while their local authorities have less and less money to spend?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.3",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.3",
+    "speaker": {
+      "member_id": "43290",
+      "name": "Sarah Olney",
+      "house": "1",
+      "constituency": "Richmond Park",
+      "party": "Liberal Democrat",
+      "person_id": "25596",
+      "url": "/mp/?p=25596",
+      "office": [
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Cabinet Office)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Cabinet Office)"
+        }
+      ],
+      "image": "/people-images/mps/25596.jpg",
+      "desc": "Liberal Democrat Spokesperson (Cabinet Office); Richmond Park, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430311",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.4",
+    "hpos": "143",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "25429",
+    "body": "<p pid=\"b1112.4/1\">We are fixing the foundations of local government after the 14 years of austerity that were inflicted on local government, with the aiding and abetting of the hon. Lady&#8217;s party. We have put record funding into local government, with multi-year settlements: we are helping local government, where the last Government ruined it.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.4",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.4",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430312",
+    "htype": "12",
+    "gid": "2025-06-25b.1112.5",
+    "hpos": "144",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1112",
+    "person_id": "26481",
+    "body": "<p pid=\"b1112.5/1\">Digital black spots&#8212;areas without good mobile broadband connectivity&#8212;are holding communities back. In Middleton, an area that my right hon. Friend knows well as a fellow Greater Manchester MP, many local businesses and people remain cut off from the economic growth of the wider city region due to the lack of a mobile signal. How can we ensure that this Government&#8217;s mission to capitalise on the promise of technology is felt in all parts of the country, including Middleton?</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1112.5",
+    "commentsurl": "/debates/?id=2025-06-25b.1112.5",
+    "speaker": {
+      "member_id": "43132",
+      "name": "Elsie Blundell",
+      "house": "1",
+      "constituency": "Heywood and Middleton North",
+      "party": "Labour",
+      "person_id": "26481",
+      "url": "/mp/?p=26481",
+      "office": {},
+      "image": "/people-images/mps/26481.jpg",
+      "desc": "; Heywood and Middleton North, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430313",
+    "htype": "12",
+    "gid": "2025-06-25b.1113.0",
+    "hpos": "145",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1113",
+    "person_id": "25429",
+    "body": "<p pid=\"b1113.0/1\">I have experienced digital black spots as well, so I understand my hon. Friend&#8217;s frustration. The industrial strategy was launched this week, and there were some great ideas to make sure that we get superfast broadband everywhere and we can all use our phones&#8212;to make sure we can get connected, whereas the last Government left us disconnected.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1113.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1113.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430314",
+    "htype": "12",
+    "gid": "2025-06-25b.1113.1",
+    "hpos": "146",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1113",
+    "person_id": "10133",
+    "body": "<p pid=\"b1113.1/1\" qnum=\"904875\">If he will list his official engagements for Wednesday 25 June. </p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1113.1",
+    "commentsurl": "/debates/?id=2025-06-25b.1113.1",
+    "speaker": {
+      "member_id": "42878",
+      "name": "Jeremy Corbyn",
+      "house": "1",
+      "constituency": "Islington North",
+      "party": "Independent",
+      "person_id": "10133",
+      "url": "/mp/?p=10133",
+      "office": {},
+      "image": "/people-images/mps/10133.jpg",
+      "desc": "; Islington North, Independent"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29430315",
+    "htype": "12",
+    "gid": "2025-06-25b.1114.0",
+    "hpos": "147",
+    "section_id": "29430250",
+    "subsection_id": "29430252",
+    "hdate": "2025-06-25",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "1114",
+    "person_id": "25429",
+    "body": "<p pid=\"b1114.0/1\">Israel&#8217;s recent action is appalling and counterproductive, and we strongly oppose the expansion of military operations, settler violence and the blocking of humanitarian aid. We have suspended free trade agreement talks and sanctioned extremists supporting settler expansion in the west bank. It is a long-standing principle that genocide is determined by competent international courts and not by Governments, and we do not sell arms directly to the Israel Defence Forces when that might breach international humanitarian law.</p>",
+    "listurl": "/debates/?id=2025-06-25b.1102.7#g1114.0",
+    "commentsurl": "/debates/?id=2025-06-25b.1114.0",
+    "speaker": {
+      "member_id": "42808",
+      "name": "Angela Rayner",
+      "house": "1",
+      "constituency": "Ashton-under-Lyne",
+      "party": "Labour",
+      "person_id": "25429",
+      "url": "/mp/?p=25429",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader of the Labour Party",
+          "source": "",
+          "pretty": "Deputy Leader of the Labour Party"
+        },
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Secretary of State for Housing, Communities and Local Government",
+          "source": "",
+          "pretty": "The Secretary of State for Housing, Communities and Local Government"
+        }
+      ],
+      "image": "/people-images/mps/25429.jpg",
+      "desc": "Deputy Leader of the Labour Party, Deputy Prime Minister, The Secretary of State for Housing, Communities and Local Government; Ashton-under-Lyne, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  }
+]

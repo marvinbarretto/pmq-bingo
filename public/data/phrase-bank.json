@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "p1",
+    "text": "Prime Minister",
+    "frequency": 604,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p2",
+    "text": "The Prime",
+    "frequency": 496,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p3",
+    "text": "The Prime Minister",
+    "frequency": 460,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p4",
+    "text": "My Hon",
+    "frequency": 155,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p5",
+    "text": "The Hon",
+    "frequency": 153,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p6",
+    "text": "Hon Friend",
+    "frequency": 150,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p7",
+    "text": "The Right",
+    "frequency": 150,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p8",
+    "text": "My Hon Friend",
+    "frequency": 136,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p9",
+    "text": "Right Hon",
+    "frequency": 135,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p10",
+    "text": "Will the Prime",
+    "frequency": 121,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p11",
+    "text": "Will the Prime Minister",
+    "frequency": 121,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p12",
+    "text": "The Right Hon",
+    "frequency": 117,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p13",
+    "text": "The House",
+    "frequency": 107,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p14",
+    "text": "The Conservatives",
+    "frequency": 102,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p15",
+    "text": "Deputy Prime",
+    "frequency": 99,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p16",
+    "text": "The Deputy",
+    "frequency": 98,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p17",
+    "text": "The Government",
+    "frequency": 96,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p18",
+    "text": "Hon Member",
+    "frequency": 95,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p19",
+    "text": "Leader of",
+    "frequency": 93,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p20",
+    "text": "Deputy Prime Minister",
+    "frequency": 91,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p21",
+    "text": "The Country",
+    "frequency": 89,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p22",
+    "text": "Member for",
+    "frequency": 88,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p23",
+    "text": "The Deputy Prime",
+    "frequency": 87,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p24",
+    "text": "The Leader",
+    "frequency": 85,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p25",
+    "text": "The Leader of",
+    "frequency": 85,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p26",
+    "text": "The Opposition",
+    "frequency": 81,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p27",
+    "text": "Ensure That",
+    "frequency": 81,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p28",
+    "text": "Hon Gentleman",
+    "frequency": 80,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p29",
+    "text": "The Hon Member",
+    "frequency": 79,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p30",
+    "text": "The Deputy Prime Minister",
+    "frequency": 79,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p31",
+    "text": "Leader of the",
+    "frequency": 78,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p32",
+    "text": "The First",
+    "frequency": 77,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p33",
+    "text": "Across the",
+    "frequency": 77,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p34",
+    "text": "The Leader of the",
+    "frequency": 74,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p35",
+    "text": "Hon Lady",
+    "frequency": 73,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p36",
+    "text": "Labour Government",
+    "frequency": 71,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p37",
+    "text": "Does the Prime",
+    "frequency": 67,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p38",
+    "text": "Does the Prime Minister",
+    "frequency": 67,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p39",
+    "text": "Hon Member for",
+    "frequency": 65,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p40",
+    "text": "Agree That",
+    "frequency": 64,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p41",
+    "text": "The Economy",
+    "frequency": 61,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p42",
+    "text": "Prime Minister's",
+    "frequency": 61,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p43",
+    "text": "Of the Opposition",
+    "frequency": 60,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p44",
+    "text": "Leader of the Opposition",
+    "frequency": 60,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p45",
+    "text": "The Last",
+    "frequency": 59,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p46",
+    "text": "The Chancellor",
+    "frequency": 59,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p47",
+    "text": "My Constituency",
+    "frequency": 56,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p48",
+    "text": "Right Hon Lady",
+    "frequency": 55,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p49",
+    "text": "The Right Hon Lady",
+    "frequency": 55,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p50",
+    "text": "Minister Agree",
+    "frequency": 55,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p51",
+    "text": "Prime Minister Agree",
+    "frequency": 55,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p52",
+    "text": "This Government",
+    "frequency": 54,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p53",
+    "text": "The Hon Member for",
+    "frequency": 54,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p54",
+    "text": "The Budget",
+    "frequency": 52,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p55",
+    "text": "This House",
+    "frequency": 51,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p56",
+    "text": "One of",
+    "frequency": 51,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p57",
+    "text": "Mr Speaker",
+    "frequency": 50,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p58",
+    "text": "For Raising",
+    "frequency": 50,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p59",
+    "text": "Last Week",
+    "frequency": 49,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p60",
+    "text": "In My Constituency",
+    "frequency": 49,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p61",
+    "text": "To Ensure",
+    "frequency": 49,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p62",
+    "text": "This Country",
+    "frequency": 49,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p63",
+    "text": "Thank the",
+    "frequency": 46,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p64",
+    "text": "Set Out",
+    "frequency": 46,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p65",
+    "text": "Minister Agree That",
+    "frequency": 46,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p66",
+    "text": "Prime Minister Agree That",
+    "frequency": 46,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p67",
+    "text": "The Whole",
+    "frequency": 45,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p68",
+    "text": "The Prime Minister Agree",
+    "frequency": 45,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p69",
+    "text": "To Ensure That",
+    "frequency": 45,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p70",
+    "text": "Of Course",
+    "frequency": 45,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p71",
+    "text": "Right to",
+    "frequency": 44,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p72",
+    "text": "Friend for",
+    "frequency": 44,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p73",
+    "text": "Hon Friend for",
+    "frequency": 44,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p74",
+    "text": "My Hon Friend for",
+    "frequency": 44,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p75",
+    "text": "This Morning",
+    "frequency": 42,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p76",
+    "text": "This Year",
+    "frequency": 42,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p77",
+    "text": "Is Right",
+    "frequency": 42,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p78",
+    "text": "Our Country",
+    "frequency": 42,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p79",
+    "text": "Right Hon Gentleman",
+    "frequency": 41,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p80",
+    "text": "The Right Hon Gentleman",
+    "frequency": 41,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p81",
+    "text": "The Nhs",
+    "frequency": 40,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p82",
+    "text": "The National",
+    "frequency": 40,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p83",
+    "text": "A New",
+    "frequency": 39,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p84",
+    "text": "A Labour",
+    "frequency": 39,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p85",
+    "text": "Number of",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p86",
+    "text": "In Relation",
+    "frequency": 38,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p87",
+    "text": "Relation to",
+    "frequency": 38,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p88",
+    "text": "In Relation to",
+    "frequency": 38,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p89",
+    "text": "Thank My",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p90",
+    "text": "Thank My Hon",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p91",
+    "text": "Thank My Hon Friend",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p92",
+    "text": "Under the",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p93",
+    "text": "The Hon Gentleman",
+    "frequency": 38,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p94",
+    "text": "The Prime Minister's",
+    "frequency": 36,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p95",
+    "text": "Waiting Lists",
+    "frequency": 35,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p96",
+    "text": "Across the Country",
+    "frequency": 35,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p97",
+    "text": "The Conservative",
+    "frequency": 35,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p98",
+    "text": "Join Me",
+    "frequency": 34,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p99",
+    "text": "Tribute to",
+    "frequency": 34,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p100",
+    "text": "The Government's",
+    "frequency": 34,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p101",
+    "text": "My Constituents",
+    "frequency": 34,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p102",
+    "text": "Raising This",
+    "frequency": 33,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p103",
+    "text": "Young People",
+    "frequency": 33,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p104",
+    "text": "The Biggest",
+    "frequency": 33,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p105",
+    "text": "This Labour",
+    "frequency": 33,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p106",
+    "text": "Join Me in",
+    "frequency": 32,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p107",
+    "text": "For Raising This",
+    "frequency": 32,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p108",
+    "text": "Thousands of",
+    "frequency": 32,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p109",
+    "text": "Welcome the",
+    "frequency": 32,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p110",
+    "text": "Working People",
+    "frequency": 32,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p111",
+    "text": "Whole House",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p112",
+    "text": "The Whole House",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p113",
+    "text": "Sure That",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p114",
+    "text": "Investment in",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p115",
+    "text": "This Week",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p116",
+    "text": "The Previous",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p117",
+    "text": "In the First",
+    "frequency": 31,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p118",
+    "text": "Northern Ireland",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p119",
+    "text": "Years of",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p120",
+    "text": "To Tackle",
+    "frequency": 31,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p121",
+    "text": "And Others",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p122",
+    "text": "In This House",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p123",
+    "text": "Friend the",
+    "frequency": 30,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p124",
+    "text": "This Issue",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p125",
+    "text": "Are Doing",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p126",
+    "text": "Agree with",
+    "frequency": 30,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p127",
+    "text": "To Deliver",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p128",
+    "text": "This Labour Government",
+    "frequency": 30,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p129",
+    "text": "The Truth",
+    "frequency": 29,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p130",
+    "text": "A Labour Government",
+    "frequency": 29,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p131",
+    "text": "Can the Prime",
+    "frequency": 29,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p132",
+    "text": "Can the Prime Minister",
+    "frequency": 29,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p133",
+    "text": "Minister Has",
+    "frequency": 29,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p134",
+    "text": "Continue to",
+    "frequency": 28,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p135",
+    "text": "Are Working",
+    "frequency": 28,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p136",
+    "text": "The Best",
+    "frequency": 28,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p137",
+    "text": "Thank the Hon",
+    "frequency": 27,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p138",
+    "text": "National Security",
+    "frequency": 27,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p139",
+    "text": "To Help",
+    "frequency": 27,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p140",
+    "text": "Make Sure",
+    "frequency": 27,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p141",
+    "text": "One of the",
+    "frequency": 27,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p142",
+    "text": "To Discuss",
+    "frequency": 26,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p143",
+    "text": "Hon Friend the",
+    "frequency": 26,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p144",
+    "text": "Mental Health",
+    "frequency": 26,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p145",
+    "text": "Cost of",
+    "frequency": 26,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p146",
+    "text": "House I",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p147",
+    "text": "Last Year",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p148",
+    "text": "House That",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p149",
+    "text": "The House That",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p150",
+    "text": "Last Government",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p151",
+    "text": "The Last Government",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p152",
+    "text": "Country and",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p153",
+    "text": "To Protect",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p154",
+    "text": "The New",
+    "frequency": 25,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p155",
+    "text": "Voted Against",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p156",
+    "text": "Government Have",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p157",
+    "text": "A Year",
+    "frequency": 25,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p158",
+    "text": "To Support",
+    "frequency": 24,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p159",
+    "text": "Working with",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p160",
+    "text": "The Member",
+    "frequency": 24,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p161",
+    "text": "Pay Tribute",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p162",
+    "text": "Important Issue",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p163",
+    "text": "Pay Tribute to",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p164",
+    "text": "The Fact",
+    "frequency": 24,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p165",
+    "text": "Liberal Democrats",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p166",
+    "text": "Is Important",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p167",
+    "text": "Prime Minister Has",
+    "frequency": 24,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p168",
+    "text": "In Place",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p169",
+    "text": "Proud to",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p170",
+    "text": "The United",
+    "frequency": 24,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p171",
+    "text": "The Case",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p172",
+    "text": "Minister Will",
+    "frequency": 23,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p173",
+    "text": "Friend the Member",
+    "frequency": 23,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p174",
+    "text": "The Member for",
+    "frequency": 23,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p175",
+    "text": "Friend the Member for",
+    "frequency": 23,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p176",
+    "text": "Call the Leader",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p177",
+    "text": "Call the Leader of",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p178",
+    "text": "Important That",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p179",
+    "text": "The Liberal",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p180",
+    "text": "Previous Government",
+    "frequency": 23,
+    "lastSeen": "2025-11-12"
+  },
+  {
+    "id": "p181",
+    "text": "The Previous Government",
+    "frequency": 23,
+    "lastSeen": "2025-11-12"
+  },
+  {
+    "id": "p182",
+    "text": "Look at",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p183",
+    "text": "The Past",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p184",
+    "text": "The Cost",
+    "frequency": 23,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p185",
+    "text": "Am Sure",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p186",
+    "text": "Hon Friend the Member",
+    "frequency": 22,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p187",
+    "text": "Since the",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p188",
+    "text": "The Tories",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p189",
+    "text": "Committed to",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p190",
+    "text": "The People",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p191",
+    "text": "Government Will",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p192",
+    "text": "Will the Deputy",
+    "frequency": 22,
+    "lastSeen": "2025-11-05"
+  },
+  {
+    "id": "p193",
+    "text": "Will the Deputy Prime",
+    "frequency": 22,
+    "lastSeen": "2025-11-05"
+  },
+  {
+    "id": "p194",
+    "text": "Of People",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p195",
+    "text": "The 163",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p196",
+    "text": "The Cost of",
+    "frequency": 22,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p197",
+    "text": "Later Today",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p198",
+    "text": "Public Services",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p199",
+    "text": "The Liberal Democrats",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p200",
+    "text": "Millions of",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p201",
+    "text": "Million Extra",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p202",
+    "text": "First Year",
+    "frequency": 21,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p203",
+    "text": "Have Already",
+    "frequency": 21,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p204",
+    "text": "The Public",
+    "frequency": 21,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p205",
+    "text": "Armed Forces",
+    "frequency": 21,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p206",
+    "text": "Am Proud",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p207",
+    "text": "Make Sure That",
+    "frequency": 21,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p208",
+    "text": "Needs to",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p209",
+    "text": "Morning I",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p210",
+    "text": "This Morning I",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p211",
+    "text": "People Who",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p212",
+    "text": "The Mess",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p213",
+    "text": "Minister Join",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p214",
+    "text": "Prime Minister Join",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p215",
+    "text": "Commit to",
+    "frequency": 20,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p216",
+    "text": "To Raise",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p217",
+    "text": "The Snp",
+    "frequency": 20,
+    "lastSeen": "2025-11-05"
+  },
+  {
+    "id": "p218",
+    "text": "That the Prime",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p219",
+    "text": "The Question",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p220",
+    "text": "His Government",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p221",
+    "text": "In This Country",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p222",
+    "text": "Conservative Party",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p223",
+    "text": "The Conservative Party",
+    "frequency": 20,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p224",
+    "text": "That the Government",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p225",
+    "text": "The World",
+    "frequency": 20,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p226",
+    "text": "In Addition",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p227",
+    "text": "Addition to",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p228",
+    "text": "In Addition to",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p229",
+    "text": "This House I",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p230",
+    "text": "Minister to",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p231",
+    "text": "Are Investing",
+    "frequency": 19,
+    "lastSeen": "2025-11-12"
+  },
+  {
+    "id": "p232",
+    "text": "The Future",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p233",
+    "text": "Free School",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p234",
+    "text": "School Meals",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p235",
+    "text": "Free School Meals",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p236",
+    "text": "Wants to",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p237",
+    "text": "Talks About",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p238",
+    "text": "The British",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p239",
+    "text": "Many of",
+    "frequency": 19,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p240",
+    "text": "Able to",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p241",
+    "text": "Prime Minister Will",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p242",
+    "text": "The Health",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p243",
+    "text": "Knows That",
+    "frequency": 19,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p244",
+    "text": "Billion of",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  },
+  {
+    "id": "p245",
+    "text": "Minister for",
+    "frequency": 19,
+    "lastSeen": "2025-11-19"
+  },
+  {
+    "id": "p246",
+    "text": "That the Prime Minister",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p247",
+    "text": "County Council",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p248",
+    "text": "For Clacton",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p249",
+    "text": "Member for Clacton",
+    "frequency": 19,
+    "lastSeen": "2025-11-26"
+  },
+  {
+    "id": "p250",
+    "text": "Proud That",
+    "frequency": 19,
+    "lastSeen": "2025-12-03"
+  }
+]

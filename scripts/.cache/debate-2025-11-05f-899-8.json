@@ -1,0 +1,3778 @@
+[
+  {
+    "epobject_id": "29725938",
+    "htype": "10",
+    "gid": "2025-11-05f.899.6",
+    "hpos": "70",
+    "section_id": "0",
+    "subsection_id": "0",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "899",
+    "body": "Prime Minister",
+    "contentcount": "0",
+    "listurl": "/debates/?id=2025-11-05f.899.6",
+    "commentsurl": "/debates/?id=2025-11-05f.899.6"
+  },
+  {
+    "epobject_id": "29725940",
+    "htype": "11",
+    "gid": "2025-11-05f.899.8",
+    "hpos": "72",
+    "section_id": "29725938",
+    "subsection_id": "0",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "899",
+    "person_id": "0",
+    "body": "Engagements",
+    "contentcount": "75",
+    "listurl": "/debates/?id=2025-11-05f.899.8",
+    "commentsurl": "/debates/?id=2025-11-05f.899.8",
+    "speaker": {},
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725941",
+    "htype": "12",
+    "gid": "2025-11-05f.899.9",
+    "hpos": "73",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "899",
+    "person_id": "10295",
+    "body": "<p pid=\"f899.9/1\">Before we begin, may I extend a warm welcome to the President of the Portuguese Parliament and his delegation, who are in the Gallery today?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g899.9",
+    "commentsurl": "/debates/?id=2025-11-05f.899.9",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725942",
+    "htype": "12",
+    "gid": "2025-11-05f.900.0",
+    "hpos": "74",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "26473",
+    "body": "<p pid=\"f900.0/1\" qnum=\"906191\">If he will list his official engagements for Wednesday 5 November.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.0",
+    "commentsurl": "/debates/?id=2025-11-05f.900.0",
+    "speaker": {
+      "member_id": "43116",
+      "name": "Connor Rand",
+      "house": "1",
+      "constituency": "Altrincham and Sale West",
+      "party": "Labour",
+      "person_id": "26473",
+      "url": "/mp/?p=26473",
+      "office": {},
+      "image": "/people-images/mps/26473.jpg",
+      "desc": "; Altrincham and Sale West, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725943",
+    "htype": "12",
+    "gid": "2025-11-05f.900.1",
+    "hpos": "75",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "10678",
+    "body": "<p pid=\"f900.1/1\">My right hon. and learned Friend the Prime Minister is in Brazil, attending COP30 in Bel&#233;m and the Earthshot prize ceremony alongside His Royal Highness the Prince of Wales.</p><p pid=\"f900.1/2\">The thoughts of the whole House remain with those affected by the appalling scenes we saw in Huntingdon and Peterborough, where I spent seven years of my life at school. We thank our emergency services for their outstanding professionalism and the individuals who showed such tremendous courage to defend others.</p><p pid=\"f900.1/3\">This weekend is Remembrance Sunday. We will never forget those who fought to defend our freedom. It has been one of the greatest honours of my career to meet our troops around the world, whether in Cyprus, the Gulf or Australia. This week, the Government announced the biggest renewal of armed forces housing in more than 50 years, kick-starting one of Britain&#8217;s most ambitious building programmes in decades.</p><p pid=\"f900.1/4\">This morning I had meetings with ministerial colleagues and others. In addition to my duties in this House, I shall have further such meetings later today.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.1",
+    "commentsurl": "/debates/?id=2025-11-05f.900.1",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725944",
+    "htype": "12",
+    "gid": "2025-11-05f.900.2",
+    "hpos": "76",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "26473",
+    "body": "<p pid=\"f900.2/1\">May I start by congratulating the Deputy Prime Minister on being the first black person to ever answer Prime Minister&#8217;s questions? It is a landmark moment for this place and for our country, and I hope he is proud.</p><p pid=\"f900.2/2\">My eight-year-old constituent Phoebe is battling cancer. Her parents are fundraising to help with treatment costs and to raise awareness of Phoebe&#8217;s condition. People across my constituency have been moved by her story and have come together to raise over &#163;122,000. Will the Deputy Prime Minister join me in paying tribute to Phoebe&#8217;s inspirational bravery, and will he celebrate the incredible generosity and community spirit of Altrincham and Sale West?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.2",
+    "commentsurl": "/debates/?id=2025-11-05f.900.2",
+    "speaker": {
+      "member_id": "43116",
+      "name": "Connor Rand",
+      "house": "1",
+      "constituency": "Altrincham and Sale West",
+      "party": "Labour",
+      "person_id": "26473",
+      "url": "/mp/?p=26473",
+      "office": {},
+      "image": "/people-images/mps/26473.jpg",
+      "desc": "; Altrincham and Sale West, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725945",
+    "htype": "12",
+    "gid": "2025-11-05f.900.3",
+    "hpos": "77",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "10678",
+    "body": "<p pid=\"f900.3/1\">It is very kind of my hon. Friend to say those opening remarks. I am conscious that my right hon. Friend <phrase class=\"honfriend\" name=\"Diane Abbott\" person_id=\"uk.org.publicwhip/person/10001\">the Member for Hackney North and Stoke Newington (Ms Abbott)</phrase>, and indeed the Leader of the Opposition, are both trailblazers who have stood at the Dispatch Box. It is important to recognise the progress that has been made, particularly in the wake of Black History Month.</p><p pid=\"f900.3/2\">I thank my hon. Friend for raising this issue. It is heartening to see a community rally around someone as brave as Phoebe, and I wish Phoebe, her twin brother Eric and her parents, Lindsey and Matt, the very best in their fight against cancer.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.3",
+    "commentsurl": "/debates/?id=2025-11-05f.900.3",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725946",
+    "htype": "12",
+    "gid": "2025-11-05f.900.4",
+    "hpos": "78",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "10295",
+    "body": "<p pid=\"f900.4/1\">I call the shadow Secretary of State for Defence.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.4",
+    "commentsurl": "/debates/?id=2025-11-05f.900.4",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725947",
+    "htype": "12",
+    "gid": "2025-11-05f.900.5",
+    "hpos": "79",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "900",
+    "person_id": "25414",
+    "body": "<p pid=\"f900.5/1\">May I begin by associating myself and the Opposition with the Deputy Prime Minister&#8217;s remarks about the terrible, horrific attack in Huntingdon? We wish a speedy recovery to those still in hospital and pay tribute to the brave actions of the public and the police.</p><p pid=\"f900.5/2\">Overnight, the father of the girl assaulted in Epping by Hadush Kebatu, the illegal immigrant released by accident, said that the Government had failed them &#8220;relentlessly&#8221;. I confess, I am surprised that the Deputy Prime Minister has not already apologised. I am going to give him an opportunity now: will he apologise to the family concerned?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g900.5",
+    "commentsurl": "/debates/?id=2025-11-05f.900.5",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725948",
+    "htype": "12",
+    "gid": "2025-11-05f.901.0",
+    "hpos": "80",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "10678",
+    "body": "<p pid=\"f901.0/1\">It is great to see the hon. Gentleman in his place. I had expected to see the shadow Justice Secretary, <phrase class=\"honfriend\" name=\"Robert Jenrick\" person_id=\"uk.org.publicwhip/person/25227\">the right hon. Member for Newark (Robert Jenrick)</phrase>, but I am nevertheless pleased to see the hon. Gentleman today. He must have missed the statement on this matter, because in it, I of course said sorry for the anxiety caused while Kebatu was at large. I repeat that now. It is hugely important that Dame Lynne Owens gets to the bottom of what has happened with her further investigation.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.0",
+    "commentsurl": "/debates/?id=2025-11-05f.901.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725949",
+    "htype": "12",
+    "gid": "2025-11-05f.901.1",
+    "hpos": "81",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "25414",
+    "body": "<p pid=\"f901.1/1\">Watching the interview last night was absolutely heartbreaking. I have to say, I do think the Deputy Prime Minister owes it to the family to offer an apology here on the Floor of the House&#8212;[Interruption.] But he should have done it at the start of his remarks.</p><p pid=\"f901.1/2\">These are very serious matters, which is why I want to ask the right hon. Gentleman a further, very important question: can he reassure the House that since Kebatu was released, no other asylum-seeking offender has been accidentally let out of prison?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.1",
+    "commentsurl": "/debates/?id=2025-11-05f.901.1",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725950",
+    "htype": "12",
+    "gid": "2025-11-05f.901.2",
+    "hpos": "82",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "10678",
+    "body": "<p pid=\"f901.2/1\">The Chamber is, thankfully, quiet, so I am surprised that the hon. Gentleman did not hear me when I said that of course I apologise and am sorry for the anxiety caused. Let me just remind him that he was a Justice Minister who allowed our prisons to get to this state in the first place. It is now for us to fix the mess that we have got into. It is important that Dame Lynne Owens can continue her work and understand what is happening. The hon. Gentleman knows that early releases began under the Conservatives&#8217; watch in 2021.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.2",
+    "commentsurl": "/debates/?id=2025-11-05f.901.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725951",
+    "htype": "12",
+    "gid": "2025-11-05f.901.3",
+    "hpos": "83",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "25414",
+    "body": "<p pid=\"f901.3/1\">We are talking about extremely serious crimes. I am going to ask the Deputy Prime Minister the question again. Can he reassure the House that since Kebatu was released, no other asylum-seeking offender has been accidentally let out of prison? It is a very specific question for him to answer.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.3",
+    "commentsurl": "/debates/?id=2025-11-05f.901.3",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725952",
+    "htype": "12",
+    "gid": "2025-11-05f.901.4",
+    "hpos": "84",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "10678",
+    "body": "<p pid=\"f901.4/1\">After Kebatu&#8217;s release, I put in place the toughest checks we have ever had in the prison system. It is important that Lynne Owens is able to get to the bottom of her work. I suspect there will be more checks and balances that we need to do. We inherited a complicated system that the Conservatives set up that was letting people out on the sly. That is part of the problem, and we are trying to fix it.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.4",
+    "commentsurl": "/debates/?id=2025-11-05f.901.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725953",
+    "htype": "12",
+    "gid": "2025-11-05f.901.5",
+    "hpos": "85",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "901",
+    "person_id": "25414",
+    "body": "<p pid=\"f901.5/1\">The right hon. Gentleman is the Justice Secretary; he is responsible for the justice system, and he needs to take responsibility. I am asking him a straight question and I am going to repeat it once more, for the avoidance of doubt, because he did not answer it twice. He is here to answer questions, so can he reassure the House that since Kebatu was released, no other asylum-seeking offender has been accidentally let out of prison? It is a clear question. Can he give an answer?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g901.5",
+    "commentsurl": "/debates/?id=2025-11-05f.901.5",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725954",
+    "htype": "12",
+    "gid": "2025-11-05f.902.0",
+    "hpos": "86",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10678",
+    "body": "<p pid=\"f902.0/1\">Get a grip, man! I know I am the Justice Secretary. That is why I am at the Dispatch Box, also as Deputy Prime Minister. We know that. [Interruption.] I am not going to pray in aid. Dame Lynne Owens is a former deputy commissioner in London and was head of the National Crime Agency. It is for her to get to the bottom of this work. We know that there have been spikes since 2021 under the hon. Gentleman&#8217;s watch. When did he come to this House and apologise?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.0",
+    "commentsurl": "/debates/?id=2025-11-05f.902.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725955",
+    "htype": "12",
+    "gid": "2025-11-05f.902.1",
+    "hpos": "87",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "25414",
+    "body": "<p pid=\"f902.1/1\">The purpose of government is to take&#8212;[Interruption.]</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.1",
+    "commentsurl": "/debates/?id=2025-11-05f.902.1",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725956",
+    "htype": "12",
+    "gid": "2025-11-05f.902.2",
+    "hpos": "88",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10295",
+    "body": "<p pid=\"f902.2/1\">Order. I want to hear both Members. Be quiet.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.2",
+    "commentsurl": "/debates/?id=2025-11-05f.902.2",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725957",
+    "htype": "12",
+    "gid": "2025-11-05f.902.3",
+    "hpos": "89",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "25414",
+    "body": "<p pid=\"f902.3/1\">It is getting noisy in here, so I say this again, just in case the Deputy Prime Minister did not hear me. He is the Justice Secretary. Can he reassure the House that since&#8212;[Interruption.]</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.3",
+    "commentsurl": "/debates/?id=2025-11-05f.902.3",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725958",
+    "htype": "12",
+    "gid": "2025-11-05f.902.4",
+    "hpos": "90",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10295",
+    "body": "<p pid=\"f902.4/1\">Order. I will have no gestures from Members in the balcony. Do not gesture to me; it is not a wise decision. This is important. It is Prime Minister&#8217;s questions, and all our constituents are listening.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.4",
+    "commentsurl": "/debates/?id=2025-11-05f.902.4",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725959",
+    "htype": "12",
+    "gid": "2025-11-05f.902.5",
+    "hpos": "91",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "25414",
+    "body": "<p pid=\"f902.5/1\">People in Epping and right across the country want to know the answer, so I am going to ask the right hon. Gentleman this question again. He is the Justice Secretary. Can he reassure the House that since Kebatu was released, no other asylum-seeking offender has been accidentally let out of prison? Can he answer the question?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.5",
+    "commentsurl": "/debates/?id=2025-11-05f.902.5",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725960",
+    "htype": "12",
+    "gid": "2025-11-05f.902.6",
+    "hpos": "92",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10678",
+    "body": "<p pid=\"f902.6/1\">I have got to tell the hon. Gentleman: I spent 14 years in opposition and I did a hell of a lot better than he has just done. I have answered the question. Under the Conservatives&#8217; watch, prisons were in a mess. Suicides went up, prison officers were cut, and 20,000 neighbourhood police officers were lost. We have deported more people in the last year than they deported in the last five years. Please, I am not going to take any lecturing from the hon. Gentleman&#8212;</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.6",
+    "commentsurl": "/debates/?id=2025-11-05f.902.6",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725961",
+    "htype": "12",
+    "gid": "2025-11-05f.902.7",
+    "hpos": "93",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10295",
+    "body": "<p pid=\"f902.7/1\">Order. Mr Dewhirst and Mr Stafford, you test my patience each week. Today is not the day to do so; we have a long weekend coming.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.7",
+    "commentsurl": "/debates/?id=2025-11-05f.902.7",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725962",
+    "htype": "12",
+    "gid": "2025-11-05f.902.8",
+    "hpos": "94",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "25414",
+    "body": "<p pid=\"f902.8/1\">The public are extremely concerned about what happened in the Kebatu case; they want to know that there will not be a repeat, so I am putting to the Deputy Prime Minister a very clear question about his responsibilities. I repeat: can he reassure the House that since Kebatu was released no other asylum-seeking offender has been accidently let out of prison? Can he answer the question?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.8",
+    "commentsurl": "/debates/?id=2025-11-05f.902.8",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725963",
+    "htype": "12",
+    "gid": "2025-11-05f.902.9",
+    "hpos": "95",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "902",
+    "person_id": "10678",
+    "body": "<p pid=\"f902.9/1\">I am looking forward to being up against the right hon. Member for Newark next time. In 25 years in this House, I have not witnessed a more shameful spectacle, frankly, than what the Conservatives left in our justice system&#8212;their criminal negligence, on the hon. Gentleman&#8217;s watch as a Justice Minister. They left our prisons on the brink of collapse entirely, threatening to allow offenders to run wild on our streets&#8212;he knows that! Rape victims waited years for their day in court&#8212;he knows that! Neighbourhood policing was decimated, leaving our people feeling unsafe  in their communities. The Conservatives have not learned a thing. We are tackling knife crime. That is why it is falling. We are putting 13,000 more bobbies on the streets and kicking out 5,000 foreign national offenders. I have got to say to the hon. Gentleman: he should do better.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g902.9",
+    "commentsurl": "/debates/?id=2025-11-05f.902.9",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725964",
+    "htype": "12",
+    "gid": "2025-11-05f.903.0",
+    "hpos": "96",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "10295",
+    "body": "<p pid=\"f903.0/1\">I call Jonathan Brash.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.0",
+    "commentsurl": "/debates/?id=2025-11-05f.903.0",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725965",
+    "htype": "12",
+    "gid": "2025-11-05f.903.1",
+    "hpos": "97",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "26339",
+    "body": "<p class=\"italic\" pid=\"f903.1/1\">rose&#8212;</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.1",
+    "commentsurl": "/debates/?id=2025-11-05f.903.1",
+    "speaker": {
+      "member_id": "42845",
+      "name": "Jonathan Brash",
+      "house": "1",
+      "constituency": "Hartlepool",
+      "party": "Labour",
+      "person_id": "26339",
+      "url": "/mp/?p=26339",
+      "office": {},
+      "image": "/people-images/mps/26339.jpg",
+      "desc": "; Hartlepool, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725966",
+    "htype": "12",
+    "gid": "2025-11-05f.903.2",
+    "hpos": "98",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "25414",
+    "body": "<p class=\"italic\" pid=\"f903.2/1\">rose&#8212;</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.2",
+    "commentsurl": "/debates/?id=2025-11-05f.903.2",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725967",
+    "htype": "12",
+    "gid": "2025-11-05f.903.3",
+    "hpos": "99",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "10295",
+    "body": "<p pid=\"f903.3/1\">Order. I thought we had had six. I call James Cartlidge&#8212;[Interruption.] You have had your six questions&#8212;I was correct! I call Jonathan Brash.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.3",
+    "commentsurl": "/debates/?id=2025-11-05f.903.3",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725968",
+    "htype": "12",
+    "gid": "2025-11-05f.903.4",
+    "hpos": "100",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "26339",
+    "body": "<p pid=\"f903.4/1\" qnum=\"906193\">My constituent Georgia Hart was just 15 years old when she was diagnosed with Friedreich&#8217;s ataxia, a cruel and degenerative condition that slowly robs a person of their mobility and independence. Since then, her courageous parents have battled day in and day out to raise awareness and money to get her the treatment she needs. There is now a drug, omaveloxolone, which has been proven to slow the progression of the disease, yet despite that it has been stalled by the National Institute for Health and Care Excellence, partly because the number of patients affected is judged to be above the limit for ultra-rare conditions.</p><p pid=\"f903.4/2\">Georgia and those like her are being failed not because the science is not there and not because the treatment is not there but simply because the numbers do not add up. Does the Deputy Prime Minister agree that we cannot allow bureaucracy to stand in the way of life-changing treatment? Will he commit to ensuring that I, along with Ataxia UK, can meet the relevant Minister at the earliest opportunity so that Georgia and her family do not lose more precious time?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.4",
+    "commentsurl": "/debates/?id=2025-11-05f.903.4",
+    "speaker": {
+      "member_id": "42845",
+      "name": "Jonathan Brash",
+      "house": "1",
+      "constituency": "Hartlepool",
+      "party": "Labour",
+      "person_id": "26339",
+      "url": "/mp/?p=26339",
+      "office": {},
+      "image": "/people-images/mps/26339.jpg",
+      "desc": "; Hartlepool, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725969",
+    "htype": "12",
+    "gid": "2025-11-05f.903.5",
+    "hpos": "101",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "10678",
+    "body": "<p pid=\"f903.5/1\">It seems that, like <phrase class=\"honfriend\" name=\"James Cleverly\" person_id=\"uk.org.publicwhip/person/25376\">the right hon. Member for Braintree (Sir James Cleverly)</phrase>, <phrase class=\"honfriend\" name=\"James Cartlidge\" person_id=\"uk.org.publicwhip/person/25414\">the hon. Member for South Suffolk (James Cartlidge)</phrase> cannot count, let alone stand up on behalf of the public.</p><p pid=\"f903.5/2\">I thank my hon. Friend <phrase class=\"honfriend\" name=\"Jonathan Brash\" person_id=\"uk.org.publicwhip/person/26339\">the Member for Hartlepool (Mr Brash)</phrase> for his question. Our NHS has a strong record in delivering new medicines for rare diseases. The evaluation process is rightly led by NICE. As I understand it, the manufacturer of the new treatment for Friedreich&#8217;s ataxia has withdrawn from the process. However, the door remains open for the company to re-engage. I am happy to arrange the meeting that my hon. Friend seeks to help ensure more broadly that everyone gets the care they deserve while we are investing an additional &#163;29 billion in the national health service.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.5",
+    "commentsurl": "/debates/?id=2025-11-05f.903.5",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725970",
+    "htype": "12",
+    "gid": "2025-11-05f.903.6",
+    "hpos": "102",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "10295",
+    "body": "<p pid=\"f903.6/1\">I call the deputy leader of the Liberal Democrats.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.6",
+    "commentsurl": "/debates/?id=2025-11-05f.903.6",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725971",
+    "htype": "12",
+    "gid": "2025-11-05f.903.7",
+    "hpos": "103",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "903",
+    "person_id": "25901",
+    "body": "<p pid=\"f903.7/1\">On behalf of my party, may I join the Deputy Prime Minister in expressing our horror at the terrifying knife attack at the weekend and pay tribute to all those, including the emergency services, who put themselves in harm&#8217;s way to protect others? As we approach Remembrance Sunday, may I also join him in remembering all those who gave the ultimate sacrifice for our rights and our freedoms?</p><p pid=\"f903.7/2\">Those rights and freedoms are now under threat in a way that we have not seen since the second world war. Putin is waging war on our continent and interfering in democracies across Europe, the Chinese Government are waging espionage against this House and Elon Musk is inciting violence on our streets. To date, the Government have failed to heed our calls for a new inquiry into Russian meddling, failed to place China on the enhanced tier of country threats and failed to launch an MI5 investigation into the threat posed by Elon Musk. What will it take for the Government to act and protect our democracy?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g903.7",
+    "commentsurl": "/debates/?id=2025-11-05f.903.7",
+    "speaker": {
+      "member_id": "43336",
+      "name": "Daisy Cooper",
+      "house": "1",
+      "constituency": "St Albans",
+      "party": "Liberal Democrat",
+      "person_id": "25901",
+      "url": "/mp/?p=25901",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader, Liberal Democrats",
+          "source": "",
+          "pretty": "Deputy Leader, Liberal Democrats"
+        },
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Treasury)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Treasury)"
+        }
+      ],
+      "image": "/people-images/mps/25901.jpg",
+      "desc": "Deputy Leader, Liberal Democrats, Liberal Democrat Spokesperson (Treasury); St Albans, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725972",
+    "htype": "12",
+    "gid": "2025-11-05f.904.0",
+    "hpos": "104",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "904",
+    "person_id": "10678",
+    "body": "<p pid=\"f904.0/1\">May I remind her that as Foreign Secretary I stood at this Dispatch Box and spoke to the China audit that we said we would do on coming into government? We did that; indeed, I did it on the same day that we published our national security strategy. The Secretary of State for Defence has also published the strategic defence review. If the hon. Lady looks across all three of those documents, they set this country in the best place possible to face down the threats that she rightly refers to.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g904.0",
+    "commentsurl": "/debates/?id=2025-11-05f.904.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725973",
+    "htype": "12",
+    "gid": "2025-11-05f.904.1",
+    "hpos": "105",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "904",
+    "person_id": "25901",
+    "body": "<p pid=\"f904.1/1\">I hope that the Deputy Prime Minister in his new role will consider our calls again.</p><p pid=\"f904.1/2\">Right now, families across the country are struggling with a cost of living crisis, yet the Chancellor is preparing to increase taxes. Meanwhile, because of high interest rates and arcane Treasury rules to do with quantitative easing, the big banks are making billions of pounds in windfall profits that they never expected, never relied on and never had to take any risk to earn. Without asking the Deputy Prime Minister to pre-empt the Chancellor&#8217;s Budget, which does he think is fairer: taxing struggling families or taxing big banks?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g904.1",
+    "commentsurl": "/debates/?id=2025-11-05f.904.1",
+    "speaker": {
+      "member_id": "43336",
+      "name": "Daisy Cooper",
+      "house": "1",
+      "constituency": "St Albans",
+      "party": "Liberal Democrat",
+      "person_id": "25901",
+      "url": "/mp/?p=25901",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Leader, Liberal Democrats",
+          "source": "",
+          "pretty": "Deputy Leader, Liberal Democrats"
+        },
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (Treasury)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (Treasury)"
+        }
+      ],
+      "image": "/people-images/mps/25901.jpg",
+      "desc": "Deputy Leader, Liberal Democrats, Liberal Democrat Spokesperson (Treasury); St Albans, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725974",
+    "htype": "12",
+    "gid": "2025-11-05f.904.2",
+    "hpos": "106",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "904",
+    "person_id": "10678",
+    "body": "<p pid=\"f904.2/1\">The hon. Lady knows that we have 80 years of convention, and it is for the Chancellor of the Exchequer to present her Budget later on this month. I say gently to her: it was under her Government, in which her party was in coalition with the Conservatives, that we saw austerity right across our country; and she will know that there are major parties that are proposing austerity again. I know that the Chancellor will do everything she can to continue, as she set out yesterday, to invest in our NHS and in our public services.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g904.2",
+    "commentsurl": "/debates/?id=2025-11-05f.904.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725975",
+    "htype": "12",
+    "gid": "2025-11-05f.904.3",
+    "hpos": "107",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "904",
+    "person_id": "26589",
+    "body": "<p pid=\"f904.3/1\" qnum=\"906194\">The leader of my local council, Kent county council, has said that they are a &#8220;shop window&#8221; for Reform UK. With councillors facing criminal charges, inappropriate conduct and behaviour, a defection, five expulsions, a failed DOGE-inspired cost-cutting drive and an authoritarian leader who shouts and swears at colleagues, does the Deputy Prime Minister agree that the people of Kent deserve so much better? How will the Government ensure that we deliver higher standards in local government?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g904.3",
+    "commentsurl": "/debates/?id=2025-11-05f.904.3",
+    "speaker": {
+      "member_id": "43350",
+      "name": "Tristan Osborne",
+      "house": "1",
+      "constituency": "Chatham and Aylesford",
+      "party": "Labour",
+      "person_id": "26589",
+      "url": "/mp/?p=26589",
+      "office": {},
+      "image": "/people-images/mps/26589.jpg",
+      "desc": "; Chatham and Aylesford, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725976",
+    "htype": "12",
+    "gid": "2025-11-05f.904.4",
+    "hpos": "108",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "904",
+    "person_id": "10678",
+    "body": "<p pid=\"f904.4/1\">I see <phrase class=\"honfriend\" name=\"Nigel Farage\" person_id=\"uk.org.publicwhip/person/26352\">the hon. Member for Clacton (Nigel Farage)</phrase> in his seat. This may be the first time I have seen him at Prime Minister&#8217;s questions. Reform said that Kent county council would be the best advert for what a Reform Government would look like, and they are delivering on the chaos that they promised. On standards in public life, I say to the hon. Gentleman&#8212;  [Interruption.] This is serious. I used to replace the hon. Gentleman on LBC, so we have known each other for many years. The disgraceful, racist language that we heard from a Reform MP last week belongs in the dark ages, and he should condemn it.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g904.4",
+    "commentsurl": "/debates/?id=2025-11-05f.904.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725977",
+    "htype": "12",
+    "gid": "2025-11-05f.905.0",
+    "hpos": "109",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "905",
+    "person_id": "25867",
+    "body": "<p pid=\"f905.0/1\">The week of 22 to <phrase class=\"date\" code=\"\">28 November</phrase> marks BBC Scam Safe Week&#8212;it feels like it comes around quicker every year. By sheer coincidence, the Chancellor has chosen that week, of all weeks, to deliver her Budget. Given her previous broken promises on energy bills, on inflation and to businesses, will the Deputy Prime Minister confirm to the public that if they see something suspicious on tax at the Budget, they should report it?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g905.0",
+    "commentsurl": "/debates/?id=2025-11-05f.905.0",
+    "speaker": {
+      "member_id": "42880",
+      "name": "Stephen Flynn",
+      "house": "1",
+      "constituency": "Aberdeen South",
+      "party": "Scottish National Party",
+      "person_id": "25867",
+      "url": "/mp/?p=25867",
+      "office": [
+        {
+          "dept": "",
+          "position": "SNP Westminster Leader",
+          "source": "",
+          "pretty": "SNP Westminster Leader"
+        }
+      ],
+      "image": "/people-images/mps/25867.jpg",
+      "desc": "SNP Westminster Leader; Aberdeen South, Scottish National Party"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725978",
+    "htype": "12",
+    "gid": "2025-11-05f.905.1",
+    "hpos": "110",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "905",
+    "person_id": "10678",
+    "body": "<p pid=\"f905.1/1\">I usually look forward to the bombast that the hon. Gentleman brings to the Chamber, but as usual, the SNP will say anything to distract from its appalling record. In the week when Scotland&#8217;s Health Secretary had to apologise for the state of the health service on his watch, the right hon. Gentleman could have mentioned that in his question. We will see what is in the Budget later on this month.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g905.1",
+    "commentsurl": "/debates/?id=2025-11-05f.905.1",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725979",
+    "htype": "12",
+    "gid": "2025-11-05f.905.2",
+    "hpos": "111",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "905",
+    "person_id": "25885",
+    "body": "<p pid=\"f905.2/1\" qnum=\"906196\">I know that the thoughts of the whole House will be with everyone affected by the Huntingdon attack, and we should praise the actions of the train&#8217;s driver, Andrew Johnson, and the heroic guard, Samir Zitouni&#8212;in my mind, a worthy candidate for consideration for the George Cross&#8212;as we wish him well in his continued recovery. Andrew Johnson told &#8220;ITV News&#8221;:</p><p class=\"indent\" pid=\"f905.2/2\" pwmotiontext=\"yes\">&#8220;I was only doing my job&#8221;.</p><p pid=\"f905.2/3\">Will the Deputy Prime Minister take this opportunity from the Dispatch Box to recognise the importance of our railway crews, drivers and station staff and the vital role they play in keeping us all safe, from averting suicides on the rail network to dealing with antisocial behaviour and emergencies such as the one we have seen this week?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g905.2",
+    "commentsurl": "/debates/?id=2025-11-05f.905.2",
+    "speaker": {
+      "member_id": "42910",
+      "name": "Charlotte Nichols",
+      "house": "1",
+      "constituency": "Warrington North",
+      "party": "Labour",
+      "person_id": "25885",
+      "url": "/mp/?p=25885",
+      "office": {},
+      "image": "/people-images/mps/25885.jpg",
+      "desc": "; Warrington North, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725980",
+    "htype": "12",
+    "gid": "2025-11-05f.905.3",
+    "hpos": "112",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "905",
+    "person_id": "10678",
+    "body": "<p pid=\"f905.3/1\">The actions of the driver, Andrew Johnson, and the train staff member, Samir Zitouni, were nothing less than heroic, and I am sure that the whole House would agree that some form of recognition is absolutely deserved. Our country is defined by these people working on the frontline, caring for and supporting the public every single day, and I am proud to be part of a Government who are fighting for them, increasing their pay, tackling the cost of living crisis and fixing the public services that we rely on.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g905.3",
+    "commentsurl": "/debates/?id=2025-11-05f.905.3",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725981",
+    "htype": "12",
+    "gid": "2025-11-05f.905.4",
+    "hpos": "113",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "905",
+    "person_id": "24945",
+    "body": "<p pid=\"f905.4/1\" qnum=\"906192\">On Sunday and on Tuesday we will honour those that made the ultimate sacrifice, not only from this country but from across the Commonwealth. I wear not only the poppy but the marigold to honour the Commonwealth troops that gave their lives. A week on Sunday, there will be a parade at the Cenotaph by the Association of Jewish Ex-Servicemen and Women, where Jewish people will come together&#8212;veterans, men, women and children&#8212;to parade with the medals that their forefathers won during world war two, the great war and other conflicts. It will be particularly  apposite this year, with antisemitism on the rise, that a senior Cabinet Minister comes to that parade and lays a wreath on behalf of this House and the whole country, to remember the Jewish people that gave their lives for this country so that we could all be free.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g905.4",
+    "commentsurl": "/debates/?id=2025-11-05f.905.4",
+    "speaker": {
+      "member_id": "43283",
+      "name": "Bob Blackman",
+      "house": "1",
+      "constituency": "Harrow East",
+      "party": "Conservative",
+      "person_id": "24945",
+      "url": "/mp/?p=24945",
+      "office": [
+        {
+          "dept": "Backbench Business Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Backbench Business Committee"
+        },
+        {
+          "dept": "Backbench Business Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Backbench Business Committee"
+        }
+      ],
+      "image": "/people-images/mps/24945.jpg",
+      "desc": "Chair, Backbench Business Committee, Chair, Backbench Business Committee; Harrow East, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725982",
+    "htype": "12",
+    "gid": "2025-11-05f.906.0",
+    "hpos": "114",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "906",
+    "person_id": "10678",
+    "body": "<p pid=\"f906.0/1\">I am grateful to the hon. Member for his question. I bought a new suit this morning because my godmother said that she would be watching. His question brings to mind the West Indies Regiment and its contribution in two world wars. I am grateful to my right hon. Friend <phrase class=\"honfriend\" name=\"Bridget Phillipson\" person_id=\"uk.org.publicwhip/person/24709\">the Member for Houghton and Sunderland South (Bridget Phillipson)</phrase> for ensuring that despite wearing a new suit, I have managed to put my poppy on. We wear a poppy to remember all those who fought and died for this country. They represented every walk of life, every race and every religion. My ministerial colleague, the noble Lord Coaker, will be proud to lay a wreath at the annual remembrance event at the Cenotaph to mark our enduring gratitude to generations of Jewish service personnel and veterans, and I would like to thank AJEX for organising the event and for all that it does throughout the year to keep alive the memory of the Jewish people, many of whose descendants live in Stamford Hill in my constituency, who gave their lives for this country.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g906.0",
+    "commentsurl": "/debates/?id=2025-11-05f.906.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725983",
+    "htype": "12",
+    "gid": "2025-11-05f.906.1",
+    "hpos": "115",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "906",
+    "person_id": "26578",
+    "body": "<p pid=\"f906.1/1\" qnum=\"906199\">I&#8194;am  regularly contacted by leaseholders and residential freeholders from across Ashford, Hawkinge and the villages who raise concerns about rising property management fees, poor service and a lack of transparency over what they are being charged for. As they already pay council tax, it is wrong that they should pay extra for the maintenance of roads and green areas on their estates. Will the Deputy Prime Minister update the House on the actions the Government are taking to reform the current outdated system so that my constituents can look forward to having stronger rights, greater powers and improved protections?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g906.1",
+    "commentsurl": "/debates/?id=2025-11-05f.906.1",
+    "speaker": {
+      "member_id": "43325",
+      "name": "Sojan Joseph",
+      "house": "1",
+      "constituency": "Ashford",
+      "party": "Labour",
+      "person_id": "26578",
+      "url": "/mp/?p=26578",
+      "office": {},
+      "image": "/people-images/mps/26578.jpg",
+      "desc": "; Ashford, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725984",
+    "htype": "12",
+    "gid": "2025-11-05f.906.2",
+    "hpos": "116",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "906",
+    "person_id": "10678",
+    "body": "<p pid=\"f906.2/1\">For millions of leaseholders, the dream of home ownership has fallen woefully short of what was promised. That is why we are implementing the Leasehold and Freehold Reform Act 2024, providing homeowners with greater rights, power and protections. We will bring the injustice of fleecehold to an end, protecting people from unfair costs. As my hon. Friend knows, the Minister for Housing and Planning, my hon. Friend <phrase class=\"honfriend\" name=\"Matthew Pennycook\" person_id=\"uk.org.publicwhip/person/25379\">the Member for Greenwich and Woolwich (Matthew Pennycook)</phrase>, is going to meet the director of FirstPort to address the serious concerns over its performance.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g906.2",
+    "commentsurl": "/debates/?id=2025-11-05f.906.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725985",
+    "htype": "12",
+    "gid": "2025-11-05f.906.3",
+    "hpos": "117",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "906",
+    "person_id": "11333",
+    "body": "<p pid=\"f906.3/1\" qnum=\"906195\">On Monday, the Defence Secretary said at the Dispatch Box that the Scottish Government were a &#8220;threat&#8221; to national security&#8212;a charge repeated this morning by the Scottish Secretary. What he in effect was saying is that a democratically elected Government elected by 1.3 million Scots poses a threat to this country. I do not know whether that is something the Deputy Prime Minister will repeat at the Dispatch Box today, but can he tell me why democratic Scotland is a threat to national security and China is not?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g906.3",
+    "commentsurl": "/debates/?id=2025-11-05f.906.3",
+    "speaker": {
+      "member_id": "42953",
+      "name": "Pete Wishart",
+      "house": "1",
+      "constituency": "Perth and Kinross-shire",
+      "party": "Scottish National Party",
+      "person_id": "11333",
+      "url": "/mp/?p=11333",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow SNP Spokesperson (Constitution)",
+          "source": "",
+          "pretty": "Shadow SNP Spokesperson (Constitution)"
+        },
+        {
+          "dept": "",
+          "position": "SNP Deputy Leader",
+          "source": "",
+          "pretty": "SNP Deputy Leader"
+        },
+        {
+          "dept": "",
+          "position": "Shadow SNP Spokesperson (Home Affairs)",
+          "source": "",
+          "pretty": "Shadow SNP Spokesperson (Home Affairs)"
+        }
+      ],
+      "image": "/people-images/mps/11333.jpg",
+      "desc": "Shadow SNP Spokesperson (Constitution), SNP Deputy Leader, Shadow SNP Spokesperson (Home Affairs); Perth and Kinross-shire, Scottish National Party"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725986",
+    "htype": "12",
+    "gid": "2025-11-05f.907.0",
+    "hpos": "118",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "10678",
+    "body": "<p pid=\"f907.0/1\">I took a DNA test a few years ago: I am 5% Scot. The people of Scotland are not a threat to national security; it is the SNP, and its desire to get rid of the nuclear deterrent, that is a threat to national security. The hon. Member should hang his head in shame.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.0",
+    "commentsurl": "/debates/?id=2025-11-05f.907.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725987",
+    "htype": "12",
+    "gid": "2025-11-05f.907.1",
+    "hpos": "119",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "26392",
+    "body": "<p pid=\"f907.1/1\" qnum=\"906200\">It is at this time of year that many of us think of those who have served their country and continue to do so&#8212;those like my grandad who served in world war two and brought up my dad and my uncles in forces accommodation, and those like my nephew currently serving, who sends me videos of accommodation riddled with black mould. Will the Deputy Prime Minister welcome the new defence housing strategy announced this week, which will guarantee the end of the scandal of unfit forces accommodation? Will he guarantee to my residents in Stafford, Eccleshall and the villages&#8212;the 500-plus military families&#8212;that they will finally have accommodation fit for them?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.1",
+    "commentsurl": "/debates/?id=2025-11-05f.907.1",
+    "speaker": {
+      "member_id": "42955",
+      "name": "Leigh Ingham",
+      "house": "1",
+      "constituency": "Stafford",
+      "party": "Labour",
+      "person_id": "26392",
+      "url": "/mp/?p=26392",
+      "office": {},
+      "image": "/people-images/mps/26392.jpg",
+      "desc": "; Stafford, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725988",
+    "htype": "12",
+    "gid": "2025-11-05f.907.2",
+    "hpos": "120",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "10678",
+    "body": "<p pid=\"f907.2/1\">I pay tribute to my hon. Friend for championing our armed forces, who make extraordinary sacrifices to keep our country safe. We are renewing our country, and that includes renewing our contract with those who commit the ultimate sacrifice. Four thousand military homes&#8212;that is, nine out of 10&#8212;will be upgraded thanks to the &#163;9 billion that we are investing. Of course, that will include her constituency&#8212;homes fit for heroes delivered by a Labour Government.[Official Report, <phrase class=\"date\" code=\"\">11 November 2025</phrase>; Vol. 775, c. 1WC.] (Correction)</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.2",
+    "commentsurl": "/debates/?id=2025-11-05f.907.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725989",
+    "htype": "12",
+    "gid": "2025-11-05f.907.3",
+    "hpos": "121",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "26443",
+    "body": "<p pid=\"f907.3/1\" qnum=\"906197\">May I echo the words of the hon. Member for Harrow East (Bob Blackman) of how proud I am to wear the marigold alongside my poppy? Last year, Sadiq Khan was elected London mayor with a promise to keep a police station front counter open in all 32 London boroughs 24 hours a day. Labour has just broken that promise to Londoners as only two will remain. This year, the Met police has 1,419 fewer police officers and staff&#8212;that is, fewer people working hard to keep Londoners and our visitors safe. In Sutton and Cheam, we have just had our high street police team cut from 11 officers to just four, inevitably leaving my constituents less safe. Does the Deputy Prime Minister agree with the Liberal Democrats and Sir Mark Rowley that a shrinking Met police force compromises their ability to keep Londoners safe?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.3",
+    "commentsurl": "/debates/?id=2025-11-05f.907.3",
+    "speaker": {
+      "member_id": "43060",
+      "name": "Luke Taylor",
+      "house": "1",
+      "constituency": "Sutton and Cheam",
+      "party": "Liberal Democrat",
+      "person_id": "26443",
+      "url": "/mp/?p=26443",
+      "office": [
+        {
+          "dept": "",
+          "position": "Liberal Democrat Spokesperson (London)",
+          "source": "",
+          "pretty": "Liberal Democrat Spokesperson (London)"
+        }
+      ],
+      "image": "/people-images/mps/26443.jpg",
+      "desc": "Liberal Democrat Spokesperson (London); Sutton and Cheam, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725990",
+    "htype": "12",
+    "gid": "2025-11-05f.907.4",
+    "hpos": "122",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "10678",
+    "body": "<p pid=\"f907.4/1\">As the hon. Member knows, the previous Government cut police officers and police community support officers while also critically underfunding the criminal justice system. We are acting in London, funding the Met with up to &#163;262 million this year, and we are investing &#163;200 million this year to put 3,000 more neighbourhood police on our streets by spring. Through our Crime and Policing Bill, we will also give them the powers they need, including tough new respect orders to tackle crime and make our streets safer. But I do gently say to the hon. Member that the Liberal Democrats come to their feet and ask for more funding, and then given the opportunity, they vote against the reforms that would actually grow our economy.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.4",
+    "commentsurl": "/debates/?id=2025-11-05f.907.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725991",
+    "htype": "12",
+    "gid": "2025-11-05f.907.5",
+    "hpos": "123",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "907",
+    "person_id": "26629",
+    "body": "<p pid=\"f907.5/1\" qnum=\"906201\">In Aylesbury, I have been running a programme called &#8220;Your Voice, Your Future&#8221; to help young people  engage with politics and shape the issues that matter to them. They have sent in ideas for the school curriculum review, advocated for better mental health support and shared their fears about smartphones and social media. Will the Deputy Prime Minister join me in recognising the contributions and ideas of young people, and what more will he do to ensure that they can meaningfully engage in national policy?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g907.5",
+    "commentsurl": "/debates/?id=2025-11-05f.907.5",
+    "speaker": {
+      "member_id": "43415",
+      "name": "Laura Kyrke-Smith",
+      "house": "1",
+      "constituency": "Aylesbury",
+      "party": "Labour",
+      "person_id": "26629",
+      "url": "/mp/?p=26629",
+      "office": {},
+      "image": "/people-images/mps/26629.jpg",
+      "desc": "; Aylesbury, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725992",
+    "htype": "12",
+    "gid": "2025-11-05f.908.0",
+    "hpos": "124",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "10678",
+    "body": "<p pid=\"f908.0/1\">I applaud my hon. Friend. She is a passionate champion of the next generation. She will have seen my right hon. Friend <phrase class=\"honfriend\" name=\"Bridget Phillipson\" person_id=\"uk.org.publicwhip/person/24709\">the Member for Houghton and Sunderland South (Bridget Phillipson)</phrase> launch her curriculum review, which will deliver high standards for every child, giving them the skills they need to thrive and boosting their engagement in our democracy. I am proud that we will also be giving 16 and 17-year-olds the right to vote in our UK elections to make their powerful voices heard.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.0",
+    "commentsurl": "/debates/?id=2025-11-05f.908.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725993",
+    "htype": "12",
+    "gid": "2025-11-05f.908.1",
+    "hpos": "125",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "11132",
+    "body": "<p pid=\"f908.1/1\" qnum=\"906198\">Burning waste is as polluting as burning coal, and our incinerators are already over-capacity. When will this Government renew the previous Government&#8217;s pause on new incinerators, end perverse deliver-or-pay contracts with incinerator companies, and deliver an incineration tax, such as the landfill tax, to encourage waste reduction, reuse and recycling?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.1",
+    "commentsurl": "/debates/?id=2025-11-05f.908.1",
+    "speaker": {
+      "member_id": "43409",
+      "name": "Andrew Murrison",
+      "house": "1",
+      "constituency": "South West Wiltshire",
+      "party": "Conservative",
+      "person_id": "11132",
+      "url": "/mp/?p=11132",
+      "office": {},
+      "image": "/people-images/mps/11132.jpg",
+      "desc": "; South West Wiltshire, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725994",
+    "htype": "12",
+    "gid": "2025-11-05f.908.2",
+    "hpos": "126",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "10678",
+    "body": "<p pid=\"f908.2/1\">The right hon. Gentleman is very experienced. He knows that on energy, our country&#8217;s future is in renewables, and that is why we are investing in them. He should listen carefully to what the Prime Minister has to say at COP. The Chancellor will have heard the right hon. Gentleman&#8217;s observations about further taxes; he will have to wait until the end of the month to see what happens.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.2",
+    "commentsurl": "/debates/?id=2025-11-05f.908.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725995",
+    "htype": "12",
+    "gid": "2025-11-05f.908.3",
+    "hpos": "127",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "26326",
+    "body": "<p pid=\"f908.3/1\" qnum=\"906202\">Since this Government massively boosted the national minimum wage for young people, my Erewash constituents earn far more than the &#163;3.40 an hour that I was paid in my first job just 17 years ago. What is the Deputy Prime Minister&#8217;s response to the people, including Conservative and Reform Members, who claim that &#163;10 an hour is too high a wage for young workers? Does he happen to know whether any of the Reform leader&#8217;s dozen extra jobs pays him less than &#163;10 an hour?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.3",
+    "commentsurl": "/debates/?id=2025-11-05f.908.3",
+    "speaker": {
+      "member_id": "42820",
+      "name": "Adam Thompson",
+      "house": "1",
+      "constituency": "Erewash",
+      "party": "Labour",
+      "person_id": "26326",
+      "url": "/mp/?p=26326",
+      "office": {},
+      "image": "/people-images/mps/26326.jpg",
+      "desc": "; Erewash, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725996",
+    "htype": "12",
+    "gid": "2025-11-05f.908.4",
+    "hpos": "128",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "10678",
+    "body": "<p pid=\"f908.4/1\">I was looking at the entry of <phrase class=\"honfriend\" name=\"Nigel Farage\" person_id=\"uk.org.publicwhip/person/26352\">the hon. Member for Clacton (Nigel Farage)</phrase> in the Register of Members&#8217; Financial Interests. He is making quite a lot out of gold bullion. One has to ask: why does he want to cut the minimum wage for people who are not making even 1% of what he makes? The Labour party is on the side of young people, boosting their wages and delivering the youth guarantee to help everyone realise their potential. I hope that young people recognise what those two other parties want from their records.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.4",
+    "commentsurl": "/debates/?id=2025-11-05f.908.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725997",
+    "htype": "12",
+    "gid": "2025-11-05f.908.5",
+    "hpos": "129",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "908",
+    "person_id": "25889",
+    "body": "<p pid=\"f908.5/1\" qnum=\"906205\">People across the country are fed up with extensive and needless delays caused by road, rail and utility works happening at the same time because of a failure to co-ordinate. My Transport (Duty to  Cooperate) Bill would fix that and cut disruption, supporting communities and the economy. I understand that the Government are looking for ways to support the economy&#8212;apparently&#8212;so will the Deputy Prime Minister pass on my proposal to the Chancellor and back my Bill?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g908.5",
+    "commentsurl": "/debates/?id=2025-11-05f.908.5",
+    "speaker": {
+      "member_id": "43375",
+      "name": "Ben Spencer",
+      "house": "1",
+      "constituency": "Runnymede and Weybridge",
+      "party": "Conservative",
+      "person_id": "25889",
+      "url": "/mp/?p=25889",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Minister (Science, Innovation and Technology)",
+          "source": "",
+          "pretty": "Shadow Minister (Science, Innovation and Technology)"
+        }
+      ],
+      "image": "/people-images/mps/25889.jpg",
+      "desc": "Shadow Minister (Science, Innovation and Technology); Runnymede and Weybridge, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725998",
+    "htype": "12",
+    "gid": "2025-11-05f.909.0",
+    "hpos": "130",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "10678",
+    "body": "<p pid=\"f909.0/1\">I will certainly pass it on to the Chancellor.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.0",
+    "commentsurl": "/debates/?id=2025-11-05f.909.0",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29725999",
+    "htype": "12",
+    "gid": "2025-11-05f.909.1",
+    "hpos": "131",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "26467",
+    "body": "<p pid=\"f909.1/1\" qnum=\"906203\">Seeing dentists is crucial not just for people&#8217;s dental health but for their broader health and wellbeing, but access to NHS dentistry has been a growing problem for a number of years. In my constituency, only two out of 10 dentists are taking on new adult NHS patients&#8212;the number is the same for children. Will the Deputy Prime Minister set out what the Government are doing to improve access to NHS dentistry and put healthy smiles on my constituents&#8217; faces?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.1",
+    "commentsurl": "/debates/?id=2025-11-05f.909.1",
+    "speaker": {
+      "member_id": "43110",
+      "name": "Tom Rutland",
+      "house": "1",
+      "constituency": "East Worthing and Shoreham",
+      "party": "Labour",
+      "person_id": "26467",
+      "url": "/mp/?p=26467",
+      "office": {},
+      "image": "/people-images/mps/26467.jpg",
+      "desc": "; East Worthing and Shoreham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726000",
+    "htype": "12",
+    "gid": "2025-11-05f.909.2",
+    "hpos": "132",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "10678",
+    "body": "<p pid=\"f909.2/1\">My hon. Friend is right to raise that issue, which is important up and down the country. We are taking action to address the appalling inheritance we received by rolling out extra urgent and emergency appointments across the country. We are also reforming the dental contract, recruiting more dentists and ensuring that they work in the national health service for a minimum of three years.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.2",
+    "commentsurl": "/debates/?id=2025-11-05f.909.2",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726001",
+    "htype": "12",
+    "gid": "2025-11-05f.909.3",
+    "hpos": "133",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "26540",
+    "body": "<p pid=\"f909.3/1\">The inclusion of Oxford University hospitals NHS foundation trust in the rapid review of maternity and neonatal services is welcome. Reports today in the New Statesman and on Channel 4 set out failures at that trust. Will the Deputy Prime Minister commit to carrying out in full the outcomes of Baroness Amos&#8217;s review, and ensure that the review is the start of a sea change in maternity services, not a whitewash?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.3",
+    "commentsurl": "/debates/?id=2025-11-05f.909.3",
+    "speaker": {
+      "member_id": "43251",
+      "name": "Freddie Van Mierlo",
+      "house": "1",
+      "constituency": "Henley and Thame",
+      "party": "Liberal Democrat",
+      "person_id": "26540",
+      "url": "/mp/?p=26540",
+      "office": {},
+      "image": "/people-images/mps/26540.jpg",
+      "desc": "; Henley and Thame, Liberal Democrat"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726002",
+    "htype": "12",
+    "gid": "2025-11-05f.909.4",
+    "hpos": "134",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "10678",
+    "body": "<p pid=\"f909.4/1\">Baroness Amos is a dear friend of mine. I know that the Health Secretary is considering her recommendations.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.4",
+    "commentsurl": "/debates/?id=2025-11-05f.909.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726003",
+    "htype": "12",
+    "gid": "2025-11-05f.909.5",
+    "hpos": "135",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "25727",
+    "body": "<p pid=\"f909.5/1\" qnum=\"906204\">Hurricane Melissa has devastated Jamaica and left the country in crisis. The Imperial College storm model states that the hurricane would have been unlikely without climate change. I know that the Prime Minister is representing the UK at the COP30 summit against climate change. Will my good and right hon. Friend the Deputy Prime Minister ensure that the UK leads the way on preventing climate change?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.5",
+    "commentsurl": "/debates/?id=2025-11-05f.909.5",
+    "speaker": {
+      "member_id": "43134",
+      "name": "Janet Daby",
+      "house": "1",
+      "constituency": "Lewisham East",
+      "party": "Labour",
+      "person_id": "25727",
+      "url": "/mp/?p=25727",
+      "office": {},
+      "image": "/people-images/mps/25727.jpg",
+      "desc": "; Lewisham East, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726004",
+    "htype": "12",
+    "gid": "2025-11-05f.909.6",
+    "hpos": "136",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "909",
+    "person_id": "10678",
+    "body": "<p pid=\"f909.6/1\">I am deeply saddened by the loss of life and the scenes of devastation in the great country of Jamaica. Like my hon. Friend, I have relatives in Jamaica, and I thank and commend her for her personal fundraising efforts. The Prime Minister and the Foreign Secretary have been in touch with their counterparts to offer our full support, with &#163;7.5 million of aid funding already mobilised. We have chartered flights from Jamaica for British nationals who are unable to fly home commercially. Jamaica will also receive $71 million from the Caribbean Catastrophe Risk Insurance  Facility pool&#8212;funding that began under the previous Labour Government and that Jamaica can draw on for its renewal.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g909.6",
+    "commentsurl": "/debates/?id=2025-11-05f.909.6",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726005",
+    "htype": "12",
+    "gid": "2025-11-05f.910.0",
+    "hpos": "137",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "25428",
+    "body": "<p pid=\"f910.0/1\">I thank the Deputy Prime Minister for joining me at a recent event in Parliament to support the work of Prostate Cancer Research, a charity of which I am an ambassador. He and I both believe that introducing a targeted national screening programme for prostate cancer is the right thing to do and would save lives. Does he agree that the recent compelling results of the 162,000-patient European trial support the case, and that that evidence, alongside data from Prostate Cancer Research and others, should be given significant weight by the UK National Screening Committee?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.0",
+    "commentsurl": "/debates/?id=2025-11-05f.910.0",
+    "speaker": {
+      "member_id": "43094",
+      "name": "Rishi Sunak",
+      "house": "1",
+      "constituency": "Richmond and Northallerton",
+      "party": "Conservative",
+      "person_id": "25428",
+      "url": "/mp/?p=25428",
+      "office": {},
+      "image": "/people-images/mps/25428.jpg",
+      "desc": "; Richmond and Northallerton, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726006",
+    "htype": "12",
+    "gid": "2025-11-05f.910.1",
+    "hpos": "138",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "10678",
+    "body": "<p pid=\"f910.1/1\">I thank the right hon. Member for raising the issue. Sadly, too many of us will know someone affected by prostate cancer; too many members of my family are currently living with prostate cancer. I was proud to co-chair the Prostate Cancer Research event last year and this year with him, and I share his determination to boost research, speed up treatment and deliver better care. He knows that I am biased, but these are rightly decisions for the Secretary of State for Health and Social Care. The UK National Screening Committee is reviewing the latest evidence for prostate screening and considering whether any changes should be made to save lives, and we have invested &#163;42 million jointly with Prostate Cancer UK&#8212;</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.1",
+    "commentsurl": "/debates/?id=2025-11-05f.910.1",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726007",
+    "htype": "12",
+    "gid": "2025-11-05f.910.2",
+    "hpos": "139",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "10295",
+    "body": "<p pid=\"f910.2/1\">I call Jenny Riddell-Carpenter.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.2",
+    "commentsurl": "/debates/?id=2025-11-05f.910.2",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726008",
+    "htype": "12",
+    "gid": "2025-11-05f.910.3",
+    "hpos": "140",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "26472",
+    "body": "<p pid=\"f910.3/1\">In the past 15 years, there have been 170 cases of matricide. In 2022, more women were killed by their sons than by strangers. Child-to-parent abuse is often linked to complex mental health issues, and earlier this year I met Laura and Ian who are doing all they can to support their son in his rehabilitation after serving time in prison. They are living in constant fear of physical harm from their son, who they love and adore. Will the Deputy Prime Minister support my request to meet the relevant Minister to discuss the effects of child-to-parent abuse?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.3",
+    "commentsurl": "/debates/?id=2025-11-05f.910.3",
+    "speaker": {
+      "member_id": "43020",
+      "name": "Jenny Riddell-Carpenter",
+      "house": "1",
+      "constituency": "Suffolk Coastal",
+      "party": "Labour",
+      "person_id": "26472",
+      "url": "/mp/?p=26472",
+      "office": {},
+      "image": "/people-images/mps/26472.jpg",
+      "desc": "; Suffolk Coastal, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726009",
+    "htype": "12",
+    "gid": "2025-11-05f.910.4",
+    "hpos": "141",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "10678",
+    "body": "<p pid=\"f910.4/1\">Matricide is a horrific crime and we are committed to tackling it. Our violence against women and girls strategy will set out how we will halve violence, including domestic abuse, against women over the next decade, and I will arrange for the Minister to meet my hon. Friend.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.4",
+    "commentsurl": "/debates/?id=2025-11-05f.910.4",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726010",
+    "htype": "12",
+    "gid": "2025-11-05f.910.5",
+    "hpos": "142",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "24814",
+    "body": "<p pid=\"f910.5/1\">Lindsey oil refinery in my constituency is under threat of closure, with the loss of hundreds of jobs. There have been a number of expressions of interest in taking over the whole site. If one of those passes the test of due diligence, will the Deputy Prime Minister give an assurance that the Government will back the project and allow the continuation of operations at the refinery?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.5",
+    "commentsurl": "/debates/?id=2025-11-05f.910.5",
+    "speaker": {
+      "member_id": "43261",
+      "name": "Martin Vickers",
+      "house": "1",
+      "constituency": "Brigg and Immingham",
+      "party": "Conservative",
+      "person_id": "24814",
+      "url": "/mp/?p=24814",
+      "office": {},
+      "image": "/people-images/mps/24814.jpg",
+      "desc": "; Brigg and Immingham, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726011",
+    "htype": "12",
+    "gid": "2025-11-05f.910.6",
+    "hpos": "143",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "910",
+    "person_id": "10678",
+    "body": "<p pid=\"f910.6/1\">I cannot give the hon. Gentleman that assurance from the Dispatch Box, but I will ensure that the relevant Minister meets him.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g910.6",
+    "commentsurl": "/debates/?id=2025-11-05f.910.6",
+    "speaker": {
+      "member_id": "43021",
+      "name": "David Lammy",
+      "house": "1",
+      "constituency": "Tottenham",
+      "party": "Labour",
+      "person_id": "10678",
+      "url": "/mp/?p=10678",
+      "office": [
+        {
+          "dept": "",
+          "position": "Deputy Prime Minister",
+          "source": "",
+          "pretty": "Deputy Prime Minister"
+        },
+        {
+          "dept": "",
+          "position": "The Lord Chancellor and Secretary of State for Justice ",
+          "source": "",
+          "pretty": "The Lord Chancellor and Secretary of State for Justice "
+        }
+      ],
+      "image": "/people-images/mps/10678.jpg",
+      "desc": "Deputy Prime Minister, The Lord Chancellor and Secretary of State for Justice ; Tottenham, Labour"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726012",
+    "htype": "12",
+    "gid": "2025-11-05f.911.0",
+    "hpos": "144",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "911",
+    "person_id": "25414",
+    "body": "<p pid=\"f911.0/1\">On a point of order, Mr Speaker.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g911.0",
+    "commentsurl": "/debates/?id=2025-11-05f.911.0",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726013",
+    "htype": "12",
+    "gid": "2025-11-05f.911.1",
+    "hpos": "145",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "911",
+    "person_id": "10295",
+    "body": "<p pid=\"f911.1/1\">Is it to correct the number of questions, and to say that I was right and you were wrong? I hope that you are not going for a job at the Treasury. Come on then.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g911.1",
+    "commentsurl": "/debates/?id=2025-11-05f.911.1",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726014",
+    "htype": "12",
+    "gid": "2025-11-05f.911.2",
+    "hpos": "146",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "911",
+    "person_id": "25414",
+    "body": "<p pid=\"f911.2/1\">To be clear, Mr Speaker, my point of order is about a serious issue. The Telegraph is  reporting that a police manhunt has been launched for a second asylum seeker who was mistakenly freed from prison. Can you advise me on how I can ask the Justice Secretary whether he was aware of that when I asked him about it repeatedly in Prime Minister&#8217;s questions?</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g911.2",
+    "commentsurl": "/debates/?id=2025-11-05f.911.2",
+    "speaker": {
+      "member_id": "43292",
+      "name": "James Cartlidge",
+      "house": "1",
+      "constituency": "South Suffolk",
+      "party": "Conservative",
+      "person_id": "25414",
+      "url": "/mp/?p=25414",
+      "office": [
+        {
+          "dept": "",
+          "position": "Shadow Secretary of State for Defence",
+          "source": "",
+          "pretty": "Shadow Secretary of State for Defence"
+        }
+      ],
+      "image": "/people-images/mps/25414.jpg",
+      "desc": "Shadow Secretary of State for Defence; South Suffolk, Conservative"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  },
+  {
+    "epobject_id": "29726015",
+    "htype": "12",
+    "gid": "2025-11-05f.912.0",
+    "hpos": "147",
+    "section_id": "29725938",
+    "subsection_id": "29725940",
+    "hdate": "2025-11-05",
+    "htime": null,
+    "source_url": "",
+    "major": "1",
+    "minor": "0",
+    "colnum": "912",
+    "person_id": "10295",
+    "body": "<p pid=\"f912.0/1\">You have put it on the record, Mr Cartlidge. Let us move on.</p>",
+    "listurl": "/debates/?id=2025-11-05f.899.8#g912.0",
+    "commentsurl": "/debates/?id=2025-11-05f.912.0",
+    "speaker": {
+      "member_id": "42816",
+      "name": "Lindsay Hoyle",
+      "house": "1",
+      "constituency": "Chorley",
+      "party": "Speaker",
+      "person_id": "10295",
+      "url": "/mp/?p=10295",
+      "office": [
+        {
+          "dept": "",
+          "position": "Speaker of the House of Commons",
+          "source": "",
+          "pretty": "Speaker of the House of Commons"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee for the Independent Parliamentary Standards Authority"
+        },
+        {
+          "dept": "House of Commons Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, House of Commons Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Speaker's Committee on the Electoral Commission",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Committee on the Electoral Commission"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Members Estimate Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Members Estimate Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Restoration and Renewal Client Board Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Restoration and Renewal Client Board Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        },
+        {
+          "dept": "Speaker's Conference (2024) Committee",
+          "position": "Chair",
+          "source": "",
+          "pretty": "Chair, Speaker's Conference (2024) Committee"
+        }
+      ],
+      "image": "/people-images/mps/10295.jpg",
+      "desc": "Speaker of the House of Commons, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, Speaker's Committee for the Independent Parliamentary Standards Authority, Chair, House of Commons Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Speaker's Committee on the Electoral Commission, Chair, Members Estimate Committee, Chair, Members Estimate Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Restoration and Renewal Client Board Committee, Chair, Speaker's Conference (2024) Committee, Chair, Speaker's Conference (2024) Committee; Speaker"
+    },
+    "totalcomments": "0",
+    "comment": {}
+  }
+]
