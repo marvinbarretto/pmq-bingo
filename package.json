@@ -5,13 +5,19 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:ghpages": "ng build --base-href /pmq-bingo/",
+    "deploy": "npm run build:ghpages && npx angular-cli-ghpages --dir=dist/pmq-bingo/browser",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "extract-sentences": "npx tsx scripts/extract-sentences.ts",
     "classify-sentences": "npx tsx scripts/classify-sentences.ts",
     "classify-gemini": "npx tsx scripts/classify-sentences-gemini.ts",
     "classify-labels": "npx tsx scripts/classify-with-labels.ts",
-    "generate-phrase-bank": "npx tsx scripts/generate-phrase-bank.ts"
+    "generate-phrase-bank": "npx tsx scripts/generate-phrase-bank.ts",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major",
+    "release:first": "standard-version --first-release"
   },
   "prettier": {
     "printWidth": 100,
@@ -46,6 +52,7 @@
     "@angular/compiler-cli": "^21.0.0",
     "@types/node": "25.0.0",
     "jsdom": "^27.1.0",
+    "standard-version": "9.5.0",
     "tsx": "4.21.0",
     "typescript": "~5.9.2",
     "vitest": "^4.0.8"

@@ -38,13 +38,8 @@
   flex-shrink: 0;
 }
 
-.phrases-link {
+.version {
   color: var(--text-muted);
-  font-size: 0.8rem;
-  text-decoration: none;
-
-  &:hover {
-    color: var(--commons-gold);
-    text-decoration: underline;
-  }
+  font-size: 0.7rem;
+  opacity: 0.6;
 }
