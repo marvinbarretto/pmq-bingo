@@ -1,6 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { DOCUMENT, UpperCasePipe } from '@angular/common';
 import { GameService } from '../../services/game.service';
+import { SpeechService } from '../../services/speech.service';
 import { TOTAL_CELLS } from '../../models/game.model';
 
 @Component({
@@ -11,15 +12,22 @@ import { TOTAL_CELLS } from '../../models/game.model';
 })
 export class GameControls {
   private readonly gameService = inject(GameService);
+  private readonly speechService = inject(SpeechService);
   private readonly document = inject(DOCUMENT);
 
   readonly hasWon = this.gameService.hasWon;
   readonly winType = this.gameService.winType;
   readonly markedCount = this.gameService.markedCount;
   readonly totalCells = TOTAL_CELLS;
+  readonly isListening = this.speechService.isListening;
+  readonly isSpeechSupported = this.speechService.isSupported;
 
   onNewGame(): void {
     this.gameService.newGame();
+  }
+
+  onToggleSpeech(): void {
+    this.speechService.toggle();
   }
 
   async onShare(): Promise<void> {
