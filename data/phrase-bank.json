@@ -1,0 +1,320 @@
+[
+  {
+    "id": "p1",
+    "text": "Record Investment",
+    "frequency": 7,
+    "category": "boast"
+  },
+  {
+    "id": "p2",
+    "text": "Under the Previous Government",
+    "frequency": 7,
+    "category": "attack"
+  },
+  {
+    "id": "p3",
+    "text": "Thoughts and Prayers",
+    "frequency": 5,
+    "category": "cliche"
+  },
+  {
+    "id": "p4",
+    "text": "14 Years of Failure",
+    "frequency": 4,
+    "category": "attack"
+  },
+  {
+    "id": "p5",
+    "text": "Free School Meals",
+    "frequency": 4,
+    "category": "pledge"
+  },
+  {
+    "id": "p6",
+    "text": "Get On With the Job",
+    "frequency": 3,
+    "category": "deflection"
+  },
+  {
+    "id": "p7",
+    "text": "The Mess We Inherited",
+    "frequency": 3,
+    "category": "deflection"
+  },
+  {
+    "id": "p8",
+    "text": "Winter Fuel Payment",
+    "frequency": 3,
+    "category": "attack"
+  },
+  {
+    "id": "p9",
+    "text": "Working People",
+    "frequency": 3,
+    "category": "cliche"
+  },
+  {
+    "id": "p10",
+    "text": "Biggest Uplift Housing",
+    "frequency": 2,
+    "category": "pledge"
+  },
+  {
+    "id": "p11",
+    "text": "Delivering for the British People",
+    "frequency": 2,
+    "category": "boast"
+  },
+  {
+    "id": "p12",
+    "text": "Happy To Meet",
+    "frequency": 2,
+    "category": "deflection"
+  },
+  {
+    "id": "p13",
+    "text": "Learned Nothing",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p14",
+    "text": "Liz Truss Budget",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p15",
+    "text": "No Lectures",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p16",
+    "text": "Plan for Change",
+    "frequency": 2,
+    "category": "boast"
+  },
+  {
+    "id": "p17",
+    "text": "Put Up Taxes",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p18",
+    "text": "U-Turn",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p19",
+    "text": "Unfunded Tax Cuts",
+    "frequency": 2,
+    "category": "attack"
+  },
+  {
+    "id": "p20",
+    "text": "Be In Touch",
+    "frequency": 1,
+    "category": "deflection"
+  },
+  {
+    "id": "p21",
+    "text": "Comedy On Prescription",
+    "frequency": 1,
+    "category": "null"
+  },
+  {
+    "id": "p22",
+    "text": "Dispatch Box",
+    "frequency": 1,
+    "category": "cliche"
+  },
+  {
+    "id": "p23",
+    "text": "Failed to Answer the Question",
+    "frequency": 1,
+    "category": "attack"
+  },
+  {
+    "id": "p24",
+    "text": "Investing in the Future",
+    "frequency": 1,
+    "category": "boast"
+  },
+  {
+    "id": "p25",
+    "text": "Listen To Them",
+    "frequency": 1,
+    "category": "deflection"
+  },
+  {
+    "id": "p26",
+    "text": "Long Overdue",
+    "frequency": 1,
+    "category": "cliche"
+  },
+  {
+    "id": "p27",
+    "text": "Meetings With Others",
+    "frequency": 1,
+    "category": "deflection"
+  },
+  {
+    "id": "p28",
+    "text": "Point of Order",
+    "frequency": 1,
+    "category": "cliche"
+  },
+  {
+    "id": "p29",
+    "text": "Safe And Secure Homes",
+    "frequency": 1,
+    "category": "pledge"
+  },
+  {
+    "id": "p30",
+    "text": "Sanctioned Individuals",
+    "frequency": 1,
+    "category": "boast"
+  },
+  {
+    "id": "p31",
+    "text": "Stabilised the Economy",
+    "frequency": 1,
+    "category": "boast"
+  },
+  {
+    "id": "p32",
+    "text": "Support His Work",
+    "frequency": 1,
+    "category": "boast"
+  },
+  {
+    "id": "p33",
+    "text": "Take Back Control",
+    "frequency": 1,
+    "category": "pledge"
+  },
+  {
+    "id": "p34",
+    "text": "Triple Lock",
+    "frequency": 1,
+    "category": "pledge"
+  },
+  {
+    "id": "p35",
+    "text": "Waiting Lists",
+    "frequency": 1,
+    "category": "attack"
+  },
+  {
+    "id": "p36",
+    "text": "Working So Hard",
+    "frequency": 1,
+    "category": "cliche"
+  },
+  {
+    "id": "p37",
+    "text": "Balance the Books",
+    "frequency": 0,
+    "category": "cliche"
+  },
+  {
+    "id": "p38",
+    "text": "Black Hole in the Finances",
+    "frequency": 0,
+    "category": "attack"
+  },
+  {
+    "id": "p39",
+    "text": "Broken Promises",
+    "frequency": 0,
+    "category": "attack"
+  },
+  {
+    "id": "p40",
+    "text": "Cost of Living",
+    "frequency": 0,
+    "category": "cliche"
+  },
+  {
+    "id": "p41",
+    "text": "Fully Costed",
+    "frequency": 0,
+    "category": "boast"
+  },
+  {
+    "id": "p42",
+    "text": "Get Brexit Done",
+    "frequency": 0,
+    "category": "pledge"
+  },
+  {
+    "id": "p43",
+    "text": "Hard-Working Families",
+    "frequency": 0,
+    "category": "cliche"
+  },
+  {
+    "id": "p44",
+    "text": "I'll Write to You",
+    "frequency": 0,
+    "category": "deflection"
+  },
+  {
+    "id": "p45",
+    "text": "Let Me Be Clear",
+    "frequency": 0,
+    "category": "deflection"
+  },
+  {
+    "id": "p46",
+    "text": "Levelling Up",
+    "frequency": 0,
+    "category": "pledge"
+  },
+  {
+    "id": "p47",
+    "text": "Listen and Learn",
+    "frequency": 0,
+    "category": "deflection"
+  },
+  {
+    "id": "p48",
+    "text": "Long-Term Economic Plan",
+    "frequency": 0,
+    "category": "boast"
+  },
+  {
+    "id": "p49",
+    "text": "Magic Money Tree",
+    "frequency": 0,
+    "category": "attack"
+  },
+  {
+    "id": "p50",
+    "text": "More of the Same",
+    "frequency": 0,
+    "category": "attack"
+  },
+  {
+    "id": "p51",
+    "text": "NHS Crisis",
+    "frequency": 0,
+    "category": "attack"
+  },
+  {
+    "id": "p52",
+    "text": "Strong and Stable",
+    "frequency": 0,
+    "category": "boast"
+  },
+  {
+    "id": "p53",
+    "text": "The Party Opposite",
+    "frequency": 0,
+    "category": "attack"
+  }
+]
