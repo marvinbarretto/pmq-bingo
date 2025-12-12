@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "description": "Manually curated seed phrases for PMQ Bingo - known classics that should always be included",
+    "lastUpdated": "2025-12-11"
+  },
+  "phrases": [
+    {
+      "id": "seed-1",
+      "text": "Let me be absolutely clear",
+      "category": "deflection"
+    },
+    {
+      "id": "seed-2",
+      "text": "The party opposite",
+      "category": "attack"
+    },
+    {
+      "id": "seed-3",
+      "text": "Working people",
+      "category": "boast"
+    },
+    {
+      "id": "seed-4",
+      "text": "Under this government",
+      "category": "boast"
+    },
+    {
+      "id": "seed-5",
+      "text": "Under the previous government",
+      "category": "attack"
+    },
+    {
+      "id": "seed-6",
+      "text": "Long-term economic plan",
+      "category": "boast"
+    },
+    {
+      "id": "seed-7",
+      "text": "Magic money tree",
+      "category": "attack"
+    },
+    {
+      "id": "seed-8",
+      "text": "Fully costed",
+      "category": "boast"
+    },
+    {
+      "id": "seed-9",
+      "text": "Black hole in the finances",
+      "category": "attack"
+    },
+    {
+      "id": "seed-10",
+      "text": "Broken promises",
+      "category": "attack"
+    },
+    {
+      "id": "seed-11",
+      "text": "Strong and stable",
+      "category": "boast"
+    },
+    {
+      "id": "seed-12",
+      "text": "Chaos with Ed Miliband",
+      "category": "attack"
+    },
+    {
+      "id": "seed-13",
+      "text": "The mess we inherited",
+      "category": "deflection"
+    },
+    {
+      "id": "seed-14",
+      "text": "Record investment",
+      "category": "boast"
+    },
+    {
+      "id": "seed-15",
+      "text": "Hard-working families",
+      "category": "cliche"
+    },
+    {
+      "id": "seed-16",
+      "text": "Coast to coast",
+      "category": "cliche"
+    },
+    {
+      "id": "seed-17",
+      "text": "Levelling up",
+      "category": "pledge"
+    },
+    {
+      "id": "seed-18",
+      "text": "Build back better",
+      "category": "pledge"
+    },
+    {
+      "id": "seed-19",
+      "text": "Get Brexit done",
+      "category": "pledge"
+    },
+    {
+      "id": "seed-20",
+      "text": "Take back control",
+      "category": "pledge"
+    },
+    {
+      "id": "seed-21",
+      "text": "Will he apologise",
+      "category": "attack"
+    },
+    {
+      "id": "seed-22",
+      "text": "Does he agree with me",
+      "category": "cliche"
+    },
+    {
+      "id": "seed-23",
+      "text": "Delivering for the British people",
+      "category": "boast"
+    },
+    {
+      "id": "seed-24",
+      "text": "Failed to answer the question",
+      "category": "attack"
+    },
+    {
+      "id": "seed-25",
+      "text": "More of the same",
+      "category": "attack"
+    }
+  ]
+}

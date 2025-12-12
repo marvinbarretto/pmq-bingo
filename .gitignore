@@ -41,3 +41,14 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# PMQ phrase curation (generated files, review locally)
+scripts/sentences.json
+scripts/candidates.json
+scripts/labelled-results.json
+scripts/.cache/
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local

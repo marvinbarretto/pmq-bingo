@@ -6,7 +6,13 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "analyze-phrases": "npx tsx scripts/analyze-pmq-phrases.ts",
+    "extract-sentences": "npx tsx scripts/extract-sentences.ts",
+    "classify-sentences": "npx tsx scripts/classify-sentences.ts",
+    "classify-gemini": "npx tsx scripts/classify-sentences-gemini.ts",
+    "classify-labels": "npx tsx scripts/classify-with-labels.ts",
+    "generate-phrase-bank": "npx tsx scripts/generate-phrase-bank.ts"
   },
   "prettier": {
     "printWidth": 100,
@@ -29,6 +35,8 @@
     "@angular/forms": "^21.0.0",
     "@angular/platform-browser": "^21.0.0",
     "@angular/router": "^21.0.0",
+    "@google/generative-ai": "0.24.1",
+    "ollama": "0.6.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
   },
@@ -38,6 +46,7 @@
     "@angular/compiler-cli": "^21.0.0",
     "@types/node": "25.0.0",
     "jsdom": "^27.1.0",
+    "tsx": "4.21.0",
     "typescript": "~5.9.2",
     "vitest": "^4.0.8"
   }
