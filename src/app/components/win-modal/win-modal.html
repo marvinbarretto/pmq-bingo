@@ -1,0 +1,16 @@
+<div class="modal-backdrop" (click)="onClose()"></div>
+<div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="win-title">
+  <h1 id="win-title" class="title">BINGO!</h1>
+  <p class="win-type">{{ winTypeDisplay }}</p>
+
+  <app-celebration-gif type="positive" />
+
+  <div class="buttons">
+    <button class="btn btn-secondary" (click)="onShare()" type="button">
+      Share
+    </button>
+    <button class="btn btn-primary" (click)="onNewGame()" type="button">
+      New Game
+    </button>
+  </div>
+</div>

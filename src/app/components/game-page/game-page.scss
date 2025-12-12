@@ -11,23 +11,14 @@
   flex-direction: column;
   min-height: 100vh;
   min-height: 100dvh;
-  background: linear-gradient(180deg, #1a2f23 0%, #0f1a14 100%);
-  color: #e8e8e8;
+  background: linear-gradient(180deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+  color: var(--text-color);
 }
 
 .header {
   text-align: center;
   padding: 0.5rem 1rem;
   flex-shrink: 0;
-
-  h1 {
-    font-family: 'New Rocker', Georgia, serif;
-    font-size: clamp(1.75rem, 6vw, 2.5rem);
-    font-weight: 400;
-    margin: 0;
-    color: #c9a227;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-  }
 }
 
 .main {
@@ -48,12 +39,12 @@
 }
 
 .phrases-link {
-  color: #8a9a8a;
+  color: var(--text-muted);
   font-size: 0.8rem;
   text-decoration: none;
 
   &:hover {
-    color: #c9a227;
+    color: var(--commons-gold);
     text-decoration: underline;
   }
 }

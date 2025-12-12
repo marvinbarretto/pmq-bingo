@@ -18,6 +18,10 @@ export class GameService {
   readonly markedCount = computed(() => this.state().cells.filter((c) => c.marked).length);
   readonly isLoading = computed(() => this.state().cells.length === 0);
 
+  // Signal to trigger win modal - increments when a new win occurs
+  private readonly winCounter = signal(0);
+  readonly newWin = computed(() => this.winCounter());
+
   async initialize(): Promise<void> {
     await this.phraseService.loadPhrases();
     const savedState = this.loadState();
@@ -69,6 +73,8 @@ export class GameService {
 
       const winResult = this.checkWin(cells);
 
+      const justWon = winResult.hasWon && !state.hasWon;
+
       return {
         ...state,
         cells,
@@ -78,6 +84,11 @@ export class GameService {
         gamesWon: winResult.hasWon ? state.gamesWon + 1 : state.gamesWon,
       };
     });
+
+    // Trigger win modal if this was a new win
+    if (this.state().hasWon && this.winCounter() < this.state().gamesWon) {
+      this.winCounter.update((c) => c + 1);
+    }
 
     this.saveState();
   }

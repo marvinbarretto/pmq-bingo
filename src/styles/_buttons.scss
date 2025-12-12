@@ -1,0 +1,61 @@
+// Shared button styles - House of Commons theme
+// Uses CSS variables from styles.scss
+
+// Base button
+.btn {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: 3px solid;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+  font-family: inherit;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    transform: translateY(1px);
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+  }
+}
+
+// Primary button - Gold (main actions)
+.btn-primary {
+  background: var(--commons-gold);
+  border-color: var(--commons-gold-dark);
+  color: #1a1a1a;
+  box-shadow: 0 3px 0 var(--commons-gold-darker);
+
+  &:hover:not(:disabled) {
+    box-shadow: 0 4px 0 var(--commons-gold-darker);
+  }
+
+  &:active:not(:disabled) {
+    box-shadow: 0 1px 0 var(--commons-gold-darker);
+  }
+}
+
+// Secondary button - Green (secondary actions)
+.btn-secondary {
+  background: var(--commons-green);
+  border-color: var(--commons-green-dark);
+  color: #fff;
+  box-shadow: 0 3px 0 var(--commons-green-darker);
+
+  &:hover:not(:disabled) {
+    box-shadow: 0 4px 0 var(--commons-green-darker);
+  }
+
+  &:active:not(:disabled) {
+    box-shadow: 0 1px 0 var(--commons-green-darker);
+  }
+}

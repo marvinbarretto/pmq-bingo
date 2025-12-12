@@ -1,3 +1,5 @@
+@use 'styles/buttons';
+
 *,
 *::before,
 *::after {
@@ -5,21 +7,43 @@
 }
 
 :root {
-  --bg-color: #0d1117;
-  --text-color: #e2e8f0;
-  --text-muted: #a0aec0;
-  --border-color: #2d3748;
-  --cell-bg: #1a202c;
-  --cell-hover: #2d3748;
-  --marked-bg: #4a5568;
-  --marked-border: #68d391;
-  --marked-text: #fff;
-  --winning-bg: #48bb78;
-  --winning-border: #2f855a;
-  --primary-bg: #5a67d8;
-  --primary-hover: #4c51bf;
-  --secondary-bg: #4a5568;
-  --secondary-hover: #2d3748;
+  // House of Commons theme colours
+  --commons-gold: #c9a227;
+  --commons-gold-dark: #a68520;
+  --commons-gold-darker: #8a6e1a;
+  --commons-gold-light: #ddb835;
+  --commons-green: #00704a;
+  --commons-green-dark: #005c3d;
+  --commons-green-darker: #004830;
+  --commons-green-light: #00875a;
+
+  // Background colours
+  --bg-color: #0f1a14;
+  --bg-gradient-start: #1a2f23;
+  --bg-gradient-end: #0f1a14;
+  --surface-color: #1a2a1f;
+  --surface-hover: #243830;
+
+  // Text colours
+  --text-color: #e8e8e8;
+  --text-muted: #8a9a8a;
+  --text-heading: var(--commons-gold);
+
+  // Border colours
+  --border-color: #2a3a30;
+
+  // Legacy variables (for backwards compatibility)
+  --cell-bg: var(--surface-color);
+  --cell-hover: var(--surface-hover);
+  --marked-bg: var(--commons-gold);
+  --marked-border: var(--commons-gold-dark);
+  --marked-text: #1a1a1a;
+  --winning-bg: #ffd700;
+  --winning-border: #b38600;
+  --primary-bg: var(--commons-gold);
+  --primary-hover: var(--commons-gold-dark);
+  --secondary-bg: var(--commons-green);
+  --secondary-hover: var(--commons-green-dark);
 }
 
 html {
@@ -43,22 +67,44 @@ button {
   font-family: inherit;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --bg-color: #f7fafc;
-    --text-color: #1a202c;
-    --text-muted: #718096;
-    --border-color: #e2e8f0;
-    --cell-bg: #fff;
-    --cell-hover: #edf2f7;
-    --marked-bg: #c6f6d5;
-    --marked-border: #48bb78;
-    --marked-text: #1a202c;
-    --winning-bg: #48bb78;
-    --winning-border: #2f855a;
-    --primary-bg: #5a67d8;
-    --primary-hover: #4c51bf;
-    --secondary-bg: #e2e8f0;
-    --secondary-hover: #cbd5e0;
-  }
+// Global heading styles
+h1 {
+  font-size: clamp(1.75rem, 6vw, 2.5rem);
+  font-weight: 700;
+  margin: 0;
+  color: var(--text-heading);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+// CDK Dialog overlay
+.cdk-overlay-container {
+  position: fixed;
+  z-index: 1000;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.cdk-overlay-backdrop {
+  position: absolute;
+  inset: 0;
+  pointer-events: auto;
+}
+
+.cdk-global-overlay-wrapper {
+  display: flex;
+  position: absolute;
+  z-index: 1000;
+  inset: 0;
+  pointer-events: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.cdk-overlay-pane {
+  pointer-events: auto;
+}
+
+// Light mode disabled - always use dark House of Commons theme

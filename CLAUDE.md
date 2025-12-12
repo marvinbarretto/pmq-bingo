@@ -1,0 +1,1 @@
+- dont suggest darken or  lighten with scss , its deprecated

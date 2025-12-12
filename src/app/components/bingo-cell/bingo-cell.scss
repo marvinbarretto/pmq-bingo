@@ -1,12 +1,16 @@
 @use '../../../styles/animations';
+@use 'sass:color';
 
 // House of Commons green palette - richer tones
 $commons-green: #00704a;
 $commons-green-dark: #005c3d;
 $commons-green-darker: #004830;
 $commons-green-light: #00875a;
+$commons-green-lighter: #009966;
 $commons-gold: #c9a227;
+$commons-gold-light: #ddb835;
 $commons-gold-dark: #a68520;
+$commons-gold-darker: #8a6e1a;
 
 .cell {
   display: flex;
@@ -37,7 +41,7 @@ $commons-gold-dark: #a68520;
     0 4px 6px rgba(0, 0, 0, 0.3);
 
   &:hover {
-    background: linear-gradient(145deg, lighten($commons-green-light, 5%) 0%, $commons-green-light 50%, $commons-green 100%);
+    background: linear-gradient(145deg, $commons-green-lighter 0%, $commons-green-light 50%, $commons-green 100%);
     transform: translateY(-1px);
     box-shadow:
       0 4px 0 $commons-green-darker,
@@ -52,12 +56,12 @@ $commons-gold-dark: #a68520;
   }
 
   &.marked {
-    background: linear-gradient(145deg, lighten($commons-gold, 10%) 0%, $commons-gold 50%, $commons-gold-dark 100%);
+    background: linear-gradient(145deg, $commons-gold-light 0%, $commons-gold 50%, $commons-gold-dark 100%);
     border-color: $commons-gold-dark;
     color: #1a2a1a;
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
     box-shadow:
-      0 3px 0 darken($commons-gold-dark, 10%),
+      0 3px 0 $commons-gold-darker,
       0 4px 6px rgba(0, 0, 0, 0.3),
       inset 0 1px 0 rgba(255, 255, 255, 0.2);
   }
