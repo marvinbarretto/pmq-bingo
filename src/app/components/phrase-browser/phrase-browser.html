@@ -3,147 +3,55 @@
     <a routerLink="/" class="back-link">&larr; Back to Game</a>
     <h1>PMQ Phrase Bank</h1>
     <p class="subtitle">
-      @if (searchMode() === 'phrases') {
-        Top {{ totalCount() }} phrases from real PMQs
-      } @else {
-        Search all parliamentary debates
-      }
+      Top {{ totalCount() }} phrases from real PMQs
     </p>
   </header>
-
-  <div class="mode-toggle">
-    <button
-      class="mode-btn"
-      [class.active]="searchMode() === 'phrases'"
-      (click)="setSearchMode('phrases')"
-    >
-      Browse Phrases
-    </button>
-    <button
-      class="mode-btn"
-      [class.active]="searchMode() === 'hansard'"
-      (click)="setSearchMode('hansard')"
-    >
-      Search Hansard
-    </button>
-  </div>
 
   <div class="search-container">
     <input
       type="text"
       class="search-input"
-      [placeholder]="searchMode() === 'phrases' ? 'Filter phrases...' : 'Search Hansard (e.g. NHS, climate change)...'"
+      placeholder="Filter phrases..."
       [value]="searchQuery()"
       (input)="onSearchChange($event)"
-      (keyup.enter)="searchMode() === 'hansard' && searchHansard()"
     />
-    @if (searchMode() === 'hansard') {
-      <button class="search-btn" (click)="searchHansard()" [disabled]="isSearching() || !searchQuery()">
-        @if (isSearching()) {
-          Searching...
-        } @else {
-          Search
-        }
-      </button>
-    }
     @if (searchQuery()) {
       <button class="clear-btn" (click)="clearSearch()">Clear</button>
     }
   </div>
 
-  @if (searchMode() === 'phrases') {
-    <div class="results-info">
-      @if (searchQuery()) {
-        <span>Showing {{ filteredCount() }} of {{ totalCount() }} phrases</span>
-      } @else {
-        <span>{{ totalCount() }} phrases ranked by frequency</span>
+  <div class="results-info">
+    @if (searchQuery()) {
+      <span>Showing {{ filteredCount() }} of {{ totalCount() }} phrases</span>
+    } @else {
+      <span>{{ totalCount() }} phrases ranked by frequency</span>
+    }
+  </div>
+
+  @if (isLoading()) {
+    <div class="loading">Loading phrases...</div>
+  } @else {
+    <div class="phrase-list">
+      @for (phrase of filteredPhrases(); track phrase.id; let i = $index) {
+        <div class="phrase-card">
+          <span class="rank">#{{ i + 1 }}</span>
+          <div class="phrase-content">
+            <span class="phrase-text">{{ phrase.text }}</span>
+            <div class="phrase-meta">
+              @if (phrase.frequency) {
+                <span class="frequency">{{ phrase.frequency }} occurrences</span>
+              }
+              @if (phrase.lastSeen) {
+                <span class="last-seen">Last seen: {{ phrase.lastSeen }}</span>
+              }
+            </div>
+          </div>
+        </div>
+      } @empty {
+        <div class="no-results">
+          No phrases found matching "{{ searchQuery() }}"
+        </div>
       }
     </div>
-
-    @if (isLoading()) {
-      <div class="loading">Loading phrases...</div>
-    } @else {
-      <div class="phrase-list">
-        @for (phrase of filteredPhrases(); track phrase.id; let i = $index) {
-          <div class="phrase-card">
-            <span class="rank">#{{ i + 1 }}</span>
-            <div class="phrase-content">
-              <span class="phrase-text">{{ phrase.text }}</span>
-              <div class="phrase-meta">
-                <span class="frequency">{{ phrase.frequency }} occurrences</span>
-                @if (phrase.lastSeen) {
-                  <span class="last-seen">Last seen: {{ phrase.lastSeen }}</span>
-                }
-              </div>
-            </div>
-          </div>
-        } @empty {
-          <div class="no-results">
-            No phrases found matching "{{ searchQuery() }}"
-          </div>
-        }
-      </div>
-    }
-  } @else {
-    @if (searchError()) {
-      <div class="error-message">{{ searchError() }}</div>
-    }
-
-    @if (isSearching()) {
-      <div class="loading">Searching Hansard...</div>
-    } @else if (hansardResults().length > 0) {
-      <div class="results-info">
-        <span>Found {{ totalHansardResults() }} results (page {{ currentPage() }})</span>
-      </div>
-
-      <div class="hansard-list">
-        @for (result of hansardResults(); track result.gid) {
-          <div class="hansard-card">
-            <div class="hansard-header">
-              @if (result.speaker) {
-                <span class="speaker-name">{{ result.speaker.name }}</span>
-                <span class="speaker-party">({{ result.speaker.party }})</span>
-              }
-              <span class="hansard-date">{{ result.hdate }}</span>
-            </div>
-            <div class="hansard-body">
-              {{ truncateText(result.body) }}
-            </div>
-            @if (result.listurl) {
-              <a [href]="'https://www.theyworkforyou.com' + result.listurl" target="_blank" class="view-link">
-                View full debate &rarr;
-              </a>
-            }
-          </div>
-        }
-      </div>
-
-      <div class="pagination">
-        <button
-          class="page-btn"
-          (click)="loadPrevPage()"
-          [disabled]="currentPage() === 1"
-        >
-          &larr; Previous
-        </button>
-        <span class="page-info">Page {{ currentPage() }}</span>
-        <button
-          class="page-btn"
-          (click)="loadNextPage()"
-          [disabled]="hansardResults().length < 20"
-        >
-          Next &rarr;
-        </button>
-      </div>
-    } @else if (searchQuery() && !isSearching()) {
-      <div class="no-results">
-        No results found for "{{ searchQuery() }}"
-      </div>
-    } @else {
-      <div class="search-prompt">
-        <p>Enter a term to search all parliamentary debates</p>
-        <p class="search-hint">Try: "NHS waiting lists", "climate emergency", "cost of living"</p>
-      </div>
-    }
   }
 </div>
