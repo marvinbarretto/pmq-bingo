@@ -13,8 +13,6 @@ export class GameService {
   readonly hasWon = computed(() => this.state().hasWon);
   readonly winType = computed(() => this.state().winType);
   readonly winningCells = computed(() => this.state().winningCells);
-  readonly gamesPlayed = computed(() => this.state().gamesPlayed);
-  readonly gamesWon = computed(() => this.state().gamesWon);
   readonly markedCount = computed(() => this.state().cells.filter((c) => c.marked).length);
   readonly isLoading = computed(() => this.state().cells.length === 0);
 
@@ -38,8 +36,6 @@ export class GameService {
       hasWon: false,
       winType: null,
       winningCells: [],
-      gamesPlayed: 0,
-      gamesWon: 0,
     };
   }
 
@@ -49,8 +45,6 @@ export class GameService {
       hasWon: false,
       winType: null,
       winningCells: [],
-      gamesPlayed: 0,
-      gamesWon: 0,
     };
   }
 
@@ -72,8 +66,12 @@ export class GameService {
       );
 
       const winResult = this.checkWin(cells);
-
       const justWon = winResult.hasWon && !state.hasWon;
+
+      // Trigger win modal if this is a new win
+      if (justWon) {
+        setTimeout(() => this.winCounter.update((c) => c + 1), 0);
+      }
 
       return {
         ...state,
@@ -81,14 +79,8 @@ export class GameService {
         hasWon: winResult.hasWon,
         winType: winResult.winType,
         winningCells: winResult.winningCells,
-        gamesWon: winResult.hasWon ? state.gamesWon + 1 : state.gamesWon,
       };
     });
-
-    // Trigger win modal if this was a new win
-    if (this.state().hasWon && this.winCounter() < this.state().gamesWon) {
-      this.winCounter.update((c) => c + 1);
-    }
 
     this.saveState();
   }
@@ -160,11 +152,7 @@ export class GameService {
   }
 
   newGame(): void {
-    this.state.update((state) => ({
-      ...this.createInitialState(),
-      gamesPlayed: state.gamesPlayed + 1,
-      gamesWon: state.gamesWon,
-    }));
+    this.state.set(this.createInitialState());
     this.saveState();
   }
 

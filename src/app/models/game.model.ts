@@ -11,8 +11,6 @@ export interface GameState {
   hasWon: boolean;
   winType: WinType | null;
   winningCells: number[];
-  gamesPlayed: number;
-  gamesWon: number;
 }
 
 export type WinType = 'row' | 'column' | 'diagonal' | 'fullHouse';

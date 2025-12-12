@@ -16,8 +16,6 @@ export class GameControls {
   readonly hasWon = this.gameService.hasWon;
   readonly winType = this.gameService.winType;
   readonly markedCount = this.gameService.markedCount;
-  readonly gamesPlayed = this.gameService.gamesPlayed;
-  readonly gamesWon = this.gameService.gamesWon;
   readonly totalCells = TOTAL_CELLS;
 
   onNewGame(): void {
