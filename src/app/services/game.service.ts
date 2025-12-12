@@ -85,6 +85,25 @@ export class GameService {
     this.saveState();
   }
 
+  markCellByPhrase(phraseText: string): boolean {
+    if (this.state().hasWon) return false;
+
+    const normalizedPhrase = phraseText.toLowerCase().trim();
+    const cell = this.state().cells.find(
+      c => c.phrase.text.toLowerCase().trim() === normalizedPhrase && !c.marked
+    );
+
+    if (cell) {
+      this.toggleCell(cell.position);
+      return true;
+    }
+    return false;
+  }
+
+  getPhraseTexts(): string[] {
+    return this.state().cells.map(c => c.phrase.text);
+  }
+
   private checkWin(cells: BingoCell[]): {
     hasWon: boolean;
     winType: WinType | null;

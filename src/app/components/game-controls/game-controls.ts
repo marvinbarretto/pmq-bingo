@@ -3,6 +3,7 @@ import { DOCUMENT, UpperCasePipe } from '@angular/common';
 import { GameService } from '../../services/game.service';
 import { SpeechService } from '../../services/speech.service';
 import { TOTAL_CELLS } from '../../models/game.model';
+import { featureFlags } from '../../feature-flags';
 
 @Component({
   selector: 'app-game-controls',
@@ -21,13 +22,15 @@ export class GameControls {
   readonly totalCells = TOTAL_CELLS;
   readonly isListening = this.speechService.isListening;
   readonly isSpeechSupported = this.speechService.isSupported;
+  readonly isModelLoading = this.speechService.isModelLoading;
+  readonly speechEnabled = featureFlags.speechToText;
 
   onNewGame(): void {
     this.gameService.newGame();
   }
 
-  onToggleSpeech(): void {
-    this.speechService.toggle();
+  async onToggleSpeech(): Promise<void> {
+    await this.speechService.toggle();
   }
 
   async onShare(): Promise<void> {

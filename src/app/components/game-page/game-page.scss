@@ -21,6 +21,25 @@
   flex-shrink: 0;
 }
 
+.live-word {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #c41e3a;
+  min-height: 1.5em;
+  animation: fadeIn 0.15s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0.5;
+    transform: translateY(-2px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .main {
   flex: 1;
   display: flex;

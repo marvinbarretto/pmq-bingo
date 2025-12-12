@@ -13,15 +13,23 @@
     <button class="btn btn-secondary" (click)="onShare()" type="button">
       Share
     </button>
-    @if (isSpeechSupported()) {
+    @if (speechEnabled && isSpeechSupported()) {
       <button
         class="btn"
         [class.btn-listening]="isListening()"
-        [class.btn-secondary]="!isListening()"
+        [class.btn-loading]="isModelLoading()"
+        [class.btn-secondary]="!isListening() && !isModelLoading()"
+        [disabled]="isModelLoading()"
         (click)="onToggleSpeech()"
         type="button"
       >
-        {{ isListening() ? 'Stop Listening' : 'Start Listening' }}
+        @if (isModelLoading()) {
+          Loading Model...
+        } @else if (isListening()) {
+          Stop Listening
+        } @else {
+          Start Listening
+        }
       </button>
     }
   </div>

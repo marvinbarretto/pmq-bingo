@@ -1,6 +1,9 @@
 <div class="game-container">
   <header class="header">
     <h1>PMQ Bingo</h1>
+    @if (isListening()) {
+      <div class="live-word">{{ currentWord() }}</div>
+    }
   </header>
 
   @if (isLoading()) {
