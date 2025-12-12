@@ -1,57 +1,91 @@
 @use '../../../styles/animations';
 
+// House of Commons green palette - richer tones
+$commons-green: #00704a;
+$commons-green-dark: #005c3d;
+$commons-green-darker: #004830;
+$commons-green-light: #00875a;
+$commons-gold: #c9a227;
+$commons-gold-dark: #a68520;
+
 .cell {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: clamp(0.25rem, 1vw, 0.5rem);
-  border: 2px solid var(--border-color, #2d3748);
-  border-radius: clamp(4px, 1vw, 8px);
-  background: var(--cell-bg, #1a202c);
-  color: var(--text-color, #e2e8f0);
+  padding: clamp(2px, 0.5vw, 6px);
+  border: 3px solid $commons-green-darker;
+  border-radius: 3px;
+  background: linear-gradient(145deg, $commons-green-light 0%, $commons-green 50%, $commons-green-dark 100%);
+  color: #fff;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
   aspect-ratio: 1;
-  font-size: clamp(0.6rem, 2.5vw, 0.9rem);
+  font-size: clamp(0.5rem, 2.5vw, 0.85rem);
+  font-weight: 600;
   text-align: center;
-  word-break: break-word;
-  hyphens: auto;
-  line-height: 1.2;
+  letter-spacing: 0.01em;
+  line-height: 1.05;
   overflow: hidden;
+  position: relative;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100%;
+
+  // 3D blocky effect
+  box-shadow:
+    0 3px 0 $commons-green-darker,
+    0 4px 6px rgba(0, 0, 0, 0.3);
 
   &:hover {
-    background: var(--cell-hover, #2d3748);
-    transform: scale(1.02);
+    background: linear-gradient(145deg, lighten($commons-green-light, 5%) 0%, $commons-green-light 50%, $commons-green 100%);
+    transform: translateY(-1px);
+    box-shadow:
+      0 4px 0 $commons-green-darker,
+      0 5px 8px rgba(0, 0, 0, 0.4);
   }
 
   &:active {
-    transform: scale(0.98);
+    transform: translateY(2px);
+    box-shadow:
+      0 1px 0 $commons-green-darker,
+      0 2px 3px rgba(0, 0, 0, 0.2);
   }
 
   &.marked {
-    background: var(--marked-bg, #4a5568);
-    border-color: var(--marked-border, #68d391);
-    color: var(--marked-text, #fff);
-
-    &::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(135deg, transparent 40%, rgba(104, 211, 145, 0.1) 100%);
-      border-radius: 6px;
-    }
+    background: linear-gradient(145deg, lighten($commons-gold, 10%) 0%, $commons-gold 50%, $commons-gold-dark 100%);
+    border-color: $commons-gold-dark;
+    color: #1a2a1a;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    box-shadow:
+      0 3px 0 darken($commons-gold-dark, 10%),
+      0 4px 6px rgba(0, 0, 0, 0.3),
+      inset 0 1px 0 rgba(255, 255, 255, 0.2);
   }
 
   &.winning {
-    background: var(--winning-bg, #48bb78);
-    border-color: var(--winning-border, #2f855a);
+    background: linear-gradient(145deg, #ffd700 0%, #ffb700 50%, #e6a000 100%);
+    border-color: #b38600;
+    color: #1a1a1a;
     animation: pulse 0.5s ease-in-out;
+    text-shadow: none;
+    box-shadow:
+      0 3px 0 #8a6800,
+      0 4px 6px rgba(0, 0, 0, 0.3),
+      0 0 15px rgba(255, 215, 0, 0.6);
   }
-
-  position: relative;
 }
 
 .cell-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   position: relative;
   z-index: 1;
+  gap: 0;
+}
+
+.word {
+  display: block;
+  line-height: 1;
 }

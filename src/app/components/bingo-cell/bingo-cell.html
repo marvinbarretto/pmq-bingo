@@ -5,5 +5,9 @@
   (click)="onClick()"
   type="button"
 >
-  <span class="cell-text">{{ cell().phrase.text }}</span>
+  <span class="cell-text">
+    @for (word of words(); track $index) {
+      <span class="word">{{ word }}</span>
+    }
+  </span>
 </button>

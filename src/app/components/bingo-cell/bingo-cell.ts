@@ -1,4 +1,4 @@
-import { Component, input, output } from '@angular/core';
+import { Component, computed, input, output } from '@angular/core';
 import { BingoCell as BingoCellModel } from '../../models/game.model';
 
 @Component({
@@ -12,6 +12,8 @@ export class BingoCell {
   isWinning = input<boolean>(false);
 
   cellClicked = output<number>();
+
+  readonly words = computed(() => this.cell().phrase.text.split(' '));
 
   onClick(): void {
     this.cellClicked.emit(this.cell().position);
