@@ -1,0 +1,13 @@
+@if (nextSession()) {
+  <div class="countdown-container">
+    <div class="next-pmq">
+      <span class="label">Next PMQs</span>
+      <span class="date">{{ formattedDate }}</span>
+      <span class="time">12:00 noon</span>
+    </div>
+  </div>
+} @else {
+  <div class="countdown-container no-session">
+    <span class="label">Parliament in recess</span>
+  </div>
+}

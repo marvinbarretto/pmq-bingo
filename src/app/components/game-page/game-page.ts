@@ -2,6 +2,7 @@ import { Component, effect, inject, OnInit } from '@angular/core';
 import { Dialog } from '@angular/cdk/dialog';
 import { BingoCard } from '../bingo-card/bingo-card';
 import { GameControls } from '../game-controls/game-controls';
+import { PmqCountdown } from '../pmq-countdown/pmq-countdown';
 import { GameService } from '../../services/game.service';
 import { SpeechService } from '../../services/speech.service';
 import { WinModal, WinModalData } from '../win-modal/win-modal';
@@ -9,7 +10,7 @@ import { APP_VERSION } from '../../version';
 
 @Component({
   selector: 'app-game-page',
-  imports: [BingoCard, GameControls],
+  imports: [BingoCard, GameControls, PmqCountdown],
   templateUrl: './game-page.html',
   styleUrl: './game-page.scss',
 })

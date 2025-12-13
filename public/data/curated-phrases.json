@@ -1,0 +1,12 @@
+[
+  { "id": "c1", "text": "14 Years of Tory Government", "category": "attack" },
+  { "id": "c2", "text": "2 Child Cap", "category": "attack" },
+  { "id": "c3", "text": "£150 Off Energy Bills", "category": "pledge" },
+  { "id": "c4", "text": "Resign!", "category": "attack" },
+  { "id": "c5", "text": "Protect the NHS", "category": "pledge" },
+  { "id": "c6", "text": "Cost of Living", "category": "cliche" },
+  { "id": "c7", "text": "Fixing the Mess They Left", "category": "deflection" },
+  { "id": "c8", "text": "NHS Waiting Lists", "category": "attack" },
+  { "id": "c9", "text": "£22 Billion Black Hole", "category": "attack" },
+  { "id": "c10", "text": "Protecting the NHS", "category": "pledge" }
+]

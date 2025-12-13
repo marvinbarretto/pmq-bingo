@@ -14,6 +14,7 @@
     "classify-gemini": "npx tsx scripts/classify-sentences-gemini.ts",
     "classify-labels": "npx tsx scripts/classify-with-labels.ts",
     "generate-phrase-bank": "npx tsx scripts/generate-phrase-bank.ts",
+    "update-schedule": "npx tsx scripts/fetch-pmq-schedule.ts",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:major": "standard-version --release-as major",
