@@ -24,6 +24,7 @@ export class GameControls {
   readonly isSpeechSupported = this.speechService.isSupported;
   readonly isModelLoading = this.speechService.isModelLoading;
   readonly speechEnabled = featureFlags.speechToText;
+  readonly shareEnabled = featureFlags.share;
 
   onNewGame(): void {
     this.gameService.newGame();

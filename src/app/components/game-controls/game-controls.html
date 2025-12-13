@@ -10,9 +10,11 @@
     <button class="btn btn-primary" (click)="onNewGame()" type="button">
       New Card
     </button>
-    <button class="btn btn-secondary" (click)="onShare()" type="button">
-      Share
-    </button>
+    @if (shareEnabled) {
+      <button class="btn btn-secondary" (click)="onShare()" type="button">
+        Share
+      </button>
+    }
     @if (speechEnabled && isSpeechSupported()) {
       <button
         class="btn"

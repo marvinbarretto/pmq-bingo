@@ -3,6 +3,7 @@ import { DIALOG_DATA, DialogRef } from '@angular/cdk/dialog';
 import { DOCUMENT } from '@angular/common';
 import { WinType } from '../../models/game.model';
 import { CelebrationGif } from '../celebration-gif/celebration-gif';
+import { featureFlags } from '../../feature-flags';
 
 export interface WinModalData {
   winType: WinType;
@@ -19,6 +20,7 @@ export class WinModal {
   private readonly dialogRef = inject(DialogRef<string>);
   private readonly document = inject(DOCUMENT);
   readonly data = inject<WinModalData>(DIALOG_DATA);
+  readonly shareEnabled = featureFlags.share;
 
   get winTypeDisplay(): string {
     switch (this.data.winType) {
