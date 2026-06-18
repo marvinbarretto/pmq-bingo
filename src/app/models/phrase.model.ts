@@ -3,4 +3,5 @@ export interface Phrase {
   text: string;
   frequency?: number;
   lastSeen?: string;
+  category?: string;
 }

@@ -127,10 +127,17 @@
   }
 
   .phrase-text {
-    display: block;
+    display: inline;
     font-size: 1rem;
     font-weight: 500;
     color: var(--text-color);
+  }
+
+  .phrase-text-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
     margin-bottom: 0.25rem;
   }
 
@@ -144,6 +151,49 @@
   .frequency {
     color: var(--commons-green-light);
     font-weight: 500;
+  }
+}
+
+// Category badges
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+  flex-shrink: 0;
+
+  &--attack {
+    background-color: #6b1a1a;
+    color: #f5c6c6;
+    border: 1px solid #8b2222;
+  }
+
+  &--boast {
+    background-color: #4a3800;
+    color: var(--commons-gold-light);
+    border: 1px solid var(--commons-gold-dark);
+  }
+
+  &--pledge {
+    background-color: var(--commons-green-darker);
+    color: #b3f0d8;
+    border: 1px solid var(--commons-green-dark);
+  }
+
+  &--cliche {
+    background-color: #1a2a4a;
+    color: #aac4f5;
+    border: 1px solid #2a4a7a;
+  }
+
+  &--deflection {
+    background-color: #2a1a3a;
+    color: #d4aaf5;
+    border: 1px solid #4a2a6a;
   }
 }
 
