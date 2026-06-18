@@ -1,5 +1,7 @@
 # PMQ Bingo
 
+A bingo game for Prime Minister's Questions — tick off the clichés and dodges as they happen, live.
+
 A bingo game for Prime Minister's Questions (PMQs). Spot common phrases and rhetorical devices used during PMQs and mark them off your bingo card.
 
 ## Features
