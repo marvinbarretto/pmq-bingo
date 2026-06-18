@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Phrase } from '../models/phrase.model';
 import { TOTAL_CELLS } from '../models/game.model';
 import { firstValueFrom } from 'rxjs';
+import { shuffle } from '../utils/shuffle';
 
 @Injectable({
   providedIn: 'root',
@@ -46,12 +47,12 @@ export class PhraseService {
       );
 
       // Shuffle and pick random phrases from bank
-      const shuffledBank = [...availableBank].sort(() => Math.random() - 0.5);
+      const shuffledBank = shuffle(availableBank);
       selected.push(...shuffledBank.slice(0, randomNeeded));
     }
 
     // Shuffle the final selection so curated aren't always at the top
-    return selected.sort(() => Math.random() - 0.5);
+    return shuffle(selected);
   }
 
   getAllPhrases(): Phrase[] {
