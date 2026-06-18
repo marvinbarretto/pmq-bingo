@@ -2,6 +2,11 @@
   <div class="countdown-container">
     <div class="next-pmq">
       <span class="label">Next PMQs</span>
+      @if (daysUntil() === 0) {
+        <span class="days-until today">Today is PMQ day!</span>
+      } @else if (daysUntil() !== null) {
+        <span class="days-until">{{ daysUntil() }} days until next PMQ</span>
+      }
       <span class="date">{{ formattedDate }}</span>
       <span class="time">12:00 noon</span>
     </div>
