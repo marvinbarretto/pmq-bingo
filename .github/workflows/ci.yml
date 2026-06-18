@@ -1,0 +1,39 @@
+name: CI
+
+# Run the test suite and build on every PR and on pushes to master so that
+# "tests pass" is verified by CI, not self-reported.
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    # Safety net: if Vitest ever engages watch mode despite --watch=false,
+    # fail fast instead of burning the 6-hour default job timeout.
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          # Repo pins no Node version (no engines/.nvmrc/volta), so use Node 20,
+          # matching the existing update-pmq-schedule workflow.
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        # ng test uses Angular's Vitest-backed unit-test builder, which defaults
+        # to watch mode in a TTY. --watch=false forces a single non-watch run so
+        # the job terminates instead of hanging.
+        run: npm test -- --watch=false
+
+      - name: Build
+        run: npm run build
