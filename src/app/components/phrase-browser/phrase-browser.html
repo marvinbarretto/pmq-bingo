@@ -36,7 +36,12 @@
         <div class="phrase-card">
           <span class="rank">#{{ i + 1 }}</span>
           <div class="phrase-content">
-            <span class="phrase-text">{{ phrase.text }}</span>
+            <div class="phrase-text-row">
+              <span class="phrase-text">{{ phrase.text }}</span>
+              @if (phrase.category && phrase.category !== 'null') {
+                <span class="badge badge--{{ phrase.category }}">{{ phrase.category }}</span>
+              }
+            </div>
             <div class="phrase-meta">
               @if (phrase.frequency) {
                 <span class="frequency">{{ phrase.frequency }} occurrences</span>
