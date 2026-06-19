@@ -46,12 +46,24 @@ export class PhraseService {
       );
 
       // Shuffle and pick random phrases from bank
-      const shuffledBank = [...availableBank].sort(() => Math.random() - 0.5);
+      const shuffledBank = this.fisherYatesShuffle([...availableBank]);
       selected.push(...shuffledBank.slice(0, randomNeeded));
     }
 
     // Shuffle the final selection so curated aren't always at the top
-    return selected.sort(() => Math.random() - 0.5);
+    return this.fisherYatesShuffle(selected);
+  }
+
+  /**
+   * Fisher-Yates (Knuth) shuffle — unbiased uniform random permutation.
+   * Mutates and returns the array in place.
+   */
+  private fisherYatesShuffle<T>(arr: T[]): T[] {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
   }
 
   getAllPhrases(): Phrase[] {
