@@ -32,6 +32,16 @@
   color: var(--text-muted);
 }
 
+.days-until {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--commons-gold);
+
+  &.today {
+    color: var(--commons-green, #006435);
+  }
+}
+
 .date {
   font-size: 1rem;
   font-weight: 600;
