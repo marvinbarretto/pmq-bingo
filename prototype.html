@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PMQ Central — Prototype</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0a1410;
+    --surface: #111e18;
+    --card: #1a2e24;
+    --card-hover: #1f3829;
+    --border: #2a4035;
+    --green: #00a651;
+    --green-dim: #00724a;
+    --gold: #c9a84c;
+    --gold-dim: #8a6e2a;
+    --text: #e2ede7;
+    --muted: #7a9e8a;
+    --danger: #e05252;
+    --blue: #4a9eda;
+    --marked: #0d3d22;
+    --marked-border: #00a651;
+    --winning: #1a4a10;
+    --winning-border: #4caf50;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* NAV */
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .logo {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text);
+    padding: 14px 24px 14px 0;
+    border-right: 1px solid var(--border);
+    margin-right: 4px;
+    letter-spacing: -0.3px;
+  }
+
+  .logo span { color: var(--green); }
+
+  nav a {
+    color: var(--muted);
+    text-decoration: none;
+    padding: 16px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s;
+    letter-spacing: 0.2px;
+  }
+
+  nav a:hover { color: var(--text); }
+  nav a.active { color: var(--green); border-bottom-color: var(--green); }
+
+  .nav-right {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .btn-ghost {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: all 0.15s;
+  }
+
+  .btn-ghost:hover { border-color: var(--green); color: var(--green); }
+
+  .btn-primary {
+    background: var(--green);
+    border: none;
+    color: #fff;
+    padding: 6px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    transition: background 0.15s;
+  }
+
+  .btn-primary:hover { background: var(--green-dim); }
+
+  /* VIEWS */
+  .view { display: none; }
+  .view.active { display: block; }
+
+  /* GAME VIEW */
+  .game-layout {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 24px;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 32px;
+    align-items: start;
+  }
+
+  /* Session banner */
+  .session-banner {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .session-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+
+  .session-title {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+  }
+
+  .countdown {
+    text-align: right;
+  }
+
+  .countdown-num {
+    font-size: 36px;
+    font-weight: 800;
+    color: var(--green);
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+
+  .countdown-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+
+  /* Bingo grid */
+  .bingo-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .bingo-title { font-size: 15px; font-weight: 600; }
+
+  .bingo-meta {
+    font-size: 12px;
+    color: var(--muted);
+  }
+
+  .bingo-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px;
+  }
+
+  .cell {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 8px;
+    min-height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 11.5px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+    line-height: 1.3;
+    color: var(--text);
+  }
+
+  .cell:hover { background: var(--card-hover); border-color: var(--green-dim); }
+
+  .cell.marked {
+    background: var(--marked);
+    border-color: var(--marked-border);
+    color: var(--green);
+  }
+
+  .cell.winning {
+    background: var(--winning);
+    border-color: var(--winning-border);
+    color: #7dda58;
+  }
+
+  /* Sidebar */
+  .sidebar { display: flex; flex-direction: column; gap: 16px; }
+
+  .widget {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+
+  .widget-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-bottom: 16px;
+    font-weight: 600;
+  }
+
+  .stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+  }
+
+  .stat-row:last-child { border-bottom: none; }
+
+  .stat-value {
+    font-weight: 700;
+    color: var(--green);
+    font-size: 15px;
+  }
+
+  .stat-value.gold { color: var(--gold); }
+
+  /* Phrase prediction widget */
+  .prediction-list { display: flex; flex-direction: column; gap: 8px; }
+
+  .prediction-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 12px;
+  }
+
+  .prediction-bar-wrap {
+    flex: 1;
+    background: var(--card);
+    border-radius: 3px;
+    height: 6px;
+    overflow: hidden;
+  }
+
+  .prediction-bar {
+    height: 100%;
+    background: var(--green);
+    border-radius: 3px;
+    transition: width 0.3s;
+  }
+
+  .prediction-pct {
+    font-size: 11px;
+    color: var(--muted);
+    min-width: 30px;
+    text-align: right;
+    font-weight: 600;
+  }
+
+  .prediction-phrase { min-width: 120px; color: var(--text); }
+
+  /* ARCHIVE VIEW */
+  .archive-layout {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 24px;
+  }
+
+  .page-header {
+    margin-bottom: 32px;
+  }
+
+  .page-eyebrow {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--green);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .page-title {
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    line-height: 1.1;
+  }
+
+  .page-sub {
+    font-size: 14px;
+    color: var(--muted);
+    margin-top: 8px;
+  }
+
+  /* League table */
+  .section-title {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .archive-grid {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    gap: 32px;
+    align-items: start;
+  }
+
+  .league-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+
+  .league-table th {
+    text-align: left;
+    padding: 8px 12px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--muted);
+    font-weight: 600;
+    border-bottom: 2px solid var(--border);
+  }
+
+  .league-table th.num { text-align: center; }
+
+  .league-table td {
+    padding: 12px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+
+  .league-table td.num { text-align: center; font-weight: 700; }
+
+  .league-table tr:hover td { background: var(--surface); }
+
+  .player-name {
+    font-weight: 700;
+    font-size: 15px;
+    display: block;
+  }
+
+  .player-role {
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  .form-dots {
+    display: flex;
+    gap: 3px;
+    margin-top: 4px;
+  }
+
+  .form-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .form-dot.w { background: var(--green); }
+  .form-dot.l { background: var(--danger); }
+  .form-dot.d { background: var(--gold); }
+
+  .w-col { color: var(--green); }
+  .l-col { color: var(--danger); }
+  .d-col { color: var(--gold); }
+
+  .top-phrase {
+    font-size: 11px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 3px 8px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* Sessions list */
+  .session-list { display: flex; flex-direction: column; gap: 8px; }
+
+  .session-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .session-item:hover {
+    border-color: var(--green-dim);
+    background: var(--card);
+  }
+
+  .session-date-block {
+    background: var(--card);
+    border-radius: 8px;
+    padding: 8px 12px;
+    text-align: center;
+    min-width: 52px;
+    border: 1px solid var(--border);
+  }
+
+  .session-day { font-size: 20px; font-weight: 800; line-height: 1; }
+  .session-month { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); }
+
+  .session-info { flex: 1; }
+
+  .session-winner {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 3px;
+  }
+
+  .winner-tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    margin-right: 6px;
+  }
+
+  .winner-tag.starmer { background: #0d3050; color: #4a9eda; }
+  .winner-tag.badenoch { background: #3d1a1a; color: #e05252; }
+  .winner-tag.draw { background: #2d2a10; color: var(--gold); }
+
+  .session-phrases {
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  .session-phrases span {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 1px 6px;
+    margin-right: 4px;
+    font-size: 10px;
+  }
+
+  .session-votes {
+    text-align: right;
+  }
+
+  .vote-pct {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--blue);
+    line-height: 1;
+  }
+
+  .vote-label { font-size: 10px; color: var(--muted); }
+
+  /* Phrases trending */
+  .phrase-trending { display: flex; flex-direction: column; gap: 10px; }
+
+  .phrase-trend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .phrase-trend-name {
+    font-size: 12px;
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .phrase-trend-bar-wrap {
+    width: 80px;
+    background: var(--card);
+    border-radius: 3px;
+    height: 8px;
+    overflow: hidden;
+  }
+
+  .phrase-trend-bar {
+    height: 100%;
+    background: var(--gold);
+    border-radius: 3px;
+  }
+
+  .phrase-trend-count {
+    font-size: 11px;
+    color: var(--muted);
+    min-width: 28px;
+    text-align: right;
+    font-weight: 700;
+  }
+
+  /* SESSION DETAIL VIEW */
+  .session-layout {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 32px 24px;
+  }
+
+  .back-link {
+    font-size: 12px;
+    color: var(--muted);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 24px;
+    transition: color 0.15s;
+  }
+
+  .back-link:hover { color: var(--green); }
+
+  .session-detail-header {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .session-detail-date {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+
+  .session-detail-title {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+  }
+
+  .session-detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-bottom: 32px;
+  }
+
+  /* Voting card */
+  .vote-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    grid-column: 1 / -1;
+  }
+
+  .vote-question {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .vote-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .vote-btn {
+    background: var(--card);
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 12px;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s;
+  }
+
+  .vote-btn:hover { border-color: var(--green-dim); background: var(--card-hover); }
+  .vote-btn.selected-blue { border-color: var(--blue); background: #0d1e2d; }
+  .vote-btn.selected-red { border-color: var(--danger); background: #1f0d0d; }
+  .vote-btn.selected-gold { border-color: var(--gold); background: #1f1a0d; }
+
+  .vote-btn-name {
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+
+  .vote-btn-role {
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 12px;
+  }
+
+  .vote-bar-wrap {
+    background: var(--border);
+    border-radius: 3px;
+    height: 6px;
+    overflow: hidden;
+  }
+
+  .vote-bar { height: 100%; border-radius: 3px; }
+  .vote-bar.blue { background: var(--blue); }
+  .vote-bar.red { background: var(--danger); }
+  .vote-bar.gold { background: var(--gold); }
+
+  .vote-pct-small {
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 6px;
+    color: var(--muted);
+  }
+
+  .vote-total {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+  }
+
+  /* Moment highlights */
+  .moments-list { display: flex; flex-direction: column; gap: 8px; }
+
+  .moment-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+  }
+
+  .moment-time {
+    font-size: 11px;
+    color: var(--green);
+    font-weight: 700;
+    margin-bottom: 4px;
+    font-family: monospace;
+  }
+
+  .moment-text {
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--text);
+    margin-bottom: 8px;
+    font-style: italic;
+  }
+
+  .moment-attribution {
+    font-size: 11px;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .moment-tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+
+  .moment-tag.attack { background: #3d1a1a; color: var(--danger); }
+  .moment-tag.quip { background: #1a2a3d; color: var(--blue); }
+  .moment-tag.deflection { background: #1f1a0d; color: var(--gold); }
+
+  /* Phrase spotted grid */
+  .phrases-spotted {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .spotted-phrase {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .spotted-count {
+    background: var(--green);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 3px;
+    padding: 1px 5px;
+  }
+
+  /* Community link */
+  .community-bar {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 24px;
+  }
+
+  .community-text { font-size: 13px; }
+  .community-text strong { color: var(--text); }
+  .community-text span { color: var(--muted); }
+
+  .discord-btn {
+    background: #5865F2;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 18px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Badge / pill */
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 3px 8px;
+    border-radius: 4px;
+  }
+
+  .badge.live { background: #1a3a0a; color: #7dda58; border: 1px solid #3a6020; }
+
+  .prototype-label {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    background: var(--gold);
+    color: #000;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    opacity: 0.7;
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="logo">PMQ<span>Central</span></div>
+  <a class="active" onclick="showView('game', this)">Play Bingo</a>
+  <a onclick="showView('archive', this)">Archive</a>
+  <a onclick="showView('session', this)">Session Detail</a>
+  <div class="nav-right">
+    <button class="btn-ghost">Sign in</button>
+    <button class="btn-primary">Join Discord</button>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════
+     VIEW 1: GAME / BINGO
+══════════════════════════════════════════════════════════ -->
+<div class="view active" id="view-game">
+  <div class="game-layout">
+    <div>
+      <div class="session-banner">
+        <div>
+          <div class="session-label">Session 34 · 2025–26 Season</div>
+          <div class="session-title">Wednesday PMQs <span class="badge live">Live Wed 12:00</span></div>
+        </div>
+        <div class="countdown">
+          <div class="countdown-num">6</div>
+          <div class="countdown-label">Days until next PMQ</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">Wed 15 Apr · 12:00</div>
+        </div>
+      </div>
+
+      <div class="bingo-header">
+        <span class="bingo-title">Your Card</span>
+        <span class="bingo-meta">8/25 spotted · One away from a row</span>
+      </div>
+
+      <div class="bingo-grid" id="bingo-grid"></div>
+    </div>
+
+    <div class="sidebar">
+      <!-- Phrase prediction -->
+      <div class="widget">
+        <div class="widget-title">AI Phrase Predictions · This Week</div>
+        <div class="prediction-list" id="predictions"></div>
+        <div style="font-size:10px;color:var(--muted);margin-top:12px;line-height:1.5;">
+          Based on this week's news cycle, recent Hansard data, and phrase frequency trends.
+        </div>
+      </div>
+
+      <!-- Your record -->
+      <div class="widget">
+        <div class="widget-title">Your Season Record</div>
+        <div class="stat-row">
+          <span>Sessions played</span>
+          <span class="stat-value">34</span>
+        </div>
+        <div class="stat-row">
+          <span>Bingos called</span>
+          <span class="stat-value">12</span>
+        </div>
+        <div class="stat-row">
+          <span>Phrases spotted</span>
+          <span class="stat-value">287</span>
+        </div>
+        <div class="stat-row">
+          <span>Best streak</span>
+          <span class="stat-value gold">8</span>
+        </div>
+        <div class="stat-row">
+          <span>Top phrase called</span>
+          <span style="color:var(--gold);font-size:12px;font-style:italic;">"Cost of Living"</span>
+        </div>
+      </div>
+
+      <!-- Quick vote -->
+      <div class="widget">
+        <div class="widget-title">Last Session · Vote</div>
+        <div style="font-size:12px;color:var(--muted);margin-bottom:14px;">
+          Wed 25 Mar — Who won?
+        </div>
+        <div style="display:flex;flex-direction:column;gap:8px;">
+          <button onclick="castVote(this, 'blue')" style="background:var(--card);border:1.5px solid var(--border);border-radius:8px;padding:10px 14px;cursor:pointer;color:var(--text);text-align:left;transition:all 0.15s;display:flex;justify-content:space-between;align-items:center;">
+            <span style="font-size:13px;font-weight:600;">Keir Starmer</span>
+            <span style="font-size:13px;color:var(--blue);font-weight:700;">54%</span>
+          </button>
+          <button onclick="castVote(this, 'red')" style="background:var(--card);border:1.5px solid var(--border);border-radius:8px;padding:10px 14px;cursor:pointer;color:var(--text);text-align:left;transition:all 0.15s;display:flex;justify-content:space-between;align-items:center;">
+            <span style="font-size:13px;font-weight:600;">Kemi Badenoch</span>
+            <span style="font-size:13px;color:var(--danger);font-weight:700;">31%</span>
+          </button>
+          <button onclick="castVote(this, 'gold')" style="background:var(--card);border:1.5px solid var(--border);border-radius:8px;padding:10px 14px;cursor:pointer;color:var(--text);text-align:left;transition:all 0.15s;display:flex;justify-content:space-between;align-items:center;">
+            <span style="font-size:13px;font-weight:600;">Draw</span>
+            <span style="font-size:13px;color:var(--gold);font-weight:700;">15%</span>
+          </button>
+        </div>
+        <div style="font-size:11px;color:var(--muted);margin-top:10px;text-align:center;">1,247 votes cast</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     VIEW 2: ARCHIVE
+══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-archive">
+  <div class="archive-layout">
+    <div class="page-header">
+      <div class="page-eyebrow">Parliamentary Record</div>
+      <div class="page-title">PMQs Season 2024–26</div>
+      <div class="page-sub">34 sessions · Tracking phrase frequency, performance ratings &amp; community votes</div>
+    </div>
+
+    <div class="archive-grid">
+      <div>
+        <!-- League table -->
+        <div class="section-title">Performance Table</div>
+        <table class="league-table" style="margin-bottom:32px;">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Player</th>
+              <th class="num">P</th>
+              <th class="num">W</th>
+              <th class="num">D</th>
+              <th class="num">L</th>
+              <th class="num">Pts</th>
+              <th>Form</th>
+              <th>Top Phrase</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="color:var(--gold);font-weight:800;">1</td>
+              <td>
+                <span class="player-name">Keir Starmer</span>
+                <span class="player-role">Prime Minister · Labour</span>
+              </td>
+              <td class="num">34</td>
+              <td class="num w-col">22</td>
+              <td class="num d-col">4</td>
+              <td class="num l-col">8</td>
+              <td class="num" style="font-size:16px;font-weight:800;">70</td>
+              <td>
+                <div class="form-dots">
+                  <div class="form-dot w"></div>
+                  <div class="form-dot w"></div>
+                  <div class="form-dot l"></div>
+                  <div class="form-dot w"></div>
+                  <div class="form-dot d"></div>
+                </div>
+              </td>
+              <td><span class="top-phrase">"Cost of Living" ×47</span></td>
+            </tr>
+            <tr>
+              <td style="color:var(--muted);font-weight:800;">2</td>
+              <td>
+                <span class="player-name">Kemi Badenoch</span>
+                <span class="player-role">Leader of the Opposition · Conservative</span>
+              </td>
+              <td class="num">34</td>
+              <td class="num w-col">8</td>
+              <td class="num d-col">4</td>
+              <td class="num l-col">22</td>
+              <td class="num" style="font-size:16px;font-weight:800;">28</td>
+              <td>
+                <div class="form-dots">
+                  <div class="form-dot l"></div>
+                  <div class="form-dot l"></div>
+                  <div class="form-dot w"></div>
+                  <div class="form-dot l"></div>
+                  <div class="form-dot d"></div>
+                </div>
+              </td>
+              <td><span class="top-phrase">"Economic Growth" ×31</span></td>
+            </tr>
+            <tr>
+              <td style="color:var(--muted);font-weight:800;">3</td>
+              <td>
+                <span class="player-name">Ed Davey</span>
+                <span class="player-role">Leader · Liberal Democrats</span>
+              </td>
+              <td class="num">18</td>
+              <td class="num w-col">6</td>
+              <td class="num d-col">5</td>
+              <td class="num l-col">7</td>
+              <td class="num" style="font-size:16px;font-weight:800;">23</td>
+              <td>
+                <div class="form-dots">
+                  <div class="form-dot w"></div>
+                  <div class="form-dot d"></div>
+                  <div class="form-dot w"></div>
+                  <div class="form-dot l"></div>
+                  <div class="form-dot w"></div>
+                </div>
+              </td>
+              <td><span class="top-phrase">"NHS Dentists" ×12</span></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <!-- Recent sessions -->
+        <div class="section-title">Recent Sessions</div>
+        <div class="session-list">
+          <div class="session-item" onclick="showView('session', null)">
+            <div class="session-date-block">
+              <div class="session-day">26</div>
+              <div class="session-month">Mar</div>
+            </div>
+            <div class="session-info">
+              <div class="session-winner">
+                <span class="winner-tag starmer">Starmer</span> won · 1,247 votes
+              </div>
+              <div class="session-phrases">
+                <span>Cost of Living</span>
+                <span>NHS Waiting Lists</span>
+                <span>Fixing the Mess</span>
+                <span>+4</span>
+              </div>
+            </div>
+            <div class="session-votes">
+              <div class="vote-pct">54%</div>
+              <div class="vote-label">Starmer win</div>
+            </div>
+          </div>
+
+          <div class="session-item">
+            <div class="session-date-block">
+              <div class="session-day">19</div>
+              <div class="session-month">Mar</div>
+            </div>
+            <div class="session-info">
+              <div class="session-winner">
+                <span class="winner-tag badenoch">Badenoch</span> won · 986 votes
+              </div>
+              <div class="session-phrases">
+                <span>Economic Growth</span>
+                <span>£22bn Black Hole</span>
+                <span>Resign!</span>
+                <span>+3</span>
+              </div>
+            </div>
+            <div class="session-votes">
+              <div class="vote-pct" style="color:var(--danger);">61%</div>
+              <div class="vote-label">Badenoch win</div>
+            </div>
+          </div>
+
+          <div class="session-item">
+            <div class="session-date-block">
+              <div class="session-day">12</div>
+              <div class="session-month">Mar</div>
+            </div>
+            <div class="session-info">
+              <div class="session-winner">
+                <span class="winner-tag draw">Draw</span> · 1,103 votes
+              </div>
+              <div class="session-phrases">
+                <span>Protect the NHS</span>
+                <span>2 Child Cap</span>
+                <span>Working People</span>
+                <span>+5</span>
+              </div>
+            </div>
+            <div class="session-votes">
+              <div class="vote-pct" style="color:var(--gold);">—</div>
+              <div class="vote-label">Draw</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar">
+        <!-- Top phrases all-time -->
+        <div class="widget">
+          <div class="widget-title">Top Phrases · All Time</div>
+          <div class="phrase-trending">
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">Cost of Living</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:100%"></div>
+              </div>
+              <span class="phrase-trend-count">47</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">NHS Waiting Lists</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:81%"></div>
+              </div>
+              <span class="phrase-trend-count">38</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">Fixing the Mess</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:72%"></div>
+              </div>
+              <span class="phrase-trend-count">34</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">Working People</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:64%"></div>
+              </div>
+              <span class="phrase-trend-count">30</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">Economic Growth</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:66%"></div>
+              </div>
+              <span class="phrase-trend-count">31</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">£22bn Black Hole</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:55%"></div>
+              </div>
+              <span class="phrase-trend-count">26</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">Protect the NHS</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:49%"></div>
+              </div>
+              <span class="phrase-trend-count">23</span>
+            </div>
+            <div class="phrase-trend-item">
+              <span class="phrase-trend-name">14 Years of Failure</span>
+              <div class="phrase-trend-bar-wrap">
+                <div class="phrase-trend-bar" style="width:40%"></div>
+              </div>
+              <span class="phrase-trend-count">19</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Community -->
+        <div class="widget">
+          <div class="widget-title">Community</div>
+          <div style="font-size:13px;margin-bottom:14px;line-height:1.6;color:var(--muted);">
+            <strong style="color:var(--text);">1,247 players</strong> voted this week.<br>
+            Discuss the session on Discord.
+          </div>
+          <button class="discord-btn" style="width:100%;justify-content:center;">
+            <svg width="16" height="12" viewBox="0 0 71 55" fill="white"><path d="M60.1 4.9A58.5 58.5 0 0 0 45.6.4a.2.2 0 0 0-.2.1 40.6 40.6 0 0 0-1.8 3.7 54 54 0 0 0-16.3 0A37.9 37.9 0 0 0 25.5.5a.2.2 0 0 0-.2-.1 58.4 58.4 0 0 0-14.5 4.5.2.2 0 0 0-.1.1C1.6 19.1-1 33 .3 46.7a.2.2 0 0 0 .1.2 58.7 58.7 0 0 0 17.7 9 .2.2 0 0 0 .2-.1 42 42 0 0 0 3.6-5.9.2.2 0 0 0-.1-.3 38.7 38.7 0 0 1-5.5-2.6.2.2 0 0 1 0-.3l1.1-.9a.2.2 0 0 1 .2 0c11.5 5.3 24 5.3 35.4 0a.2.2 0 0 1 .2 0l1.1.9a.2.2 0 0 1 0 .3 36 36 0 0 1-5.5 2.6.2.2 0 0 0-.1.3 47 47 0 0 0 3.6 5.9.2.2 0 0 0 .2.1 58.5 58.5 0 0 0 17.8-9 .2.2 0 0 0 .1-.2C72 30.9 68.2 17 60.2 5a.2.2 0 0 0-.1-.1zM23.7 38.4c-3.5 0-6.4-3.2-6.4-7.2s2.8-7.2 6.4-7.2c3.6 0 6.5 3.3 6.4 7.2 0 4-2.8 7.2-6.4 7.2zm23.7 0c-3.5 0-6.4-3.2-6.4-7.2s2.8-7.2 6.4-7.2c3.6 0 6.5 3.3 6.4 7.2 0 4-2.8 7.2-6.4 7.2z"/></svg>
+            Join the discussion
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
+     VIEW 3: SESSION DETAIL
+══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-session">
+  <div class="session-layout">
+    <div class="back-link" onclick="showView('archive', null)">
+      ← Back to Archive
+    </div>
+
+    <div class="session-detail-header">
+      <div class="session-detail-date">Session 33 · Wednesday 26 March 2026</div>
+      <div class="session-detail-title">Prime Minister's Questions</div>
+      <div style="display:flex;gap:10px;align-items:center;margin-top:10px;flex-wrap:wrap;">
+        <span class="winner-tag starmer" style="font-size:12px;padding:4px 10px;">Starmer won</span>
+        <span style="font-size:13px;color:var(--muted);">1,247 votes · 54% Starmer, 31% Badenoch, 15% Draw</span>
+        <a href="#" style="font-size:12px;color:var(--green);text-decoration:none;margin-left:auto;">▶ Watch on YouTube →</a>
+      </div>
+    </div>
+
+    <!-- Voting card -->
+    <div class="vote-card" style="margin-bottom:24px;">
+      <div class="vote-question">Who won this session?</div>
+      <div class="vote-options">
+        <div class="vote-btn selected-blue" onclick="selectVote(this)">
+          <div class="vote-btn-name">Keir Starmer</div>
+          <div class="vote-btn-role">Prime Minister</div>
+          <div class="vote-bar-wrap">
+            <div class="vote-bar blue" style="width:54%"></div>
+          </div>
+          <div class="vote-pct-small" style="color:var(--blue);">54%</div>
+        </div>
+        <div class="vote-btn" onclick="selectVote(this)">
+          <div class="vote-btn-name">Kemi Badenoch</div>
+          <div class="vote-btn-role">Leader of the Opposition</div>
+          <div class="vote-bar-wrap">
+            <div class="vote-bar red" style="width:31%"></div>
+          </div>
+          <div class="vote-pct-small" style="color:var(--danger);">31%</div>
+        </div>
+        <div class="vote-btn" onclick="selectVote(this)">
+          <div class="vote-btn-name">Draw</div>
+          <div class="vote-btn-role">Too close to call</div>
+          <div class="vote-bar-wrap">
+            <div class="vote-bar gold" style="width:15%"></div>
+          </div>
+          <div class="vote-pct-small" style="color:var(--gold);">15%</div>
+        </div>
+      </div>
+      <div class="vote-total">1,247 votes cast · Voting closes in 6 days</div>
+    </div>
+
+    <div class="session-detail-grid">
+      <!-- Key moments -->
+      <div>
+        <div class="section-title">Key Moments</div>
+        <div class="moments-list">
+          <div class="moment-item">
+            <div class="moment-time">12:04 · Starmer</div>
+            <div class="moment-text">"The right honourable lady has had six months to come up with an economic plan and the best she can offer is the same tired slogans that lost them the election."</div>
+            <div><span class="moment-tag attack">Attack</span><span class="moment-attribution">vs Badenoch on economic policy</span></div>
+          </div>
+          <div class="moment-item">
+            <div class="moment-time">12:11 · Badenoch</div>
+            <div class="moment-text">"Will the Prime Minister confirm how many of his own MPs have told him privately that this government has completely lost the plot on cost of living?"</div>
+            <div><span class="moment-tag attack">Attack</span><span class="moment-attribution">Badenoch lands a hit on Starmer</span></div>
+          </div>
+          <div class="moment-item">
+            <div class="moment-time">12:18 · Starmer</div>
+            <div class="moment-text">"I'd take economic lectures from the opposition more seriously if they hadn't left us a £22 billion black hole."</div>
+            <div><span class="moment-tag quip">Quip</span><span class="moment-attribution">Crowd favourite · 341 upvotes</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phrases spotted -->
+      <div>
+        <div class="section-title">Phrases Spotted This Session</div>
+        <div class="phrases-spotted">
+          <div class="spotted-phrase"><span class="spotted-count">3</span>Cost of Living</div>
+          <div class="spotted-phrase"><span class="spotted-count">2</span>NHS Waiting Lists</div>
+          <div class="spotted-phrase"><span class="spotted-count">2</span>£22bn Black Hole</div>
+          <div class="spotted-phrase"><span class="spotted-count">1</span>Fixing the Mess</div>
+          <div class="spotted-phrase"><span class="spotted-count">1</span>Working People</div>
+          <div class="spotted-phrase"><span class="spotted-count">1</span>Protect the NHS</div>
+          <div class="spotted-phrase"><span class="spotted-count">1</span>Economic Growth</div>
+          <div class="spotted-phrase"><span class="spotted-count">1</span>Resign!</div>
+        </div>
+
+        <div style="margin-top:24px;">
+          <div class="section-title">Bingo Stats · This Session</div>
+          <div class="stat-row"><span>Players active</span><span class="stat-value">312</span></div>
+          <div class="stat-row"><span>Bingos called</span><span class="stat-value">47</span></div>
+          <div class="stat-row"><span>First bingo</span><span style="color:var(--gold);font-weight:700;">@pmqfan88 · 12:07</span></div>
+          <div class="stat-row"><span>Most spotted phrase</span><span style="color:var(--text);font-style:italic;font-size:12px;">"Cost of Living"</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="community-bar">
+      <div class="community-text">
+        <strong>Discussing this session on Discord</strong>
+        <span> · 84 comments · #pmq-march-26</span>
+      </div>
+      <button class="discord-btn">
+        <svg width="14" height="11" viewBox="0 0 71 55" fill="white"><path d="M60.1 4.9A58.5 58.5 0 0 0 45.6.4a.2.2 0 0 0-.2.1 40.6 40.6 0 0 0-1.8 3.7 54 54 0 0 0-16.3 0A37.9 37.9 0 0 0 25.5.5a.2.2 0 0 0-.2-.1 58.4 58.4 0 0 0-14.5 4.5.2.2 0 0 0-.1.1C1.6 19.1-1 33 .3 46.7a.2.2 0 0 0 .1.2 58.7 58.7 0 0 0 17.7 9 .2.2 0 0 0 .2-.1 42 42 0 0 0 3.6-5.9.2.2 0 0 0-.1-.3 38.7 38.7 0 0 1-5.5-2.6.2.2 0 0 1 0-.3l1.1-.9a.2.2 0 0 1 .2 0c11.5 5.3 24 5.3 35.4 0a.2.2 0 0 1 .2 0l1.1.9a.2.2 0 0 1 0 .3 36 36 0 0 1-5.5 2.6.2.2 0 0 0-.1.3 47 47 0 0 0 3.6 5.9.2.2 0 0 0 .2.1 58.5 58.5 0 0 0 17.8-9 .2.2 0 0 0 .1-.2C72 30.9 68.2 17 60.2 5a.2.2 0 0 0-.1-.1zM23.7 38.4c-3.5 0-6.4-3.2-6.4-7.2s2.8-7.2 6.4-7.2c3.6 0 6.5 3.3 6.4 7.2 0 4-2.8 7.2-6.4 7.2zm23.7 0c-3.5 0-6.4-3.2-6.4-7.2s2.8-7.2 6.4-7.2c3.6 0 6.5 3.3 6.4 7.2 0 4-2.8 7.2-6.4 7.2z"/></svg>
+        Join discussion
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="prototype-label">Prototype · Lo-fi</div>
+
+<script>
+  // Real phrases from phrase-bank
+  const phrases = [
+    { text: "14 Years of Failure", marked: false },
+    { text: "2 Child Cap", marked: true },
+    { text: "£22bn Black Hole", marked: false },
+    { text: "Resign!", marked: false },
+    { text: "Protect the NHS", marked: true },
+    { text: "Cost of Living", marked: true },
+    { text: "Fixing the Mess They Left", marked: false },
+    { text: "NHS Waiting Lists", marked: true },
+    { text: "Working People", marked: false },
+    { text: "Get On With the Job", marked: false },
+    { text: "Economic Growth", marked: false },
+    { text: "Hard-working Families", marked: true },
+    { text: "Broken Britain", marked: false },
+    { text: "Not the Time for Party Politics", marked: true },
+    { text: "Net Zero Targets", marked: false },
+    { text: "Record Investment", marked: false },
+    { text: "This Government's Record", marked: true },
+    { text: "Green Shoots", marked: false },
+    { text: "Chancellor's Plans", marked: true },
+    { text: "Mortgage Rates", marked: false },
+    { text: "Deliver for Britain", marked: false },
+    { text: "Northern Powerhouse", marked: false },
+    { text: "Smart Borders", marked: false },
+    { text: "£150 Off Energy Bills", marked: false },
+    { text: "Levelling Up", marked: false },
+  ];
+
+  const winningPositions = [0, 5, 10, 15, 20]; // left diagonal
+
+  function renderBingo() {
+    const grid = document.getElementById('bingo-grid');
+    grid.innerHTML = phrases.map((p, i) => {
+      const isWinning = winningPositions.includes(i) && p.marked;
+      const cls = isWinning ? 'cell winning' : p.marked ? 'cell marked' : 'cell';
+      return `<div class="${cls}" onclick="toggleCell(${i})">${p.text}</div>`;
+    }).join('');
+  }
+
+  function toggleCell(i) {
+    phrases[i].marked = !phrases[i].marked;
+    renderBingo();
+  }
+
+  // AI predictions
+  const predictions = [
+    { phrase: "Cost of Living", pct: 94 },
+    { phrase: "Working People", pct: 87 },
+    { phrase: "NHS Waiting Lists", pct: 81 },
+    { phrase: "Net Zero", pct: 74 },
+    { phrase: "Economic Growth", pct: 68 },
+    { phrase: "14 Years of Failure", pct: 55 },
+  ];
+
+  function renderPredictions() {
+    const el = document.getElementById('predictions');
+    el.innerHTML = predictions.map(p => `
+      <div class="prediction-item">
+        <span class="prediction-phrase">${p.phrase}</span>
+        <div class="prediction-bar-wrap">
+          <div class="prediction-bar" style="width:${p.pct}%"></div>
+        </div>
+        <span class="prediction-pct">${p.pct}%</span>
+      </div>
+    `).join('');
+  }
+
+  function showView(name, navEl) {
+    document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+    document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+    document.getElementById('view-' + name).classList.add('active');
+    if (navEl) navEl.classList.add('active');
+    window.scrollTo(0, 0);
+  }
+
+  function castVote(btn, color) {
+    btn.style.borderColor = color === 'blue' ? 'var(--blue)' : color === 'red' ? 'var(--danger)' : 'var(--gold)';
+    btn.style.background = color === 'blue' ? '#0d1e2d' : color === 'red' ? '#1f0d0d' : '#1f1a0d';
+  }
+
+  function selectVote(btn) {
+    document.querySelectorAll('#view-session .vote-btn').forEach(b => {
+      b.className = 'vote-btn';
+    });
+    btn.classList.add('selected-blue');
+  }
+
+  renderBingo();
+  renderPredictions();
+</script>
+</body>
+</html>
