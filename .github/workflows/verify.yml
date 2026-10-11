@@ -1,7 +1,10 @@
-name: CI
+name: Verify
 
 # Run the test suite and build on every PR and on pushes to master so that
-# "tests pass" is verified by CI, not self-reported.
+# "tests pass" is verified by CI, not self-reported. Named verify.yml because
+# jimbo-api's auto-merge gate requires that exact workflow to be green before
+# it merges an agent PR (jimbo-api src/services/auto-merge.ts, JIM-7038).
+# Keep the job name: branch protection requires the `test-and-build` check.
 on:
   pull_request:
   push:
@@ -34,6 +37,11 @@ jobs:
         # to watch mode in a TTY. --watch=false forces a single non-watch run so
         # the job terminates instead of hanging.
         run: npm test -- --watch=false
+        env:
+          # The countdown specs build dates in local time and expect London
+          # days; on the UTC runner 23:59 BST is already tomorrow. Red on
+          # master from June to 2026-10-11 for this alone.
+          TZ: Europe/London
 
       - name: Build
         run: npm run build
